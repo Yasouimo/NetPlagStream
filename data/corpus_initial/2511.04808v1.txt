@@ -1,0 +1,5 @@
+Title: Sharp Minima Can Generalize: A Loss Landscape Perspective On Data
+URL: http://arxiv.org/abs/2511.04808v1
+Published: 2025-11-06 21:01:48+00:00
+----------------------------------------
+The volume hypothesis suggests deep learning is effective because it is likely to find flat minima due to their large volumes, and flat minima generalize well. This picture does not explain the role of large datasets in generalization. Measuring minima volumes under varying amounts of training data reveals sharp minima which generalize well exist, but are unlikely to be found due to their small volumes. Increasing data changes the loss landscape, such that previously small generalizing minima become (relatively) large.

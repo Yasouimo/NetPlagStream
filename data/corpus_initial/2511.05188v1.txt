@@ -1,0 +1,5 @@
+Title: Systematic global structure search of bismuth-based binary systems under pressure using machine learning potentials
+URL: http://arxiv.org/abs/2511.05188v1
+Published: 2025-11-07 12:10:21+00:00
+----------------------------------------
+Machine learning potentials (MLPs) have significantly advanced global crystal structure prediction by enabling efficient and accurate property evaluations. In this study, global structure searches are performed for 11 bismuth-based binary systems, including Na-Bi, Ca-Bi, and Eu-Bi, under pressures ranging from 0 to 20 GPa, employing polynomial MLPs developed specifically for these systems. The searches reveal numerous compounds not previously reported in the literature and identify all experimentally known compounds that are representable within the explored configurational space. These results highlight the robustness and reliability of the current MLP-based structure search. The study provides valuable insights into the discovery and design of novel bismuth-based materials under both ambient and high-pressure conditions.

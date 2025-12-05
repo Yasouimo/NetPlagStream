@@ -1,0 +1,5 @@
+Title: Robust Offset-free Kernelized Data-Driven Predictive Control for Nonlinear Systems
+URL: http://arxiv.org/abs/2511.14652v1
+Published: 2025-11-18 16:46:38+00:00
+----------------------------------------
+This paper proposes a novel Kernelized Data-Driven Predictive Control (KDPC) scheme for robust, offset-free tracking of nonlinear systems. Our computationally efficient hybrid approach separates the prediction: (1) kernel ridge regression learns the nonlinear map from past trajectories, and (2) analytical linearization of the kernel map approximates the effect of future inputs. This linearization is key, allowing the controller to be formulated as a standard Quadratic Program (QP) for efficient real-time implementation. Offset-free tracking is inherently achieved by using input increments. We provide theoretical guarantees for recursive feasibility and asymptotic stability. The algorithm is validated on a nonlinear Van der Pol oscillator, where it successfully rejects unmeasured disturbances and eliminates steady-state errors, outperforming a standard model-based controller.

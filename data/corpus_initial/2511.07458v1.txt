@@ -1,0 +1,5 @@
+Title: REFLEX: Reference-Free Evaluation of Log Summarization via Large Language Model Judgment
+URL: http://arxiv.org/abs/2511.07458v1
+Published: 2025-11-06 23:52:36+00:00
+----------------------------------------
+Evaluating log summarization systems is challenging due to the lack of high-quality reference summaries and the limitations of existing metrics like ROUGE and BLEU, which depend on surface-level lexical overlap. We introduce REFLEX, a reference-free evaluation metric for log summarization based on large language model (LLM) judgment. REFLEX uses LLMs as zero-shot evaluators to assess summary quality along dimensions such as relevance, informativeness, and coherence, without requiring gold-standard references or human annotations. We show that REFLEX produces stable, interpretable, and fine-grained evaluations across multiple log summarization dataset, and more effectively distinguishes model outputs than traditional metrics. REFLEX provides a scalable alternative for evaluating log summaries in real-world settings where reference data is scarce or unavailable.

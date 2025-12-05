@@ -1,0 +1,5 @@
+Title: Reinforcement Learning Framework For Stochastic Optimal Control Problem Under Model Uncertainty
+URL: http://arxiv.org/abs/2511.06881v1
+Published: 2025-11-10 09:29:28+00:00
+----------------------------------------
+We develop a continuous-time entropy-regularized reinforcement learning framework under model uncertainty. By applying Sion's minimax theorem, we transform the intractable robust control problem into an equivalent standard entropy-regularized stochastic control problem, facilitating reinforcement learning algorithms. We establish sufficient conditions for the theorem's validity and demonstrate our approach on linear-quadratic problems with uncertain model parameters following Bernoulli and uniform distributions.

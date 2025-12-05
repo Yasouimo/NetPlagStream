@@ -1,0 +1,5 @@
+Title: Nonparametric Estimation of Joint Entropy through Partitioned Sample-Spacing Method
+URL: http://arxiv.org/abs/2511.13602v1
+Published: 2025-11-17 17:05:34+00:00
+----------------------------------------
+We propose a nonparametric estimator of multivariate joint entropy based on partitioned sample spacings (PSS). The method extends univariate spacing ideas to multivariate settings by partitioning the sample space into localized cells and aggregating within-cell statistics, with strong consistency guarantees under mild conditions. In benchmarks across diverse distributions, PSS consistently outperforms k-nearest neighbor estimators and achieves accuracy competitive with recent normalizing flow-based methods, while requiring no training or auxiliary density modeling. The estimator scales favorably in moderately high dimensions (d = 10 to 40) and shows particular robustness to correlated or skewed distributions. These properties position PSS as a practical alternative to normalizing flow-based approaches, with broad potential in information-theoretic machine learning applications.

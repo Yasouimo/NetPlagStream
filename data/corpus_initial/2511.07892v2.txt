@@ -1,0 +1,5 @@
+Title: A Generalized Spectral Framework to Expain Neural Scaling and Compression Dynamics
+URL: http://arxiv.org/abs/2511.07892v2
+Published: 2025-11-11 06:47:23+00:00
+----------------------------------------
+Empirical scaling laws describe how test loss and other performance metrics depend on model size, dataset size, and compute. While such laws are consistent within specific regimes, apparently distinct scaling behaviors have been reported for related settings such as model compression. Motivated by recent progress in spectral analyses of neural representations, this paper develops a \emph{generalized spectral framework} that unifies learning dynamics and compression phenomena under a common functional ansatz. We generalize the spectral evolution function from the linear kernel form $g(λt)=λt$ to an asymptotically polynomial function $g(λ,t;β)$, characterized by an effective spectral--temporal elasticity $ρ(β)$. This framework recovers existing lazy and feature-learning theories as special cases and yields an invariant relation between learning and compression

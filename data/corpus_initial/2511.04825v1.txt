@@ -1,0 +1,5 @@
+Title: Persistent reachability homology in machine learning applications
+URL: http://arxiv.org/abs/2511.04825v1
+Published: 2025-11-06 21:26:52+00:00
+----------------------------------------
+We explore the recently introduced persistent reachability homology (PRH) of digraph data, i.e. data in the form of directed graphs. In particular, we study the effectiveness of PRH in network classification task in a key neuroscience problem: epilepsy detection. PRH is a variation of the persistent homology of digraphs, more traditionally based on the directed flag complex (DPH). A main advantage of PRH is that it considers the condensations of the digraphs appearing in the persistent filtration and thus is computed from smaller digraphs. We compare the effectiveness of PRH to that of DPH and we show that PRH outperforms DPH in the classification task. We use the Betti curves and their integrals as topological features and implement our pipeline on support vector machine.

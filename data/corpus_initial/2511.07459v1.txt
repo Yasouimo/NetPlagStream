@@ -1,0 +1,5 @@
+Title: Optimizing Classification of Infrequent Labels by Reducing Variability in Label Distribution
+URL: http://arxiv.org/abs/2511.07459v1
+Published: 2025-11-07 01:48:29+00:00
+----------------------------------------
+This paper presents a novel solution, LEVER, designed to address the challenges posed by underperforming infrequent categories in Extreme Classification (XC) tasks. Infrequent categories, often characterized by sparse samples, suffer from high label inconsistency, which undermines classification performance. LEVER mitigates this problem by adopting a robust Siamese-style architecture, leveraging knowledge transfer to reduce label inconsistency and enhance the performance of One-vs-All classifiers. Comprehensive testing across multiple XC datasets reveals substantial improvements in the handling of infrequent categories, setting a new benchmark for the field. Additionally, the paper introduces two newly created multi-intent datasets, offering essential resources for future XC research.

@@ -1,0 +1,5 @@
+Title: Empirical Likelihood for Random Forests and Ensembles
+URL: http://arxiv.org/abs/2511.13934v1
+Published: 2025-11-17 21:38:43+00:00
+----------------------------------------
+We develop an empirical likelihood (EL) framework for random forests and related ensemble methods, providing a likelihood-based approach to quantify their statistical uncertainty. Exploiting the incomplete $U$-statistic structure inherent in ensemble predictions, we construct an EL statistic that is asymptotically chi-squared when subsampling induced by incompleteness is not overly sparse. Under sparser subsampling regimes, the EL statistic tends to over-cover due to loss of pivotality; we therefore propose a modified EL that restores pivotality through a simple adjustment. Our method retains key properties of EL while remaining computationally efficient. Theory for honest random forests and simulations demonstrate that modified EL achieves accurate coverage and practical reliability relative to existing inference methods.

@@ -1,0 +1,5 @@
+Title: Learning CNF formulas from uniform random solutions in the local lemma regime
+URL: http://arxiv.org/abs/2511.02487v1
+Published: 2025-11-04 11:22:05+00:00
+----------------------------------------
+We study the problem of learning a $n$-variables $k$-CNF formula $Φ$ from its i.i.d. uniform random solutions, which is equivalent to learning a Boolean Markov random field (MRF) with $k$-wise hard constraints. Revisiting Valiant's algorithm (Commun. ACM'84), we show that it can exactly learn (1) $k$-CNFs with bounded clause intersection size under Lovász local lemma type conditions, from $O(\log n)$ samples; and (2) random $k$-CNFs near the satisfiability threshold, from $\widetilde{O}(n^{\exp(-\sqrt{k})})$ samples. These results significantly improve the previous $O(n^k)$ sample complexity. We further establish new information-theoretic lower bounds on sample complexity for both exact and approximate learning from i.i.d. uniform random solutions.

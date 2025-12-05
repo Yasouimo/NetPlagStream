@@ -1,0 +1,5 @@
+Title: Effective Field Theories for Neutron Stars Physics
+URL: http://arxiv.org/abs/2511.04737v1
+Published: 2025-11-06 19:00:01+00:00
+----------------------------------------
+There is an increasing interest in the community for the Neutron Stars and what we can learn from them. In this review we show how chiral effective field theory, combined with many-body methods, can provide important results that connect Neutron Star properties at zero temperature to nuclear physics and allows to use these compact objects as laboratories of new physics.

@@ -1,0 +1,5 @@
+Title: Instrumental variables system identification with $L^p$ consistency
+URL: http://arxiv.org/abs/2511.09024v1
+Published: 2025-11-12 06:21:49+00:00
+----------------------------------------
+Instrumental variables (eliminate the bias that afflicts least-squares identification of dynamical systems through noisy data, yet traditionally relies on external instruments that are seldom available for nonlinear time series data. We propose an IV estimator that synthesizes instruments from the data. We establish finite-sample $L^{p}$ consistency for all $p \ge 1$ in both discrete- and continuous-time models, recovering a nonparametric $\sqrt{n}$-convergence rate. On a forced Lorenz system our estimator reduces parameter bias by 200x (continuous-time) and 500x (discrete-time) relative to least squares and reduces RMSE by up to tenfold. Because the method only assumes that the model is linear in the unknown parameters, it is broadly applicable to modern sparsity-promoting dynamics learning models.

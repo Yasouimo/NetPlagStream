@@ -1,0 +1,5 @@
+Title: Private Sketches for Linear Regression
+URL: http://arxiv.org/abs/2511.07365v1
+Published: 2025-11-10 18:22:40+00:00
+----------------------------------------
+Linear regression is frequently applied in a variety of domains. In order to improve the efficiency of these methods, various methods have been developed that compute summaries or \emph{sketches} of the datasets. Certain domains, however, contain sensitive data which necessitates that the application of these statistical methods does not reveal private information. Differentially private (DP) linear regression methods have been developed for mitigating this problem. These techniques typically involve estimating a noisy version of the parameter vector. Instead, we propose releasing private sketches of the datasets. We present differentially private sketches for the problems of least squares regression, as well as least absolute deviations regression. The availability of these private sketches facilitates the application of commonly available solvers for regression, without the risk of privacy leakage.

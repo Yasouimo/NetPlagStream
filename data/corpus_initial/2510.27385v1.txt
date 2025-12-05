@@ -1,0 +1,5 @@
+Title: On the Equivalence of Optimal Transport Problem and Action Matching with Optimal Vector Fields
+URL: http://arxiv.org/abs/2510.27385v1
+Published: 2025-10-31 11:22:24+00:00
+----------------------------------------
+Flow Matching (FM) method in generative modeling maps arbitrary probability distributions by constructing an interpolation between them and then learning the vector field that defines ODE for this interpolation. Recently, it was shown that FM can be modified to map distributions optimally in terms of the quadratic cost function for any initial interpolation. To achieve this, only specific optimal vector fields, which are typical for solutions of Optimal Transport (OT) problems, need to be considered during FM loss minimization. In this note, we show that considering only optimal vector fields can lead to OT in another approach: Action Matching (AM). Unlike FM, which learns a vector field for a manually chosen interpolation between given distributions, AM learns the vector field that defines ODE for an entire given sequence of distributions.

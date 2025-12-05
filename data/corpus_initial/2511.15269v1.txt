@@ -1,0 +1,5 @@
+Title: jaxFMM: An Adaptive, GPU-Parallel Implementation of the Fast Multipole Method in JAX
+URL: http://arxiv.org/abs/2511.15269v1
+Published: 2025-11-19 09:34:01+00:00
+----------------------------------------
+We introduce jaxFMM, an open-source, adaptive, highly parallel point-charge Fast Multipole Method implementation for the Laplace kernel written in JAX. It is based on a non-uniform refinement strategy, which results in extremely concise and simple code. Benchmarks show that the algorithm performs well even for highly non-uniform charge distributions. JaxFMM already massively speeds up stray-field computations in micromagnetics and with JAX features like autodiff, novel applications such as inverse-design problems and machine-learning tasks can be tackled with ease in the future.

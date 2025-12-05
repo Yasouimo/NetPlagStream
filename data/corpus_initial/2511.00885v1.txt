@@ -1,0 +1,5 @@
+Title: SpEx: A Spectral Approach to Explainable Clustering
+URL: http://arxiv.org/abs/2511.00885v1
+Published: 2025-11-02 10:49:00+00:00
+----------------------------------------
+Explainable clustering by axis-aligned decision trees was introduced by Moshkovitz et al. (2020) and has gained considerable interest. Prior work has focused on minimizing the price of explainability for specific clustering objectives, lacking a general method to fit an explanation tree to any given clustering, without restrictions. In this work, we propose a new and generic approach to explainable clustering, based on spectral graph partitioning. With it, we design an explainable clustering algorithm that can fit an explanation tree to any given non-explainable clustering, or directly to the dataset itself. Moreover, we show that prior algorithms can also be interpreted as graph partitioning, through a generalized framework due to Trevisan (2013) wherein cuts are optimized in two graphs simultaneously. Our experiments show the favorable performance of our method compared to baselines on a range of datasets.

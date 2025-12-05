@@ -1,0 +1,5 @@
+Title: Large language models in materials science and the need for open-source approaches
+URL: http://arxiv.org/abs/2511.10673v1
+Published: 2025-11-10 00:05:20+00:00
+----------------------------------------
+Large language models (LLMs) are rapidly transforming materials science. This review examines recent LLM applications across the materials discovery pipeline, focusing on three key areas: mining scientific literature , predictive modelling, and multi-agent experimental systems. We highlight how LLMs extract valuable information such as synthesis conditions from text, learn structure-property relationships, and can coordinate agentic systems integrating computational tools and laboratory automation. While progress has been largely dependent on closed-source commercial models, our benchmark results demonstrate that open-source alternatives can match performance while offering greater transparency, reproducibility, cost-effectiveness, and data privacy. As open-source models continue to improve, we advocate their broader adoption to build accessible, flexible, and community-driven AI platforms for scientific discovery.

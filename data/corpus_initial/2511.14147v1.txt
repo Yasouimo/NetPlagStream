@@ -1,0 +1,5 @@
+Title: Imaging with super-resolution in changing random media
+URL: http://arxiv.org/abs/2511.14147v1
+Published: 2025-11-18 05:18:00+00:00
+----------------------------------------
+We develop an imaging algorithm that exploits strong scattering to achieve super-resolution in changing random media. The method processes large and diverse array datasets using sparse dictionary learning, clustering, and multidimensional scaling. Starting from random initializations, the algorithm reliably extracts the unknown medium properties necessary for accurate imaging using back-propagation, $\ell_2$ or $\ell_1$ methods. Remarkably, scattering enhances resolution beyond homogeneous medium limits. When abundant data are available, the algorithm allows the realization of super-resolution in imaging.

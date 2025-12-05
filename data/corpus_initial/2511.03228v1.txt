@@ -1,0 +1,5 @@
+Title: Beyond Ranked Lists: The SARAL Framework for Cross-Lingual Document Set Retrieval
+URL: http://arxiv.org/abs/2511.03228v1
+Published: 2025-11-05 06:35:33+00:00
+----------------------------------------
+Machine Translation for English Retrieval of Information in Any Language (MATERIAL) is an IARPA initiative targeted to advance the state of cross-lingual information retrieval (CLIR). This report provides a detailed description of Information Sciences Institute's (ISI's) Summarization and domain-Adaptive Retrieval Across Language's (SARAL's) effort for MATERIAL. Specifically, we outline our team's novel approach to handle CLIR with emphasis in developing an approach amenable to retrieve a query-relevant document \textit{set}, and not just a ranked document-list. In MATERIAL's Phase-3 evaluations, SARAL exceeded the performance of other teams in five out of six evaluation conditions spanning three different languages (Farsi, Kazakh, and Georgian).

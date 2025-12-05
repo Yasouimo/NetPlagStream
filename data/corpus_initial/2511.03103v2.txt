@@ -1,0 +1,5 @@
+Title: Adaptive Detection of Software Aging under Workload Shift
+URL: http://arxiv.org/abs/2511.03103v2
+Published: 2025-11-05 01:19:55+00:00
+----------------------------------------
+Software aging is a phenomenon that affects long-running systems, leading to progressive performance degradation and increasing the risk of failures. To mitigate this problem, this work proposes an adaptive approach based on machine learning for software aging detection in environments subject to dynamic workload conditions. We evaluate and compare a static model with adaptive models that incorporate adaptive detectors, specifically the Drift Detection Method (DDM) and Adaptive Windowing (ADWIN), originally developed for concept drift scenarios and applied in this work to handle workload shifts. Experiments with simulated sudden, gradual, and recurring workload transitions show that static models suffer a notable performance drop when applied to unseen workload profiles, whereas the adaptive model with ADWIN maintains high accuracy, achieving an F1-Score above 0.93 in all analyzed scenarios.

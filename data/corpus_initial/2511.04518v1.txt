@@ -1,0 +1,5 @@
+Title: Comparing EPGP Surrogates and Finite Elements Under Degree-of-Freedom Parity
+URL: http://arxiv.org/abs/2511.04518v1
+Published: 2025-11-06 16:33:17+00:00
+----------------------------------------
+We present a new benchmarking study comparing a boundary-constrained Ehrenpreis--Palamodov Gaussian Process (B-EPGP) surrogate with a classical finite element method combined with Crank--Nicolson time stepping (CN-FEM) for solving the two-dimensional wave equation with homogeneous Dirichlet boundary conditions. The B-EPGP construction leverages exponential-polynomial bases derived from the characteristic variety to enforce the PDE and boundary conditions exactly and employs penalized least squares to estimate the coefficients. To ensure fairness across paradigms, we introduce a degrees-of-freedom (DoF) matching protocol. Under matched DoF, B-EPGP consistently attains lower space-time $L^2$-error and maximum-in-time $L^{2}$-error in space than CN-FEM, improving accuracy by roughly two orders of magnitude.

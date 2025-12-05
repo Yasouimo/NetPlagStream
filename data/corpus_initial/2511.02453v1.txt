@@ -1,0 +1,5 @@
+Title: Accounting for Underspecification in Statistical Claims of Model Superiority
+URL: http://arxiv.org/abs/2511.02453v1
+Published: 2025-11-04 10:31:34+00:00
+----------------------------------------
+Machine learning methods are increasingly applied in medical imaging, yet many reported improvements lack statistical robustness: recent works have highlighted that small but significant performance gains are highly likely to be false positives. However, these analyses do not take \emph{underspecification} into account -- the fact that models achieving similar validation scores may behave differently on unseen data due to random initialization or training dynamics. Here, we extend a recent statistical framework modeling false outperformance claims to include underspecification as an additional variance component. Our simulations demonstrate that even modest seed variability ($\sim1\%$) substantially increases the evidence required to support superiority claims. Our findings underscore the need for explicit modeling of training variance when validating medical imaging systems.

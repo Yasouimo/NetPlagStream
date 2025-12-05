@@ -1,0 +1,31 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy requirements first for better caching
+COPY requirements.txt .
+
+# Install Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy application files
+COPY config/ ./config/
+COPY scripts/7_dashboard.py ./scripts/
+COPY templates/ ./templates/
+
+# Expose dashboard port
+EXPOSE 5000
+
+# Set environment variables
+ENV IN_DOCKER=true
+ENV FLASK_APP=scripts/7_dashboard.py
+ENV FLASK_ENV=production
+
+# Run the dashboard
+CMD ["python", "scripts/7_dashboard.py"]
+

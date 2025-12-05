@@ -1,0 +1,5 @@
+Title: Delegate Pricing Decisions to an Algorithm? Experimental Evidence
+URL: http://arxiv.org/abs/2510.27636v1
+Published: 2025-10-31 17:07:29+00:00
+----------------------------------------
+We analyze the delegation of pricing by participants, representing firms, to a collusive, self-learning algorithm in a repeated Bertrand experiment. In the baseline treatment, participants set prices themselves. In the other treatments, participants can either delegate pricing to the algorithm at the beginning of each supergame or receive algorithmic recommendations that they can override. Participants delegate more when they can override the algorithm's decisions. In both algorithmic treatments, prices are lower than in the baseline. Our results indicate that while self-learning pricing algorithms can be collusive, they can foster competition rather than collusion with humans-in-the-loop.

@@ -1,0 +1,5 @@
+Title: A Non-Uniform Quantization Framework for Time-Encoding Machines
+URL: http://arxiv.org/abs/2511.02728v1
+Published: 2025-11-04 16:53:53+00:00
+----------------------------------------
+Time encoding machines (TEMs) provide an event-driven alternative to classical uniform sampling, enabling power-efficient representations without a global clock. While prior work analyzed uniform quantization (UQ) of firing intervals, we show that these intervals are inherently non-uniformly distributed, motivating the use of non-uniform quantization (NUQ). We derive the probability distribution of firing intervals for a class of bandlimited signals and design a power-law-based NUQ scheme tailored to this distribution. Simulations demonstrate that NUQ significantly outperforms UQ under the same bit budget. We also compare TEMs with non-uniform sampling (NUS), where both amplitudes and timings require quantization, and show that TEM--NUQ achieves lower error at half the transmission cost. These results highlight the advantages of distribution-aware quantization and establish TEM--NUQ as an efficient alternative to conventional UQ and NUS schemes.

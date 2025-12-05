@@ -1,0 +1,5 @@
+Title: Robust Least-Squares Optimization for Data-Driven Predictive Control: A Geometric Approach
+URL: http://arxiv.org/abs/2511.09242v1
+Published: 2025-11-12 12:02:14+00:00
+----------------------------------------
+The paper studies a geometrically robust least-squares problem that extends classical and norm-based robust formulations. Rather than minimizing residual error for fixed or perturbed data, we interpret least-squares as enforcing approximate subspace inclusion between measured and true data spaces. The uncertainty in this geometric relation is modeled as a metric ball on the Grassmannian manifold, leading to a min-max problem over Euclidean and manifold variables. The inner maximization admits a closed-form solution, enabling an efficient algorithm with a transparent geometric interpretation. Applied to robust finite-horizon linear-quadratic tracking in data-enabled predictive control, the method improves upon existing robust least-squares formulations, achieving stronger robustness and favorable scaling under small uncertainty.

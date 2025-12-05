@@ -1,0 +1,5 @@
+Title: Proximal Approximate Inference in State-Space Models
+URL: http://arxiv.org/abs/2511.15409v1
+Published: 2025-11-19 13:06:08+00:00
+----------------------------------------
+We present a class of algorithms for state estimation in nonlinear, non-Gaussian state-space models. Our approach is based on a variational Lagrangian formulation that casts Bayesian inference as a sequence of entropic trust-region updates subject to dynamic constraints. This framework gives rise to a family of forward-backward algorithms, whose structure is determined by the chosen factorization of the variational posterior. By focusing on Gauss--Markov approximations, we derive recursive schemes with favorable computational complexity. For general nonlinear, non-Gaussian models we close the recursions using generalized statistical linear regression and Fourier--Hermite moment matching.

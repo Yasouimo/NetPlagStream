@@ -1,0 +1,5 @@
+Title: Generalizing PDE Emulation with Equation-Aware Neural Operators
+URL: http://arxiv.org/abs/2511.09729v1
+Published: 2025-11-12 20:40:05+00:00
+----------------------------------------
+Solving partial differential equations (PDEs) can be prohibitively expensive using traditional numerical methods. Deep learning-based surrogate models typically specialize in a single PDE with fixed parameters. We present a framework for equation-aware emulation that generalizes to unseen PDEs, conditioning a neural model on a vector encoding representing the terms in a PDE and their coefficients. We present a baseline of four distinct modeling technqiues, trained on a family of 1D PDEs from the APEBench suite. Our approach achieves strong performance on parameter sets held out from the training distribution, with strong stability for rollout beyond the training window, and generalization to an entirely unseen PDE. This work was developed as part of a broader effort exploring AI systems that automate the creation of expert-level empirical software for scorable scientific tasks. The data and codebase are available at https://github.com/google-research/generalized-pde-emulator.

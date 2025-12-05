@@ -1,0 +1,5 @@
+Title: Automated Estimation of Anatomical Risk Metrics for Endoscopic Sinus Surgery Using Deep Learning
+URL: http://arxiv.org/abs/2511.07199v1
+Published: 2025-11-10 15:28:02+00:00
+----------------------------------------
+Endoscopic sinus surgery requires careful preoperative assessment of the skull base anatomy to minimize risks such as cerebrospinal fluid leakage. Anatomical risk scores like the Keros, Gera and Thailand-Malaysia-Singapore score offer a standardized approach but require time-consuming manual measurements on coronal CT or CBCT scans. We propose an automated deep learning pipeline that estimates these risk scores by localizing key anatomical landmarks via heatmap regression. We compare a direct approach to a specialized global-to-local learning strategy and find mean absolute errors on the relevant anatomical measurements of 0.506mm for the Keros, 4.516° for the Gera and 0.802mm / 0.777mm for the TMS classification.

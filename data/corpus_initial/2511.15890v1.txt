@@ -1,0 +1,5 @@
+Title: Ten years of extreme gravity tests of general theory of relativity with gravitational-wave observations
+URL: http://arxiv.org/abs/2511.15890v1
+Published: 2025-11-19 21:33:33+00:00
+----------------------------------------
+Ten years ago, the first direct detection of gravitational waves (GWs) from the merger of two black holes, GW150914, provided the very first opportunity to test Einstein's general theory of relativity (GR) in the extreme gravity regime, where the gravitational field is strong, characteristic speeds are highly relativistic, and spacetime is dynamical. Such a regime is currently accessible only through coalescing compact binaries. In this review, we summarize the status of testing GR with GW observations and discuss the lessons learned. We also touch upon the challenges we currently have in testing GR and the potential path forward to detect a credible violation of GR, should one exist in the data.

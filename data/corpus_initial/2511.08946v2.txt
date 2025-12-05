@@ -1,0 +1,5 @@
+Title: Improving Conditional VAE with approximation using Normalizing Flows
+URL: http://arxiv.org/abs/2511.08946v2
+Published: 2025-11-12 03:46:00+00:00
+----------------------------------------
+Variational Autoencoders and Generative Adversarial Networks remained the state-of-the-art (SOTA) generative models until 2022. Now they are superseded by diffusion based models. Efforts to improve traditional models have stagnated as a result. In old-school fashion, we explore image generation with conditional Variational Autoencoders (CVAE) to incorporate desired attributes within the images. VAEs are known to produce blurry images with less diversity, we refer a method that solve this issue by leveraging the variance of the gaussian decoder as a learnable parameter during training. Previous works on CVAEs assumed that the conditional distribution of the latent space given the labels is equal to the prior distribution, which is not the case in reality. We show that estimating it using normalizing flows results in better image generation than existing methods by reducing the FID by 5% and increasing log likelihood by 7.7% than the previous case.

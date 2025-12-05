@@ -1,0 +1,5 @@
+Title: Unified Generative Latent Representation for Functional Brain Graphs
+URL: http://arxiv.org/abs/2511.04539v1
+Published: 2025-11-06 16:52:49+00:00
+----------------------------------------
+Functional brain graphs are often characterized with separate graph-theoretic or spectral descriptors, overlooking how these properties covary and partially overlap across brains and conditions. We anticipate that dense, weighted functional connectivity graphs occupy a low-dimensional latent geometry along which both topological and spectral structures display graded variations. Here, we estimated this unified graph representation and enabled generation of dense functional brain graphs through a graph transformer autoencoder with latent diffusion, with spectral geometry providing an inductive bias to guide learning. This geometry-aware latent representation, although unsupervised, meaningfully separated working-memory states and decoded visual stimuli, with performance further enhanced by incorporating neural dynamics. From the diffusion modeled distribution, we were able to sample biologically plausible and structurally grounded synthetic dense graphs.

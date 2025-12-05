@@ -1,0 +1,5 @@
+Title: Prototype Selection Using Topological Data Analysis
+URL: http://arxiv.org/abs/2511.04873v1
+Published: 2025-11-06 23:21:43+00:00
+----------------------------------------
+Recently, there has been an explosion in statistical learning literature to represent data using topological principles to capture structure and relationships. We propose a topological data analysis (TDA)-based framework, named Topological Prototype Selector (TPS), for selecting representative subsets (prototypes) from large datasets. We demonstrate the effectiveness of TPS on simulated data under different data intrinsic characteristics, and compare TPS against other currently used prototype selection methods in real data settings. In all simulated and real data settings, TPS significantly preserves or improves classification performance while substantially reducing data size. These contributions advance both algorithmic and geometric aspects of prototype learning and offer practical tools for parallelized, interpretable, and efficient classification.

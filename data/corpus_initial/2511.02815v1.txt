@@ -1,0 +1,5 @@
+Title: Assessing win strength in MLB win prediction models
+URL: http://arxiv.org/abs/2511.02815v1
+Published: 2025-11-04 18:40:10+00:00
+----------------------------------------
+In Major League Baseball, strategy and planning are major factors in determining the outcome of a game. Previous studies have aided this by building machine learning models for predicting the winning team of any given game. We extend this work by training a comprehensive set of machine learning models using a common dataset. In addition, we relate the win probabilities produced by these models to win strength as measured by score differential. In doing so we show that the most common machine learning models do indeed demonstrate a relationship between predicted win probability and the strength of the win. Finally, we analyze the results of using predicted win probabilities as a decision making mechanism on run-line betting. We demonstrate positive returns when utilizing appropriate betting strategies, and show that naive use of machine learning models for betting lead to significant loses.

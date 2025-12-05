@@ -1,0 +1,5 @@
+Title: Formal Verification of a Generic Algorithm for TDM Communication Over Inter Satellite Links
+URL: http://arxiv.org/abs/2511.09485v1
+Published: 2025-11-12 16:57:46+00:00
+----------------------------------------
+The Python Testbed for Federated Learning Algorithms is a simple FL framework targeting edge systems, which provides the three generic algorithms: the centralized federated learning, the decentralized federated learning, and the universal TDM communication in the current time slot. The first two were formally verified in a previous paper using the CSP process algebra, and in this paper, we use the same approach to formally verify the third one, in two phases. In the first phase, we construct the CSP model as a faithful representation of the real Python code. In the second phase, the model checker PAT automatically proves correctness of the third generic algorithm by proving its deadlock freeness (safety property) and successful termination (liveness property).

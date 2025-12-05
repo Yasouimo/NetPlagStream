@@ -1,0 +1,5 @@
+Title: Singular Learning Theory for Factor Analysis
+URL: http://arxiv.org/abs/2511.15419v1
+Published: 2025-11-19 13:18:29+00:00
+----------------------------------------
+Watanabe's singular learning theory provides a framework for asymptotic analysis of Bayesian model selection for statistical models with singularities, where traditional statistical regularity assumptions fail. Learning coefficients, also known as real log canonical thresholds, play a central role in singular learning, as they govern the asymptotic behavior of Bayesian marginal likelihood integrals in settings where the Laplace approximations used for regular statistical models are not applicable. Learning coefficients are algebraic invariants that quantify the geometric complexity of a model and reveal how the singular structure impacts the model's generalization properties. In this paper, we apply algebraic methods to study the learning coefficients of factor analysis models, which are widely used latent variable models for continuously distributed data. Our main results provide a general upper bound for the learning coefficients as well as exact formulas for specific cases.

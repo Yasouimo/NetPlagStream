@@ -1,0 +1,5 @@
+Title: Classification of motor faults based on transmission coefficient and reflection coefficient of omni-directional antenna using DCNN
+URL: http://arxiv.org/abs/2511.01371v1
+Published: 2025-11-03 09:14:13+00:00
+----------------------------------------
+The most commonly used electrical rotary machines in the field are induction machines. In this paper, we propose an antenna based approach for the classification of motor faults in induction motors using the reflection coefficient S11 and the transmission coefficient S21 of the antenna. The spectrograms of S11 and S21 are seen to possess unique signatures for various fault conditions that are used for the classification. To learn the required characteristics and classification boundaries, deep convolution neural network (DCNN) is applied to the spectrogram of the S-parameter. DCNN has been found to reach classification accuracy 93% using S11, 98.1% using S21 and 100% using both S11 and S21. The effect of antenna operating frequency, its location and duration of signal on the classification accuracy is also presented and discussed.

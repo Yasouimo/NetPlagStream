@@ -1,0 +1,5 @@
+Title: Functional Mean Flow in Hilbert Space
+URL: http://arxiv.org/abs/2511.12898v1
+Published: 2025-11-17 02:38:28+00:00
+----------------------------------------
+We present Functional Mean Flow (FMF) as a one-step generative model defined in infinite-dimensional Hilbert space. FMF extends the one-step Mean Flow framework to functional domains by providing a theoretical formulation for Functional Flow Matching and a practical implementation for efficient training and sampling. We also introduce an $x_1$-prediction variant that improves stability over the original $u$-prediction form. The resulting framework is a practical one-step Flow Matching method applicable to a wide range of functional data generation tasks such as time series, images, PDEs, and 3D geometry.

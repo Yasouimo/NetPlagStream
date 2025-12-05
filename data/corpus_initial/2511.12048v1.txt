@@ -1,0 +1,5 @@
+Title: DeiTFake: Deepfake Detection Model using DeiT Multi-Stage Training
+URL: http://arxiv.org/abs/2511.12048v1
+Published: 2025-11-15 05:55:09+00:00
+----------------------------------------
+Deepfakes are major threats to the integrity of digital media. We propose DeiTFake, a DeiT-based transformer and a novel two-stage progressive training strategy with increasing augmentation complexity. The approach applies an initial transfer-learning phase with standard augmentations followed by a fine-tuning phase using advanced affine and deepfake-specific augmentations. DeiT's knowledge distillation model captures subtle manipulation artifacts, increasing robustness of the detection model. Trained on the OpenForensics dataset (190,335 images), DeiTFake achieves 98.71\% accuracy after stage one and 99.22\% accuracy with an AUROC of 0.9997, after stage two, outperforming the latest OpenForensics baselines. We analyze augmentation impact and training schedules, and provide practical benchmarks for facial deepfake detection.

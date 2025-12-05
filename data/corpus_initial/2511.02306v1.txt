@@ -1,0 +1,5 @@
+Title: A Stable Lasso
+URL: http://arxiv.org/abs/2511.02306v1
+Published: 2025-11-04 06:41:47+00:00
+----------------------------------------
+The Lasso has been widely used as a method for variable selection, valued for its simplicity and empirical performance. However, Lasso's selection stability deteriorates in the presence of correlated predictors. Several approaches have been developed to mitigate this limitation. In this paper, we provide a brief review of existing approaches, highlighting their limitations. We then propose a simple technique to improve the selection stability of Lasso by integrating a weighting scheme into the Lasso penalty function, where the weights are defined as an increasing function of a correlation-adjusted ranking that reflects the predictive power of predictors. Empirical evaluations on both simulated and real-world datasets demonstrate the efficacy of the proposed method. Additional numerical results demonstrate the effectiveness of the proposed approach in stabilizing other regularization-based selection methods, indicating its potential as a general-purpose solution.

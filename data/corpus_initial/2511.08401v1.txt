@@ -1,0 +1,5 @@
+Title: Source-Optimal Training is Transfer-Suboptimal
+URL: http://arxiv.org/abs/2511.08401v1
+Published: 2025-11-11 16:16:10+00:00
+----------------------------------------
+We prove a fundamental misalignment in transfer learning: the source regularization that minimizes source risk almost never coincides with the regularization maximizing transfer benefit. Through sharp phase boundaries for L2-SP ridge regression, we characterize the transfer-optimal source penalty $τ_0^*$ and show it diverges predictably from task-optimal values, requiring stronger regularization in high-SNR regimes and weaker regularization in low-SNR regimes. Additionally, in isotropic settings the decision to transfer is remarkably independent of target sample size and noise, depending only on task alignment and source characteristics. CIFAR-10 and MNIST experiments confirm this counterintuitive pattern persists in non-linear networks.

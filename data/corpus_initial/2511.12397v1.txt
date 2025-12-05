@@ -1,0 +1,5 @@
+Title: Stochastic Predictive Analytics for Stocks in the Newsvendor Problem
+URL: http://arxiv.org/abs/2511.12397v1
+Published: 2025-11-16 00:19:49+00:00
+----------------------------------------
+This work addresses a key challenge in inventory management by developing a stochastic model that describes the dynamic distribution of inventory stock over time without assuming a specific demand distribution. Our model provides a flexible and applicable solution for situations with limited historical data and short-term predictions, making it well-suited for the Newsvendor problem. We evaluate our model's performance using real-world data from a large electronic marketplace, demonstrating its effectiveness in a practical forecasting scenario.

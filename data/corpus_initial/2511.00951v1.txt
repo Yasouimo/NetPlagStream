@@ -1,0 +1,5 @@
+Title: Design, Assessment, and Application of Machine Learning Potential Energy Surfaces
+URL: http://arxiv.org/abs/2511.00951v1
+Published: 2025-11-02 14:25:00+00:00
+----------------------------------------
+Potential Energy Surfaces (PESs) are an indispensable tool to investigate, characterise and understand chemical and biological systems in the gas and condensed phases. Advances in Machine Learning (ML) methodologies have led to the development of Machine Learned Potential Energy Surfaces (ML-PES) which are now widely used to simulate such systems. The present work provides an overview of concepts, methodologies and recommendations for constructing and using ML-PESs. The choice of topics is focused on practical and recurrent issues to conceive and use such model. Application of the principles discussed are illustrated through two different systems of biomolecular importance: the non-reactive dynamics of the Alanine-Lysine-Alanine tripeptide in gas and solution phases, and double proton transfer reactions in DNA base pairs.

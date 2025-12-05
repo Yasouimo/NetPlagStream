@@ -1,0 +1,5 @@
+Title: Position-Prior-Guided Network for System Matrix Super-Resolution in Magnetic Particle Imaging
+URL: http://arxiv.org/abs/2511.05795v1
+Published: 2025-11-08 01:53:51+00:00
+----------------------------------------
+Magnetic Particle Imaging (MPI) is a novel medical imaging modality. One of the established methods for MPI reconstruction is based on the System Matrix (SM). However, the calibration of the SM is often time-consuming and requires repeated measurements whenever the system parameters change. Current methodologies utilize deep learning-based super-resolution (SR) techniques to expedite SM calibration; nevertheless, these strategies do not fully exploit physical prior knowledge associated with the SM, such as symmetric positional priors. Consequently, we integrated positional priors into existing frameworks for SM calibration. Underpinned by theoretical justification, we empirically validated the efficacy of incorporating positional priors through experiments involving both 2D and 3D SM SR methods.

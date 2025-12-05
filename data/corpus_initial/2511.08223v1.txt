@@ -1,0 +1,5 @@
+Title: A Fast and Accurate Approach for Covariance Matrix Construction
+URL: http://arxiv.org/abs/2511.08223v1
+Published: 2025-11-11 13:27:05+00:00
+----------------------------------------
+Reichel (2025) defined the Bariance as $\mathrm{Bariance}(x)=\frac{1}{n(n-1)}\sum_{i<j}(x_i-x_j)^2$, which admits an $O(n)$ reformulation using scalar sums. We extend this to the covariance matrix by showing that $\mathrm{Cov}(X)=\frac{1}{n-1}\!\left(X^\top X-\frac{1}{n}\,s\,s^\top\right)$ with $s=X^\top \mathbf{1}_n$ is algebraically identical to the pairwise-difference form yet avoids explicit centering. Computation reduces to a single $p\times p$ outer matrix product and one subtraction. Empirical benchmarks in Python show clear runtime gains over numpy.cov in non-BLAS-tuned settings. Faster Gram routines such as RXTX (Rybin et. al) for $XX^\top$ further reduce total cost.

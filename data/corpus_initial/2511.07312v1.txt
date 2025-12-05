@@ -1,0 +1,5 @@
+Title: Superhuman AI for Stratego Using Self-Play Reinforcement Learning and Test-Time Search
+URL: http://arxiv.org/abs/2511.07312v1
+Published: 2025-11-10 17:13:41+00:00
+----------------------------------------
+Few classical games have been regarded as such significant benchmarks of artificial intelligence as to have justified training costs in the millions of dollars. Among these, Stratego -- a board wargame exemplifying the challenge of strategic decision making under massive amounts of hidden information -- stands apart as a case where such efforts failed to produce performance at the level of top humans. This work establishes a step change in both performance and cost for Stratego, showing that it is now possible not only to reach the level of top humans, but to achieve vastly superhuman level -- and that doing so requires not an industrial budget, but merely a few thousand dollars. We achieved this result by developing general approaches for self-play reinforcement learning and test-time search under imperfect information.

@@ -1,0 +1,7 @@
+Title: PETRA: Pretrained Evolutionary Transformer for SARS-CoV-2 Mutation Prediction
+URL: http://arxiv.org/abs/2511.03976v1
+Published: 2025-11-06 01:58:23+00:00
+----------------------------------------
+Since its emergence, SARS-CoV-2 has demonstrated a rapid and unpredictable evolutionary trajectory, characterized by the continual emergence of immune-evasive variants. This poses persistent challenges to public health and vaccine development.
+  While large-scale generative pre-trained transformers (GPTs) have revolutionized the modeling of sequential data, their direct applications to noisy viral genomic sequences are limited. In this paper, we introduce PETRA(Pretrained Evolutionary TRAnsformer), a novel transformer approach based on evolutionary trajectories derived from phylogenetic trees rather than raw RNA sequences. This method effectively mitigates sequencing noise and captures the hierarchical structure of viral evolution.
+  With a weighted training framework to address substantial geographical and temporal imbalances in global sequence data, PETRA excels in predicting future SARS-CoV-2 mutations, achieving a weighted recall@1 of 9.45% for nucleotide mutations and 17.10\% for spike amino-acid mutations, compared to 0.49% and 6.64% respectively for the best baseline. PETRA also demonstrates its ability to aid in the real-time mutation prediction of major clades like 24F(XEC) and 25A(LP.8.1). The code is open sourced on https://github.com/xz-keg/PETra

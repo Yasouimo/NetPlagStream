@@ -1,0 +1,5 @@
+Title: SiamMM: A Mixture Model Perspective on Deep Unsupervised Learning
+URL: http://arxiv.org/abs/2511.05462v1
+Published: 2025-11-07 18:07:42+00:00
+----------------------------------------
+Recent studies have demonstrated the effectiveness of clustering-based approaches for self-supervised and unsupervised learning. However, the application of clustering is often heuristic, and the optimal methodology remains unclear. In this work, we establish connections between these unsupervised clustering methods and classical mixture models from statistics. Through this framework, we demonstrate significant enhancements to these clustering methods, leading to the development of a novel model named SiamMM. Our method attains state-of-the-art performance across various self-supervised learning benchmarks. Inspection of the learned clusters reveals a strong resemblance to unseen ground truth labels, uncovering potential instances of mislabeling.

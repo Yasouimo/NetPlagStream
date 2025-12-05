@@ -1,0 +1,5 @@
+Title: Speech-Based Prioritization for Schizophrenia Intervention
+URL: http://arxiv.org/abs/2511.03086v1
+Published: 2025-11-05 00:22:48+00:00
+----------------------------------------
+Millions of people suffer from mental health conditions, yet many remain undiagnosed or receive delayed care due to limited clinical resources and labor-intensive assessment methods. While most machine-assisted approaches focus on diagnostic classification, estimating symptom severity is essential for prioritizing care, particularly in resource-constrained settings. Speech-based AI provides a scalable alternative by enabling automated, continuous, and remote monitoring, reducing reliance on subjective self-reports and time-consuming evaluations. In this paper, we introduce a speech-based model for pairwise comparison of schizophrenia symptom severity, leveraging articulatory and acoustic features. These comparisons are used to generate severity rankings via the Bradley-Terry model. Our approach outperforms previous regression-based models on ranking-based metrics, offering a more effective solution for clinical triage and prioritization.

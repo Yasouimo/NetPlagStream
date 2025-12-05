@@ -1,0 +1,5 @@
+Title: Systematic dispersion engineering of crystalline microresonators for broadband and coherent frequency comb generation
+URL: http://arxiv.org/abs/2511.10247v1
+Published: 2025-11-13 12:28:09+00:00
+----------------------------------------
+Ultraprecision machining offers a powerful route to dispersion control in crystalline microresonators, allowing the design of waveguide geometries for tailoring the spectrum of microresonator frequency combs. By precisely designing the geometry, both group-velocity and higher-order dispersions can be engineered across a broad wavelength range. However, despite their promising features, such advantages have remained largely unexplored due to fabrication challenges. Here, we demonstrate that resonators shaped by ultrapecision machining exhibit high precision and strongly suppressed spatial mode interactions, facilitating the generation of smooth dissipative Kerr soliton combs and broadband frequency combs beyond the telecommunication C-band. These results underscore the effectiveness of precision geometry control for realizing coherent and broadband microcombs on crystalline photonic platforms.

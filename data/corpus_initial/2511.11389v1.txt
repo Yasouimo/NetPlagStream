@@ -1,0 +1,5 @@
+Title: Studies with impossible languages falsify LMs as models of human language
+URL: http://arxiv.org/abs/2511.11389v1
+Published: 2025-11-14 15:18:26+00:00
+----------------------------------------
+According to Futrell and Mahowald [arXiv:2501.17047], both infants and language models (LMs) find attested languages easier to learn than impossible languages that have unnatural structures. We review the literature and show that LMs often learn attested and many impossible languages equally well. Difficult to learn impossible languages are simply more complex (or random). LMs are missing human inductive biases that support language acquisition.

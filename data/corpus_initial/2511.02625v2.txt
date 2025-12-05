@@ -1,0 +1,5 @@
+Title: Condition Numbers and Eigenvalue Spectra of Shallow Networks on Spheres
+URL: http://arxiv.org/abs/2511.02625v2
+Published: 2025-11-04 14:54:19+00:00
+----------------------------------------
+We present an estimation of the condition numbers of the \emph{mass} and \emph{stiffness} matrices arising from shallow ReLU$^k$ neural networks defined on the unit sphere~$\mathbb{S}^d$. In particular, when $\{θ_j^*\}_{j=1}^n \subset \mathbb{S}^d$ is \emph{antipodally quasi-uniform}, the condition number is sharp. Indeed, in this case, we obtain sharp asymptotic estimates for the full spectrum of eigenvalues and characterize the structure of the corresponding eigenspaces, showing that the smallest eigenvalues are associated with an eigenbasis of low-degree polynomials while the largest eigenvalues are linked to high-degree polynomials. This spectral analysis establishes a precise correspondence between the approximation power of the network and its numerical stability.

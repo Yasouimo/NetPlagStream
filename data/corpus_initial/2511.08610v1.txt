@@ -1,0 +1,5 @@
+Title: MoE-GraphSAGE-Based Integrated Evaluation of Transient Rotor Angle and Voltage Stability in Power Systems
+URL: http://arxiv.org/abs/2511.08610v1
+Published: 2025-11-05 13:54:03+00:00
+----------------------------------------
+The large-scale integration of renewable energy and power electronic devices has increased the complexity of power system stability, making transient stability assessment more challenging. Conventional methods are limited in both accuracy and computational efficiency. To address these challenges, this paper proposes MoE-GraphSAGE, a graph neural network framework based on the MoE for unified TAS and TVS assessment. The framework leverages GraphSAGE to capture the power grid's spatiotemporal topological features and employs multi-expert networks with a gating mechanism to model distinct instability modes jointly. Experimental results on the IEEE 39-bus system demonstrate that MoE-GraphSAGE achieves superior accuracy and efficiency, offering an effective solution for online multi-task transient stability assessment in complex power systems.

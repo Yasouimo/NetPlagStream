@@ -1,0 +1,5 @@
+Title: Carbox: an end-to-end differentiable astrochemical simulation framework
+URL: http://arxiv.org/abs/2511.10558v1
+Published: 2025-11-13 17:58:57+00:00
+----------------------------------------
+Since the first observations of interstellar molecules, astrochemical simulations have been employed to model and understand its formation and destruction path- ways. With the advent of high-resolution telescopes such as JWST and ALMA, the number of detected molecules has increased significantly, thereby creating a need for increasingly complex chemical reaction networks. To model such complex systems, we have developed Carbox, a new astrochemical simulation code that leverages the modern high-performance transformation framework Jax. With Jax enabling computational efficiency and differentiability, Carbox can easily utilize GPU acceleration, be used to study sensitivity and uncertainty, and interface with advances in Scientific Machine Learning. All of these features are crucial for modeling the molecules observed by current and next-generation telescopes.

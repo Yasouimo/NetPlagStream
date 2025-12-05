@@ -1,0 +1,5 @@
+Title: Towards Understanding Layer Contributions in Tabular In-Context Learning Models
+URL: http://arxiv.org/abs/2511.15432v1
+Published: 2025-11-19 13:39:30+00:00
+----------------------------------------
+Despite the architectural similarities between tabular in-context learning (ICL) models and large language models (LLMs), little is known about how individual layers contribute to tabular prediction. In this paper, we investigate how the latent spaces evolve across layers in tabular ICL models, identify potential redundant layers, and compare these dynamics with those observed in LLMs. We analyze TabPFN and TabICL through the "layers as painters" perspective, finding that only subsets of layers share a common representational language, suggesting structural redundancy and offering opportunities for model compression and improved interpretability.

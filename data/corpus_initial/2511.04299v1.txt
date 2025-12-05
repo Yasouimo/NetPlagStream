@@ -1,0 +1,5 @@
+Title: Measuring economic outlook in the news timely and efficiently
+URL: http://arxiv.org/abs/2511.04299v1
+Published: 2025-11-06 12:05:59+00:00
+----------------------------------------
+We introduce a novel indicator that combines machine learning and large language models with traditional statistical methods to track sentiment regarding the economic outlook in Swiss news. The indicator is interpretable and timely, and it significantly improves the accuracy of GDP growth forecasts. Our approach is resource-efficient, modular, and offers a way of benefitting from state-of-the-art large language models even if data are proprietary and cannot be stored or analyzed on external infrastructure - a restriction faced by many central banks and public institutions.

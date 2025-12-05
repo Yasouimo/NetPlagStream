@@ -1,0 +1,5 @@
+Title: Learning with Category-Equivariant Architectures for Human Activity Recognition
+URL: http://arxiv.org/abs/2511.01139v2
+Published: 2025-11-03 01:20:35+00:00
+----------------------------------------
+We propose CatEquiv, a category-equivariant neural network for Human Activity Recognition (HAR) from inertial sensors that systematically encodes temporal, amplitude, and structural symmetries. We introduce a symmetry category that jointly represents cyclic time shifts, positive gain scalings, and the sensor-hierarchy poset, capturing the categorical symmetry structure of the data. CatEquiv achieves equivariance with respect to the categorical symmetry product. On UCI-HAR under out-of-distribution perturbations, CatEquiv attains markedly higher robustness compared with circularly padded CNNs and plain CNNs. These results demonstrate that enforcing categorical symmetries yields strong invariance and generalization without additional model capacity.

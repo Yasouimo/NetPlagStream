@@ -1,0 +1,5 @@
+Title: Saliency-Guided Deep Learning for Bridge Defect Detection in Drone Imagery
+URL: http://arxiv.org/abs/2511.14040v1
+Published: 2025-11-18 01:44:31+00:00
+----------------------------------------
+Anomaly object detection and classification are one of the main challenging tasks in computer vision and pattern recognition. In this paper, we propose a new method to automatically detect, localize and classify defects in concrete bridge structures using drone imagery. This framework is constituted of two main stages. The first stage uses saliency for defect region proposals where defects often exhibit local discontinuities in the normal surface patterns with regard to their surrounding. The second stage employs a YOLOX-based deep learning detector that operates on saliency-enhanced images obtained by applying bounding-box level brightness augmentation to salient defect regions. Experimental results on standard datasets confirm the performance of our framework and its suitability in terms of accuracy and computational efficiency, which give a huge potential to be implemented in a self-powered inspection system.

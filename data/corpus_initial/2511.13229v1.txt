@@ -1,0 +1,10 @@
+Title: Laplace Learning in Wasserstein Space
+URL: http://arxiv.org/abs/2511.13229v1
+Published: 2025-11-17 10:49:36+00:00
+----------------------------------------
+The manifold hypothesis posits that high-dimensional data typically resides on low-dimensional sub spaces. In this paper, we assume manifold hypothesis to investigate graph-based semi-supervised learning
+  methods. In particular, we examine Laplace Learning in the Wasserstein space, extending the classical
+  notion of graph-based semi-supervised learning algorithms from finite-dimensional Euclidean spaces to
+  an infinite-dimensional setting. To achieve this, we prove variational convergence of a discrete graph p- Dirichlet energy to its continuum counterpart. In addition, we characterize the Laplace-Beltrami operator
+  on asubmanifold of the Wasserstein space. Finally, we validate the proposed theoretical framework through
+  numerical experiments conducted on benchmark datasets, demonstrating the consistency of our classification performance in high-dimensional settings.

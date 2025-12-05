@@ -1,0 +1,5 @@
+Title: Hyperbolic Optimal Transport
+URL: http://arxiv.org/abs/2511.00244v1
+Published: 2025-10-31 20:34:09+00:00
+----------------------------------------
+The optimal transport (OT) problem aims to find the most efficient mapping between two probability distributions under a given cost function, and has diverse applications in many fields such as machine learning, computer vision and computer graphics. However, existing methods for computing optimal transport maps are primarily developed for Euclidean spaces and the sphere. In this paper, we explore the problem of computing the optimal transport map in hyperbolic space, which naturally arises in contexts involving hierarchical data, networks, and multi-genus Riemann surfaces. We propose a novel and efficient algorithm for computing the optimal transport map in hyperbolic space using a geometric variational technique by extending methods for Euclidean and spherical geometry to the hyperbolic setting. We also perform experiments on synthetic data and multi-genus surface models to validate the efficacy of the proposed method.

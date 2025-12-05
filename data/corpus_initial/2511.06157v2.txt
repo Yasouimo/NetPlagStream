@@ -1,0 +1,5 @@
+Title: Models Got Talent: Identifying High Performing Wearable Human Activity Recognition Models Without Training
+URL: http://arxiv.org/abs/2511.06157v2
+Published: 2025-11-08 22:38:14+00:00
+----------------------------------------
+A promising alternative to the computationally expensive Neural Architecture Search (NAS) involves the development of Zero Cost Proxies (ZCPs), which correlate well with trained performance, but can be computed through a single forward/backward pass on a randomly sampled batch of data. In this paper, we investigate the effectiveness of ZCPs for HAR on six benchmark datasets, and demonstrate that they discover network architectures that obtain within 5% of performance attained by full-scale training involving 1500 randomly sampled architectures. This results in substantial computational savings as high-performing architectures can be discovered with minimal training. Our experiments not only introduce ZCPs to sensor-based HAR, but also demonstrate that they are robust to data noise, further showcasing their suitability for practical scenarios.

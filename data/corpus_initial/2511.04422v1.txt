@@ -1,0 +1,5 @@
+Title: On the Equivalence of Regression and Classification
+URL: http://arxiv.org/abs/2511.04422v1
+Published: 2025-11-06 14:54:25+00:00
+----------------------------------------
+A formal link between regression and classification has been tenuous. Even though the margin maximization term $\|w\|$ is used in support vector regression, it has at best been justified as a regularizer. We show that a regression problem with $M$ samples lying on a hyperplane has a one-to-one equivalence with a linearly separable classification task with $2M$ samples. We show that margin maximization on the equivalent classification task leads to a different regression formulation than traditionally used. Using the equivalence, we demonstrate a ``regressability'' measure, that can be used to estimate the difficulty of regressing a dataset, without needing to first learn a model for it. We use the equivalence to train neural networks to learn a linearizing map, that transforms input variables into a space where a linear regressor is adequate.

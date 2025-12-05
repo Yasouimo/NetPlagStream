@@ -1,0 +1,5 @@
+Title: Language Generation: Complexity Barriers and Implications for Learning
+URL: http://arxiv.org/abs/2511.05759v1
+Published: 2025-11-07 23:06:48+00:00
+----------------------------------------
+Kleinberg and Mullainathan showed that, in principle, language generation is always possible: with sufficiently many positive examples, a learner can eventually produce sentences indistinguishable from those of a target language. However, the existence of such a guarantee does not speak to its practical feasibility. In this work, we show that even for simple and well-studied language families -- such as regular and context-free languages -- the number of examples required for successful generation can be extraordinarily large, and in some cases not bounded by any computable function. These results reveal a substantial gap between theoretical possibility and efficient learnability. They suggest that explaining the empirical success of modern language models requires a refined perspective -- one that takes into account structural properties of natural language that make effective generation possible in practice.

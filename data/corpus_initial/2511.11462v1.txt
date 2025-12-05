@@ -1,0 +1,6 @@
+Title: MoCap2Radar: A Spatiotemporal Transformer for Synthesizing Micro-Doppler Radar Signatures from Motion Capture
+URL: http://arxiv.org/abs/2511.11462v1
+Published: 2025-11-14 16:35:14+00:00
+----------------------------------------
+We present a pure machine learning process for synthesizing radar spectrograms from Motion-Capture (MoCap) data. We formulate MoCap-to-spectrogram translation as a windowed sequence-to-sequence task using a transformer-based model that jointly captures spatial relations among MoCap markers and temporal dynamics across frames. Real-world experiments show that the proposed approach produces visually and quantitatively plausible doppler radar spectrograms and achieves good generalizability. Ablation experiments show that the learned model includes both the ability to convert multi-part motion into doppler signatures and an understanding of the spatial relations between different parts of the human body.
+  The result is an interesting example of using transformers for time-series signal processing. It is especially applicable to edge computing and Internet of Things (IoT) radars. It also suggests the ability to augment scarce radar datasets using more abundant MoCap data for training higher-level applications. Finally, it requires far less computation than physics-based methods for generating radar data.

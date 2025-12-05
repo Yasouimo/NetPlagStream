@@ -1,0 +1,7 @@
+Title: One-Shot Transfer Learning for Nonlinear PDEs with Perturbative PINNs
+URL: http://arxiv.org/abs/2511.11137v1
+Published: 2025-11-14 10:12:50+00:00
+----------------------------------------
+We propose a framework for solving nonlinear partial differential equations (PDEs) by combining perturbation theory with one-shot transfer learning in Physics-Informed Neural Networks (PINNs). Nonlinear PDEs with polynomial terms are decomposed into a sequence of linear subproblems, which are efficiently solved using a Multi-Head PINN. Once the latent representation of the linear operator is learned, solutions to new PDE instances with varying perturbations, forcing terms, or boundary/initial conditions can be obtained in closed form without retraining.
+  We validate the method on KPP-Fisher and wave equations, achieving errors on the order of 1e-3 while adapting to new problem instances in under 0.2 seconds; comparable accuracy to classical solvers but with faster transfer. Sensitivity analyses show predictable error growth with epsilon and polynomial degree, clarifying the method's effective regime.
+  Our contributions are: (i) extending one-shot transfer learning from nonlinear ODEs to PDEs, (ii) deriving a closed-form solution for adapting to new PDE instances, and (iii) demonstrating accuracy and efficiency on canonical nonlinear PDEs. We conclude by outlining extensions to derivative-dependent nonlinearities and higher-dimensional PDEs.

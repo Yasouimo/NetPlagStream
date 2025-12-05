@@ -1,0 +1,6 @@
+Title: Simplicial covering dimension of extremal concept classes
+URL: http://arxiv.org/abs/2511.11819v1
+Published: 2025-11-14 19:20:59+00:00
+----------------------------------------
+Dimension theory is a branch of topology concerned with defining and analyzing dimensions of geometric and topological spaces in purely topological terms. In this work, we adapt the classical notion of topological dimension (Lebesgue covering) to binary concept classes. The topological space naturally associated with a concept class is its space of realizable distributions. The loss function and the class itself induce a simplicial structure on this space, with respect to which we define a simplicial covering dimension.
+  We prove that for finite concept classes, this simplicial covering dimension exactly characterizes the list replicability number (equivalently, global stability) in PAC learning. This connection allows us to apply tools from classical dimension theory to compute the exact list replicability number of the broad family of extremal concept classes.

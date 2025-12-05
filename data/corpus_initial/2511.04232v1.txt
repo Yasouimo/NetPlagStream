@@ -1,0 +1,5 @@
+Title: An Efficient Algorithm for Learning-Based Visual Localization
+URL: http://arxiv.org/abs/2511.04232v1
+Published: 2025-11-06 10:07:13+00:00
+----------------------------------------
+This paper addresses the visual localization problem in Global Positioning System (GPS)-denied environments, where computational resources are often limited. To achieve efficient and robust performance under these constraints, we propose a novel algorithm. The algorithm stems from the optimal control principle (OCP). It incorporates diagonal information estimation of the Hessian matrix, which results in training a higher-performance deep neural network and accelerates optimization convergence. Experimental results on public datasets demonstrate that the final model achieves competitive localization accuracy and exhibits remarkable generalization capability. This study provides new insights for developing high-performance offline positioning systems.

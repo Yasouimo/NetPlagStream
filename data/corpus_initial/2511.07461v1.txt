@@ -1,0 +1,5 @@
+Title: It Takes Two: A Dual Stage Approach for Terminology-Aware Translation
+URL: http://arxiv.org/abs/2511.07461v1
+Published: 2025-11-07 08:50:58+00:00
+----------------------------------------
+This paper introduces DuTerm, a novel two-stage architecture for terminology-constrained machine translation. Our system combines a terminology-aware NMT model, adapted via fine-tuning on large-scale synthetic data, with a prompt-based LLM for post-editing. The LLM stage refines NMT output and enforces terminology adherence. We evaluate DuTerm on English-to German, English-to-Spanish, and English-to-Russian with the WMT 2025 Terminology Shared Task corpus. We demonstrate that flexible, context-driven terminology handling by the LLM consistently yields higher quality translations than strict constraint enforcement. Our results highlight a critical trade-off, revealing that an LLM's work best for high-quality translation as context-driven mutators rather than generators.

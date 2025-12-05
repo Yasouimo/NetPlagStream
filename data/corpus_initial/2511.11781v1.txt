@@ -1,0 +1,5 @@
+Title: Coordinate Descent for Network Linearization
+URL: http://arxiv.org/abs/2511.11781v1
+Published: 2025-11-14 14:03:58+00:00
+----------------------------------------
+ReLU activations are the main bottleneck in Private Inference that is based on ResNet networks. This is because they incur significant inference latency. Reducing ReLU count is a discrete optimization problem, and there are two common ways to approach it. Most current state-of-the-art methods are based on a smooth approximation that jointly optimizes network accuracy and ReLU budget at once. However, the last hard thresholding step of the optimization usually introduces a large performance loss. We take an alternative approach that works directly in the discrete domain by leveraging Coordinate Descent as our optimization framework. In contrast to previous methods, this yields a sparse solution by design. We demonstrate, through extensive experiments, that our method is State of the Art on common benchmarks.

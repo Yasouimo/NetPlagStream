@@ -1,0 +1,5 @@
+Title: Variational Autoencoder for Calibration: A New Approach
+URL: http://arxiv.org/abs/2511.00475v1
+Published: 2025-11-01 10:05:20+00:00
+----------------------------------------
+In this paper we present a new implementation of a Variational Autoencoder (VAE) for the calibration of sensors. We propose that the VAE can be used to calibrate sensor data by training the latent space as a calibration output. We discuss this new approach and show a proof-of-concept using an existing multi-sensor gas dataset. We show the performance of the proposed calibration VAE and found that it was capable of performing as calibration model while performing as an autoencoder simultaneously. Additionally, these models have shown that they are capable of creating statistically similar outputs from both the calibration output as well as the reconstruction output to their respective truth data. We then discuss the methods of future testing and planned expansion of this work.

@@ -1,0 +1,5 @@
+Title: Extrapolation to infinite model space of no-core shell model calculations using machine learning
+URL: http://arxiv.org/abs/2511.05061v1
+Published: 2025-11-07 08:16:12+00:00
+----------------------------------------
+An ensemble of neural networks is employed to extrapolate no-core shell model (NCSM) results to infinite model space for light nuclei. We present a review of our neural network extrapolations of the NCSM results obtained with the Daejeon16 NN interaction in different model spaces and with different values of the NCSM basis parameter $\hbarΩ$ for energies of nuclear states and root-mean-square (rms) radii of proton, neutron and matter distributions in light nuclei. The method yields convergent predictions with quantifiable uncertainties. Ground-state energies for $^{6}$Li, $^{6}$He, and the unbound $^{6}$Be, as well as the excited $(3^{+},0)$ and $(0^{+},1)$ states of $^{6}$Li, are obtained within a few hundred keV of experiment. The extrapolated radii of bound states converge well. In contrast, radii of unbound states in $^{6}$Be and $^{6}$Li do not stabilize.

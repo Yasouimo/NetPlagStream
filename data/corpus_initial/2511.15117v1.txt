@@ -1,0 +1,5 @@
+Title: An Event-triggered System for Social Persuasion and Danger Alert in Elder Home Monitoring
+URL: http://arxiv.org/abs/2511.15117v1
+Published: 2025-11-19 04:39:56+00:00
+----------------------------------------
+In the study, the physical state and mental state of elders are both considered, and an event-triggered system has developed to detect events: watch dog, danger notice and photo link. By adopting GMM background modeling, the motion behavior of visitors and elders can be detected in the watch dog event and danger notice event respectively. Experiments set in home scenarios and 5 families participated in the experiments for detecting and recording three types of events from their life activities. In addition, the captured images were analyzed using SVM machine learning. For lack of technical experiences of elders, an intuitive operation as normal life activity was designed to create communication between elder and relatives via social media.

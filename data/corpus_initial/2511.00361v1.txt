@@ -1,0 +1,5 @@
+Title: MalDataGen: A Modular Framework for Synthetic Tabular Data Generation in Malware Detection
+URL: http://arxiv.org/abs/2511.00361v1
+Published: 2025-11-01 02:08:58+00:00
+----------------------------------------
+High-quality data scarcity hinders malware detection, limiting ML performance. We introduce MalDataGen, an open-source modular framework for generating high-fidelity synthetic tabular data using modular deep learning models (e.g., WGAN-GP, VQ-VAE). Evaluated via dual validation (TR-TS/TS-TR), seven classifiers, and utility metrics, MalDataGen outperforms benchmarks like SDV while preserving data utility. Its flexible design enables seamless integration into detection pipelines, offering a practical solution for cybersecurity applications.

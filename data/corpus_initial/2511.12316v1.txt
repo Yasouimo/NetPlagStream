@@ -1,0 +1,5 @@
+Title: BlinDNO: A Distributional Neural Operator for Dynamical System Reconstruction from Time-Label-Free data
+URL: http://arxiv.org/abs/2511.12316v1
+Published: 2025-11-15 18:15:37+00:00
+----------------------------------------
+We study an inverse problem for stochastic and quantum dynamical systems in a time-label-free setting, where only unordered density snapshots sampled at unknown times drawn from an observation-time distribution are available. These observations induce a distribution over state densities, from which we seek to recover the parameters of the underlying evolution operator. We formulate this as learning a distribution-to-function neural operator and propose BlinDNO, a permutation-invariant architecture that integrates a multiscale U-Net encoder with an attention-based mixer. Numerical experiments on a wide range of stochastic and quantum systems, including a 3D protein-folding mechanism reconstruction problem in a cryo-EM setting, demonstrate that BlinDNO reliably recovers governing parameters and consistently outperforms existing neural inverse operator baselines.

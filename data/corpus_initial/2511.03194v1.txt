@@ -1,0 +1,5 @@
+Title: PETWB-REP: A Multi-Cancer Whole-Body FDG PET/CT and Radiology Report Dataset for Medical Imaging Research
+URL: http://arxiv.org/abs/2511.03194v1
+Published: 2025-11-05 05:13:57+00:00
+----------------------------------------
+Publicly available, large-scale medical imaging datasets are crucial for developing and validating artificial intelligence models and conducting retrospective clinical research. However, datasets that combine functional and anatomical imaging with detailed clinical reports across multiple cancer types remain scarce. Here, we present PETWB-REP, a curated dataset comprising whole-body 18F-Fluorodeoxyglucose (FDG) Positron Emission Tomography/Computed Tomography (PET/CT) scans and corresponding radiology reports from 490 patients diagnosed with various malignancies. The dataset primarily includes common cancers such as lung cancer, liver cancer, breast cancer, prostate cancer, and ovarian cancer. This dataset includes paired PET and CT images, de-identified textual reports, and structured clinical metadata. It is designed to support research in medical imaging, radiomics, artificial intelligence, and multi-modal learning.

@@ -1,0 +1,5 @@
+Title: An Algebraic Approach to Evolutionary Accumulation Models
+URL: http://arxiv.org/abs/2511.06999v1
+Published: 2025-11-10 11:51:51+00:00
+----------------------------------------
+We present an algebraic approach to evolutionary accumulation modelling (EvAM). EvAM is concerned with learning and predicting the order in which evolutionary features accumulate over time. Our approach is complementary to the more common optimisation-based inference methods used in this field. Namely, we first use the natural underlying polynomial structure of the evolutionary process to define a semi-algebraic set of candidate parameters consistent with a given data set before maximising the likelihood function. We consider explicit examples and show that this approach is compatible with the solutions given by various statistical evolutionary accumulation models. Furthermore, we discuss the additional information of our algebraic model relative to these models.

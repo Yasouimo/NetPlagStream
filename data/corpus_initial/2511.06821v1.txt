@@ -1,0 +1,5 @@
+Title: Dimensionality reduction and width of deep neural networks based on topological degree theory
+URL: http://arxiv.org/abs/2511.06821v1
+Published: 2025-11-10 08:09:56+00:00
+----------------------------------------
+In this paper we present a mathematical framework on linking of embeddings of compact topological spaces into Euclidean spaces and separability of linked embeddings under a specific class of dimension reduction maps. As applications of the established theory, we provide some fascinating insights into classification and approximation problems in deep learning theory in the setting of deep neural networks.

@@ -1,0 +1,5 @@
+Title: Forecasting Thermospheric Density with Transformers for Multi-Satellite Orbit Management
+URL: http://arxiv.org/abs/2511.06105v1
+Published: 2025-11-08 19:02:14+00:00
+----------------------------------------
+Accurate thermospheric density prediction is crucial for reliable satellite operations in Low Earth Orbits, especially at high solar and geomagnetic activity. Physics-based models such as TIE-GCM offer high fidelity but are computationally expensive, while empirical models like NRLMSIS are efficient yet lack predictive power. This work presents a transformer-based model that forecasts densities up to three days ahead and is intended as a drop-in replacement for an empirical baseline. Unlike recent approaches, it avoids spatial reduction and complex input pipelines, operating directly on a compact input set. Validated on real-world data, the model improves key prediction metrics and shows potential to support mission planning.

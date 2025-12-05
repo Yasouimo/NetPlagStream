@@ -1,0 +1,5 @@
+Title: Clustering in Networks with Time-varying Nodal Attributes
+URL: http://arxiv.org/abs/2511.04859v1
+Published: 2025-11-06 22:44:31+00:00
+----------------------------------------
+This manuscript studies nodal clustering in graphs having a time series at each node. The framework includes priors for low-dimensional representations and a decoder that bridges the latent representations and time series. The structural and temporal patterns are fused into representations that facilitate clustering, addressing the limitation that the evolution of nodal attributes is often overlooked. Parameters are learned via maximum approximate likelihood, with a graph-fused LASSO regularization imposed on prior parameters. The optimization problem is solved via alternating direction method of multipliers; Langevin dynamics are employed for posterior inference. Simulation studies on block and grid graphs with autoregressive dynamics, and applications to California county temperatures and a book word co-occurrence network demonstrate the effectiveness of the proposed method.

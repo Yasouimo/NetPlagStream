@@ -1,0 +1,5 @@
+Title: Unified Theory of Adaptive Variance Reduction
+URL: http://arxiv.org/abs/2511.04569v1
+Published: 2025-11-06 17:25:07+00:00
+----------------------------------------
+Variance reduction is a family of powerful mechanisms for stochastic optimization that appears to be helpful in many machine learning tasks. It is based on estimating the exact gradient with some recursive sequences. Previously, many papers demonstrated that methods with unbiased variance-reduction estimators can be described in a single framework. We generalize this approach and show that the unbiasedness assumption is excessive; hence, we include biased estimators in this analysis. But the main contribution of our work is the proposition of new variance reduction methods with adaptive step sizes that are adjusted throughout the algorithm iterations and, moreover, do not need hyperparameter tuning. Our analysis covers finite- sum problems, distributed optimization, and coordinate methods. Numerical experiments in various tasks validate the effectiveness of our methods.

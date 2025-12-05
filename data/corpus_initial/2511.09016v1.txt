@@ -1,0 +1,5 @@
+Title: Assumed Density Filtering and Smoothing with Neural Network Surrogate Models
+URL: http://arxiv.org/abs/2511.09016v1
+Published: 2025-11-12 06:08:53+00:00
+----------------------------------------
+The Kalman filter and Rauch-Tung-Striebel (RTS) smoother are optimal for state estimation in linear dynamic systems. With nonlinear systems, the challenge consists in how to propagate uncertainty through the state transitions and output function. For the case of a neural network model, we enable accurate uncertainty propagation using a recent state-of-the-art analytic formula for computing the mean and covariance of a deep neural network with Gaussian input. We argue that cross entropy is a more appropriate performance metric than RMSE for evaluating the accuracy of filters and smoothers. We demonstrate the superiority of our method for state estimation on a stochastic Lorenz system and a Wiener system, and find that our method enables more optimal linear quadratic regulation when the state estimate is used for feedback.

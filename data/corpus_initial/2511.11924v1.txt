@@ -1,0 +1,5 @@
+Title: A Neuromorphic Architecture for Scalable Event-Based Control
+URL: http://arxiv.org/abs/2511.11924v1
+Published: 2025-11-14 23:08:56+00:00
+----------------------------------------
+This paper introduces the ``rebound Winner-Take-All (RWTA)" motif as the basic element of a scalable neuromorphic control architecture. From the cellular level to the system level, the resulting architecture combines the reliability of discrete computation and the tunability of continuous regulation: it inherits the discrete computation capabilities of winner-take-all state machines and the continuous tuning capabilities of excitable biophysical circuits. The proposed event-based framework addresses continuous rhythmic generation and discrete decision-making in a unified physical modeling language. We illustrate the versatility, robustness, and modularity of the architecture through the nervous system design of a snake robot.

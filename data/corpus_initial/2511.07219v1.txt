@@ -1,0 +1,5 @@
+Title: Integrating Epigenetic and Phenotypic Features for Biological Age Estimation in Cancer Patients via Multimodal Learning
+URL: http://arxiv.org/abs/2511.07219v1
+Published: 2025-11-10 15:42:14+00:00
+----------------------------------------
+Biological age, which may be older or younger than chronological age due to factors such as genetic predisposition, environmental exposures, serves as a meaningful biomarker of aging processes and can inform risk stratification, treatment planning, and survivorship care in cancer patients. We propose EpiCAge, a multimodal framework that integrates epigenetic and phenotypic data to improve biological age prediction. Evaluated on eight internal and four external cancer cohorts, EpiCAge consistently outperforms existing epigenetic and phenotypic age clocks. Our analyses show that EpiCAge identifies biologically relevant markers, and its derived age acceleration is significantly associated with mortality risk. These results highlight EpiCAge as a promising multimodal machine learning tool for biological age assessment in oncology.

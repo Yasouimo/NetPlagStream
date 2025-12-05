@@ -1,0 +1,5 @@
+Title: End-to-end deep learning for superoscillatory subtraction imaging
+URL: http://arxiv.org/abs/2511.16115v1
+Published: 2025-11-20 07:17:22+00:00
+----------------------------------------
+Breaking the diffraction limit in optical imaging is crucial for resolving subwavelength details in a wide range of applications, where superoscillatory imaging and subtraction imaging are two common strategies for surpassing conventional resolution limits. We propose an end-to-end deep learning framework that integrates superoscillatory focusing and subtraction imaging into a single jointly-optimized vectorial Debye integral neural network pipeline, eliminating the traditional two-step acquisition and manual weighting process. With this end-to-end neural network, we further improve the focusing capability of the system to the sub-100-nm regime, enabling deep-subwavelength imaging resolution.

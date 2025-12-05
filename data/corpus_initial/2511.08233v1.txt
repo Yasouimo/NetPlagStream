@@ -1,0 +1,5 @@
+Title: Accurate and Efficient Surface Reconstruction from Point Clouds via Geometry-Aware Local Adaptation
+URL: http://arxiv.org/abs/2511.08233v1
+Published: 2025-11-11 13:32:37+00:00
+----------------------------------------
+Point cloud surface reconstruction has improved in accuracy with advances in deep learning, enabling applications such as infrastructure inspection. Recent approaches that reconstruct from small local regions rather than entire point clouds have attracted attention for their strong generalization capability. However, prior work typically places local regions uniformly and keeps their size fixed, limiting adaptability to variations in geometric complexity. In this study, we propose a method that improves reconstruction accuracy and efficiency by adaptively modulating the spacing and size of local regions based on the curvature of the input point cloud.

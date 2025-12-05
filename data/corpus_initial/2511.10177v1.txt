@@ -1,0 +1,5 @@
+Title: Utilizing a Geospatial Foundation Model for Coastline Delineation in Small Sandy Islands
+URL: http://arxiv.org/abs/2511.10177v1
+Published: 2025-11-13 10:42:10+00:00
+----------------------------------------
+We present an initial evaluation of NASA and IBM's Prithvi-EO-2.0 geospatial foundation model on shoreline delineation of small sandy islands using satellite images. We curated and labeled a dataset of 225 multispectral images of two Maldivian islands, which we publicly release, and fine-tuned both the 300M and 600M parameter versions of Prithvi on training subsets ranging from 5 to 181 images. Our experiments show that even with as few as 5 training images, the models achieve high performance (F1 of 0.94, IoU of 0.79). Our results demonstrate the strong transfer learning capability of Prithvi, underscoring the potential of such models to support coastal monitoring in data-poor regions.

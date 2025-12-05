@@ -1,0 +1,5 @@
+Title: Stability of the Kim--Milman flow map
+URL: http://arxiv.org/abs/2511.01154v1
+Published: 2025-11-03 02:04:41+00:00
+----------------------------------------
+In this short note, we characterize stability of the Kim--Milman flow map -- also known as the probability flow ODE -- with respect to variations in the target measure. Rather than the Wasserstein distance, we show that stability holds with respect to the relative Fisher information

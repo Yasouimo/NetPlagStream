@@ -1,0 +1,8 @@
+Title: Robust heterodimensional cycles of co-index two via split blending machines
+URL: http://arxiv.org/abs/2511.12412v1
+Published: 2025-11-16 01:43:28+00:00
+----------------------------------------
+We consider diffeomorphisms $f$ with heterodimensional cycles of co-index two, associated with saddles $P$ and $Q$ having unstable indices $\ell$ and $\ell+2$, respectively. In a partially hyperbolic setting, where a two-dimensional center direction and strong invariant manifolds are defined, we introduce the class of \emph{non-escaping cycles}, where the strong stable manifold of $P$ and the strong unstable manifold of $Q$ are involved in the cycle. This configuration guarantees the existence of orbits that remain in a neighbourhood of the cycle.
+  We show that such diffeomorphisms $f$ can be $C^1$ approximated by diffeomorphisms exhibiting simultaneously $C^1$ robust heterodimensional cycles of co-indices one and two, encompassing all possible combinations among hyperbolic sets of unstable indices $\ell$, $\ell+1$, and $\ell+2$.
+  The proof relies on the construction of \emph{split blending machines}. This tool extends Asaoka's blending machines to a partially hyperbolic setting, providing a mechanisms to generate and control robust intersections within a two-dimensional central bundle.
+  We also present simple dynamical settings where such cycles occur, namely skew product dynamics with surface fiber maps. Non-escaping cycles also appear in contexts such as Derived from Anosov diffeomorphisms and matrix cocycles on $\mathrm{GL}(3,\mathbb{R})$.

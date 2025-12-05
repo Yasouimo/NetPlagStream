@@ -1,0 +1,5 @@
+Title: Improving Bayesian inference in PTA data analysis: importance nested sampling with Normalizing Flows
+URL: http://arxiv.org/abs/2511.01958v1
+Published: 2025-11-03 17:29:46+00:00
+----------------------------------------
+We present a detailed study of Bayesian inference workflows for pulsar timing array data with a focus on enhancing efficiency, robustness and speed through the use of normalizing flow-based nested sampling. Building on the Enterprise framework, we integrate the i-nessai sampler and benchmark its performance on realistic, simulated datasets. We analyze its computational scaling and stability, and show that it achieves accurate posteriors and reliable evidence estimates with substantially reduced runtime, by up to three orders of magnitude depending on the dataset configuration, with respect to conventional single-core parallel-tempering MCMC analyses. These results highlight the potential of flow-based nested sampling to accelerate PTA analyses while preserving the quality of the inference.

@@ -1,0 +1,5 @@
+Title: Reducing Instability in Synthetic Data Evaluation with a Super-Metric in MalDataGen
+URL: http://arxiv.org/abs/2511.16373v1
+Published: 2025-11-20 13:55:39+00:00
+----------------------------------------
+Evaluating the quality of synthetic data remains a persistent challenge in the Android malware domain due to instability and the lack of standardization among existing metrics. This work integrates into MalDataGen a Super-Metric that aggregates eight metrics across four fidelity dimensions, producing a single weighted score. Experiments involving ten generative models and five balanced datasets demonstrate that the Super-Metric is more stable and consistent than traditional metrics, exhibiting stronger correlations with the actual performance of classifiers.

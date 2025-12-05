@@ -1,0 +1,7 @@
+Title: Solution Space Topology Guides CMTS Search
+URL: http://arxiv.org/abs/2511.01701v1
+Published: 2025-11-03 16:09:00+00:00
+----------------------------------------
+A fundamental question in search-guided AI: what topology should guide Monte Carlo Tree Search (MCTS) in puzzle solving? Prior work applied topological features to guide MCTS in ARC-style tasks using grid topology -- the Laplacian spectral properties of cell connectivity -- and found no benefit. We identify the root cause: grid topology is constant across all instances. We propose measuring \emph{solution space topology} instead: the structure of valid color assignments constrained by detected pattern rules. We build this via compatibility graphs where nodes are $(cell, color)$ pairs and edges represent compatible assignments under pattern constraints.
+  Our method: (1) detect pattern rules automatically with 100\% accuracy on 5 types, (2) construct compatibility graphs encoding solution space structure, (3) extract topological features (algebraic connectivity, rigidity, color structure) that vary with task difficulty, (4) integrate these features into MCTS node selection via sibling-normalized scores.
+  We provide formal definitions, a rigorous selection formula, and comprehensive ablations showing that algebraic connectivity is the dominant signal. The work demonstrates that topology matters for search -- but only the \emph{right} topology. For puzzle solving, this is solution space structure, not problem space structure.

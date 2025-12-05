@@ -1,0 +1,5 @@
+Title: OntoTune: Ontology-Driven Learning for Query Optimization with Convolutional Models
+URL: http://arxiv.org/abs/2511.06780v1
+Published: 2025-11-10 07:08:19+00:00
+----------------------------------------
+Query optimization has been studied using machine learning, reinforcement learning, and, more recently, graph-based convolutional networks. Ontology, as a structured, information-rich knowledge representation, can provide context, particularly in learning problems. This paper presents OntoTune, an ontology-based platform for enhancing learning for query optimization. By connecting SQL queries, database metadata, and statistics, the ontology developed in this research is promising in capturing relationships and important determinants of query performance. This research also develops a method to embed ontologies while preserving as much of the relationships and key information as possible, before feeding it into learning algorithms such as tree-based and graph-based convolutional networks. A case study shows how OntoTune's ontology-driven learning delivers performance gains compared with database system default query execution.

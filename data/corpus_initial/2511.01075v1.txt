@@ -1,0 +1,5 @@
+Title: Beam-Beam Backgrounds for the Cool Copper Collider
+URL: http://arxiv.org/abs/2511.01075v1
+Published: 2025-11-02 20:51:11+00:00
+----------------------------------------
+In this paper, we present a comprehensive characterization of beam-beam backgrounds for the Cool Copper Collider (C$^3$), a proposed linear $e^{+}e^{-}$ collider designed for precision Higgs studies at center-of-mass energies of 250 and 550 GeV. Using a simulation pipeline based on the Key4hep framework, we evaluate incoherent pair production and hadron photoproduction backgrounds through the SiD detector for baseline, power-efficiency, and high-luminosity C$^3$ operating scenarios. The occupancy induced by the beam-beam background is evaluated for each scenario, validating the compatibility of the existing SiD detector design with operations at C$^3$ without substantial modifications. At the same time, the modular simulation framework and analysis methodology presented in this paper offer a versatile toolkit for background studies in future collider proposals, contributing to a common platform for different machine designs.

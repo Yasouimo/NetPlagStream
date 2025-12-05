@@ -1,0 +1,5 @@
+Title: Branch and price for nonlinear production-maintenance scheduling in complex machinery
+URL: http://arxiv.org/abs/2511.07143v1
+Published: 2025-11-10 14:25:16+00:00
+----------------------------------------
+This paper proposes a mixed-integer nonlinear programming approach for joint scheduling of long-term maintenance decisions and short-term production for groups of complex machines with multiple interacting components. We introduce an abstract model where the production and the condition of machines are described by convex functions, allowing the model to be employed for various application areas fitting the scheme. We develop a branch-and-price algorithm to solve this problem, enhanced with acceleration techniques to find primal solutions and reduce the number of pricing rounds. An experimental comparison of this approach to solving the compact formulation directly demonstrates the benefit of the decomposition approach, in particular in larger instances.

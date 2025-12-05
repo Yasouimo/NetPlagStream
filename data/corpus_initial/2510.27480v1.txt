@@ -1,0 +1,5 @@
+Title: Simplex-to-Euclidean Bijections for Categorical Flow Matching
+URL: http://arxiv.org/abs/2510.27480v1
+Published: 2025-10-31 14:00:33+00:00
+----------------------------------------
+We propose a method for learning and sampling from probability distributions supported on the simplex. Our approach maps the open simplex to Euclidean space via smooth bijections, leveraging the Aitchison geometry to define the mappings, and supports modeling categorical data by a Dirichlet interpolation that dequantizes discrete observations into continuous ones. This enables density modeling in Euclidean space through the bijection while still allowing exact recovery of the original discrete distribution. Compared to previous methods that operate on the simplex using Riemannian geometry or custom noise processes, our approach works in Euclidean space while respecting the Aitchison geometry, and achieves competitive performance on both synthetic and real-world data sets.

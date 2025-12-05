@@ -1,0 +1,5 @@
+Title: Mind the Gap: Evaluating LLM Understanding of Human-Taught Road Safety Principles
+URL: http://arxiv.org/abs/2511.13909v1
+Published: 2025-11-17 21:01:48+00:00
+----------------------------------------
+Following road safety norms is non-negotiable not only for humans but also for the AI systems that govern autonomous vehicles. In this work, we evaluate how well multi-modal large language models (LLMs) understand road safety concepts, specifically through schematic and illustrative representations. We curate a pilot dataset of images depicting traffic signs and road-safety norms sourced from school text books and use it to evaluate models capabilities in a zero-shot setting. Our preliminary results show that these models struggle with safety reasoning and reveal gaps between human learning and model interpretation. We further provide an analysis of these performance gaps for future research.

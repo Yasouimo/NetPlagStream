@@ -1,0 +1,5 @@
+Title: Generative Pricing of Basket Options via Signature-Conditioned Mixture Density Networks
+URL: http://arxiv.org/abs/2511.09061v1
+Published: 2025-11-12 07:35:23+00:00
+----------------------------------------
+We present a generative framework for pricing European-style basket options by learning the conditional terminal distribution of the log arithmetic-weighted basket return. A Mixture Density Network (MDN) maps time-varying market inputs encoded via truncated path signatures to the full terminal density in a single forward pass. Traditional approaches either impose restrictive assumptions or require costly re-simulation whenever inputs change, limiting real-time use. Trained on Monte Carlo (MC) under GBM with time-varying volatility or local volatility, the MDN acts as a reusable surrogate distribution: once trained, it prices new scenarios by integrating the learned density. Across maturities, correlations, and basket weights, the learned densities closely match MC (low KL) and produce small pricing errors, while enabling \emph{train-once, price-anywhere} reuse at inference-time latency.

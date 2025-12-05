@@ -1,0 +1,5 @@
+Title: Preserving security in a world with powerful AI Considerations for the future Defense Architecture
+URL: http://arxiv.org/abs/2511.05714v1
+Published: 2025-11-07 21:17:50+00:00
+----------------------------------------
+Advances in AI threaten to invalidate assumptions underpinning today's defense architecture. We argue that the current U.S. defense program of record, designed in an era before capable machine intelligence, cannot by itself preserve national security against rapidly emerging AI enabled threats. Instead, shoring up legacy systems must be coupled with entirely new elements of a defense architecture. We outline immediate steps to adapt the Department of Energy National Nuclear Security Administration National Laboratories to ensure agility and resilience in an era of powerful AI.

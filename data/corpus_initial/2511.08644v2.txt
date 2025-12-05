@@ -1,0 +1,5 @@
+Title: Energy Consumption of Dataframe Libraries for End-to-End Deep Learning Pipelines:A Comparative Analysis
+URL: http://arxiv.org/abs/2511.08644v2
+Published: 2025-11-10 19:06:00+00:00
+----------------------------------------
+This paper presents a detailed comparative analysis of the performance of three major Python data manipulation libraries - Pandas, Polars, and Dask - specifically when embedded within complete deep learning (DL) training and inference pipelines. The research bridges a gap in existing literature by studying how these libraries interact with substantial GPU workloads during critical phases like data loading, preprocessing, and batch feeding. The authors measured key performance indicators including runtime, memory usage, disk usage, and energy consumption (both CPU and GPU) across various machine learning models and datasets.

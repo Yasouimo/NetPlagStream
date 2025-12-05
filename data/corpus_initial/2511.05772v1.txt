@@ -1,0 +1,5 @@
+Title: Sign language recognition from skeletal data using graph and recurrent neural networks
+URL: http://arxiv.org/abs/2511.05772v1
+Published: 2025-11-08 00:04:42+00:00
+----------------------------------------
+This work presents an approach for recognizing isolated sign language gestures using skeleton-based pose data extracted from video sequences. A Graph-GRU temporal network is proposed to model both spatial and temporal dependencies between frames, enabling accurate classification. The model is trained and evaluated on the AUTSL (Ankara university Turkish sign language) dataset, achieving high accuracy. Experimental results demonstrate the effectiveness of integrating graph-based spatial representations with temporal modeling, providing a scalable framework for sign language recognition. The results of this approach highlight the potential of pose-driven methods for sign language understanding.

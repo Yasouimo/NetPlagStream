@@ -1,0 +1,5 @@
+Title: SSMRadNet : A Sample-wise State-Space Framework for Efficient and Ultra-Light Radar Segmentation and Object Detection
+URL: http://arxiv.org/abs/2511.08769v1
+Published: 2025-11-11 20:49:05+00:00
+----------------------------------------
+We introduce SSMRadNet, the first multi-scale State Space Model (SSM) based detector for Frequency Modulated Continuous Wave (FMCW) radar that sequentially processes raw ADC samples through two SSMs. One SSM learns a chirp-wise feature by sequentially processing samples from all receiver channels within one chirp, and a second SSM learns a representation of a frame by sequentially processing chirp-wise features. The latent representations of a radar frame are decoded to perform segmentation and detection tasks. Comprehensive evaluations on the RADIal dataset show SSMRadNet has 10-33x fewer parameters and 60-88x less computation (GFLOPs) while being 3.7x faster than state-of-the-art transformer and convolution-based radar detectors at competitive performance for segmentation tasks.

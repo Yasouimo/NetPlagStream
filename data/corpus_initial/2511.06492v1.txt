@@ -1,0 +1,5 @@
+Title: Explainable AI For Early Detection Of Sepsis
+URL: http://arxiv.org/abs/2511.06492v1
+Published: 2025-11-09 18:33:06+00:00
+----------------------------------------
+Sepsis is a life-threatening condition that requires rapid detection and treatment to prevent progression to severe sepsis, septic shock, or multi-organ failure. Despite advances in medical technology, it remains a major challenge for clinicians. While recent machine learning models have shown promise in predicting sepsis onset, their black-box nature limits interpretability and clinical trust. In this study, we present an interpretable AI approach for sepsis analysis that integrates machine learning with clinical knowledge. Our method not only delivers accurate predictions of sepsis onset but also enables clinicians to understand, validate, and align model outputs with established medical expertise.

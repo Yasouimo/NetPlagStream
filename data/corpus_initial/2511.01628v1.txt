@@ -1,0 +1,5 @@
+Title: Partial Trace-Class Bayesian Neural Networks
+URL: http://arxiv.org/abs/2511.01628v1
+Published: 2025-11-03 14:38:35+00:00
+----------------------------------------
+Bayesian neural networks (BNNs) allow rigorous uncertainty quantification in deep learning, but often come at a prohibitive computational cost. We propose three different innovative architectures of partial trace-class Bayesian neural networks (PaTraC BNNs) that enable uncertainty quantification comparable to standard BNNs but use significantly fewer Bayesian parameters. These PaTraC BNNs have computational and statistical advantages over standard Bayesian neural networks in terms of speed and memory requirements. Our proposed methodology therefore facilitates reliable, robust, and scalable uncertainty quantification in neural networks. The three architectures build on trace-class neural network priors which induce an ordering of the neural network parameters, and are thus a natural choice in our framework. In a numerical simulation study, we verify the claimed benefits, and further illustrate the performance of our proposed methodology on a real-world dataset.

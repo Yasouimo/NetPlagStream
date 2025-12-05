@@ -1,0 +1,5 @@
+Title: Notes on Kernel Methods in Machine Learning
+URL: http://arxiv.org/abs/2511.14485v1
+Published: 2025-11-18 13:29:07+00:00
+----------------------------------------
+These notes provide a self-contained introduction to kernel methods and their geometric foundations in machine learning. Starting from the construction of Hilbert spaces, we develop the theory of positive definite kernels, reproducing kernel Hilbert spaces (RKHS), and Hilbert-Schmidt operators, emphasizing their role in statistical estimation and representation of probability measures. Classical concepts such as covariance, regression, and information measures are revisited through the lens of Hilbert space geometry. We also introduce kernel density estimation, kernel embeddings of distributions, and the Maximum Mean Discrepancy (MMD). The exposition is designed to serve as a foundation for more advanced topics, including Gaussian processes, kernel Bayesian inference, and functional analytic approaches to modern machine learning.

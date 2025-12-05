@@ -1,0 +1,5 @@
+Title: Linear Gradient Prediction with Control Variates
+URL: http://arxiv.org/abs/2511.05187v1
+Published: 2025-11-07 12:09:48+00:00
+----------------------------------------
+We propose a new way of training neural networks, with the goal of reducing training cost. Our method uses approximate predicted gradients instead of the full gradients that require an expensive backward pass. We derive a control-variate-based technique that ensures our updates are unbiased estimates of the true gradient. Moreover, we propose a novel way to derive a predictor for the gradient inspired by the theory of the Neural Tangent Kernel. We empirically show the efficacy of the technique on a vision transformer classification task.

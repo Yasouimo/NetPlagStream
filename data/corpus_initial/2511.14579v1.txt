@@ -1,0 +1,5 @@
+Title: Gradient-descent methods for quantum detector tomography
+URL: http://arxiv.org/abs/2511.14579v1
+Published: 2025-11-18 15:20:11+00:00
+----------------------------------------
+We present a technique for performing quantum detector tomography (QDT) of phase insensitive quantum detectors using gradient descent-based optimization to learn the positive operator-valued measure (POVM) that best describes the data collected using the detector under study. We numerically benchmark our method against constrained convex optimization (CCO) and show that it reaches higher or comparable reconstruction fidelity in much less time even in the presence of noise and limited probe state resources. We also present a possible extension of our approach to the phase sensitive case via a parametrization of POVMs on the complex Stiefel manifold which enables gradient based optimization restricted to this manifold.

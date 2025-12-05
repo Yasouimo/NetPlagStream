@@ -1,0 +1,5 @@
+Title: From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm
+URL: http://arxiv.org/abs/2511.12421v1
+Published: 2025-11-16 02:17:37+00:00
+----------------------------------------
+There is a large class of problems in algebraic combinatorics which can be distilled into the same challenge: construct an explicit combinatorial bijection. Traditionally, researchers have solved challenges like these by visually inspecting the data for patterns, formulating conjectures, and then proving them. But what is to be done if patterns fail to emerge until the data grows beyond human scale? In this paper, we propose a new workflow for discovering combinatorial bijections via machine learning. As a proof of concept, we train a transformer on paired Dyck paths and use its learned attention patterns to derive a new algorithmic description of the zeta map, which we call the \textit{Scaffolding Map}.

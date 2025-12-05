@@ -1,0 +1,5 @@
+Title: Coordinate ascent neural Kalman-MLE for state estimation
+URL: http://arxiv.org/abs/2511.01855v1
+Published: 2025-11-03 18:59:01+00:00
+----------------------------------------
+This paper presents a coordinate ascent algorithm to learn dynamic and measurement models in dynamic state estimation using maximum likelihood estimation in a supervised manner. In particular, the dynamic and measurement models are assumed to be Gaussian and the algorithm learns the neural network parameters that model the dynamic and measurement functions, and also the noise covariance matrices. The trained dynamic and measurement models are then used with a non-linear Kalman filter algorithm to estimate the state during the testing phase.

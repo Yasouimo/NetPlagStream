@@ -1,0 +1,5 @@
+Title: J-SGFT: Joint Spatial and Graph Fourier Domain Learning for Point Cloud Attribute Deblocking
+URL: http://arxiv.org/abs/2511.05047v1
+Published: 2025-11-07 07:36:26+00:00
+----------------------------------------
+Point clouds (PC) are essential for AR/VR and autonomous driving but challenge compression schemes with their size, irregular sampling, and sparsity. MPEG's Geometry-based Point Cloud Compression (GPCC) methods successfully reduce bitrate; however, they introduce significant blocky artifacts in the reconstructed point cloud. We introduce a novel multi-scale postprocessing framework that fuses graph-Fourier latent attribute representations with sparse convolutions and channel-wise attention to efficiently deblock reconstructed point clouds. Against the GPCC TMC13v14 baseline, our approach achieves BD-rate reduction of 18.81\% in the Y channel and 18.14\% in the joint YUV on the 8iVFBv2 dataset, delivering markedly improved visual fidelity with minimal overhead.

@@ -1,0 +1,5 @@
+Title: On-Premise SLMs vs. Commercial LLMs: Prompt Engineering and Incident Classification in SOCs and CSIRTs
+URL: http://arxiv.org/abs/2511.14908v1
+Published: 2025-11-18 20:56:49+00:00
+----------------------------------------
+In this study, we evaluate open-source models for security incident classification, comparing them with proprietary models. We utilize a dataset of anonymized real incidents, categorized according to the NIST SP 800-61r3 taxonomy and processed using five prompt-engineering techniques (PHP, SHP, HTP, PRP, and ZSL). The results indicate that, although proprietary models still exhibit higher accuracy, locally deployed open-source models provide advantages in privacy, cost-effectiveness, and data sovereignty.

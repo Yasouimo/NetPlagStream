@@ -1,0 +1,5 @@
+Title: The Impact of Quantization on Large Reasoning Model Reinforcement Learning
+URL: http://arxiv.org/abs/2511.15694v1
+Published: 2025-11-19 18:50:58+00:00
+----------------------------------------
+Strong reasoning capabilities can now be achieved by large-scale reinforcement learning (RL) without any supervised fine-tuning. Although post-training quantization (PTQ) and quantization-aware training (QAT) are well studied in the context of fine-tuning, how quantization impacts RL in large reasoning models (LRMs) remains an open question. To answer this question, we conducted systematic experiments and discovered a significant gap in reasoning performance on mathematical benchmarks between post-RL quantized models and their quantization-aware RL optimized counterparts. Our findings suggest that quantization-aware RL training negatively impacted the learning process, whereas PTQ and QLoRA led to greater performance.

@@ -1,0 +1,5 @@
+Title: Low-Discrepancy Set Post-Processing via Gradient Descent
+URL: http://arxiv.org/abs/2511.10496v1
+Published: 2025-11-13 17:01:47+00:00
+----------------------------------------
+The construction of low-discrepancy sets, used for uniform sampling and numerical integration, has recently seen great improvements based on optimization and machine learning techniques. However, these methods are computationally expensive, often requiring days of computation or access to GPU clusters. We show that simple gradient descent-based techniques allow for comparable results when starting with a reasonably uniform point set. Not only is this method much more efficient and accessible, but it can be applied as post-processing to any low-discrepancy set generation method for a variety of standard discrepancy measures.

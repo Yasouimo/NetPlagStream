@@ -1,0 +1,5 @@
+Title: Do intelligent tutoring systems benefit K-12 students? A meta-analysis and evaluation of heterogeneity of treatment effects in the U.S
+URL: http://arxiv.org/abs/2511.04997v1
+Published: 2025-11-07 05:59:51+00:00
+----------------------------------------
+To expand the use of intelligent tutoring systems (ITS) in K-12 schools, it is essential to understand the conditions under which their use is most beneficial. This meta-analysis evaluated the heterogeneity of ITS effects across studies focusing on elementary, middle, and high schools in the U.S. It included 18 studies with 77 effect sizes across 11 ITS. Overall, there was a significant positive effect size of ITS on U.S. K-12 students' learning outcomes (g=0.271, SE=0.011, p=0.001). Furthermore, effect sizes were similar across elementary and middle schools, and for low-achieving students, but were lower in studies including rural schools. A MetaForest analysis showed that providing worked-out examples, intervention duration, intervention condition, type of learning outcome, and immediate measurement were the most important moderators of treatment effects.

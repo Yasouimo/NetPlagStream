@@ -1,0 +1,5 @@
+Title: A Deep Learning-Based Method for Fully Coupled Non-Markovian FBSDEs with Applications
+URL: http://arxiv.org/abs/2511.08735v1
+Published: 2025-11-11 19:50:21+00:00
+----------------------------------------
+In this work, we extend deep learning-based numerical methods to fully coupled forward-backward stochastic differential equations (FBSDEs) within a non-Markovian framework. Error estimates and convergence are provided. In contrast to the existing literature, our approach not only analyzes the non-Markovian framework but also addresses fully coupled settings, in which both the drift and diffusion coefficients of the forward process may be random and depend on the backward components $Y$ and $Z$. Furthermore, we illustrate the practical applicability of our framework by addressing utility maximization problems under rough volatility, which are solved numerically with the proposed deep learning-based methods.

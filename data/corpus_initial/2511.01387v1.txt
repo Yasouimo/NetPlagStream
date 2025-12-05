@@ -1,0 +1,5 @@
+Title: Entanglement estimation of Werner states with a quantum extreme learning machine
+URL: http://arxiv.org/abs/2511.01387v1
+Published: 2025-11-03 09:37:47+00:00
+----------------------------------------
+Quantum Extreme Learning Machines (QELMs) have emerged as a potent tool for various quantum information processing tasks. We present a QELM protocol for estimating the amount of entanglement in Werner states. The protocol requires the generation of a sequence of random Werner states, which are then combined with a reservoir state and evolved using an Ising Hamiltonian. A set of observables based on the Bloch basis is constructed and employed to train the system to recognize unseen features. To assess the protocol's robustness, noise is introduced into the input states, and the system's performance under these noisy conditions is analyzed. Additionally, the influence of the magnetic field parameter within the Ising Hamiltonian on the estimation accuracy is investigated.

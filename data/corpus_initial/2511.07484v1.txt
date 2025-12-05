@@ -1,0 +1,5 @@
+Title: Counterfactual Forecasting of Human Behavior using Generative AI and Causal Graphs
+URL: http://arxiv.org/abs/2511.07484v1
+Published: 2025-11-09 19:41:43+00:00
+----------------------------------------
+This study presents a novel framework for counterfactual user behavior forecasting that combines structural causal models with transformer-based generative artificial intelligence. To model fictitious situations, the method creates causal graphs that map the connections between user interactions, adoption metrics, and product features. The framework generates realistic behavioral trajectories under counterfactual conditions by using generative models that are conditioned on causal variables. Tested on datasets from web interactions, mobile applications, and e-commerce, the methodology outperforms conventional forecasting and uplift modeling techniques. Product teams can effectively simulate and assess possible interventions prior to deployment thanks to the framework improved interpretability through causal path visualization.

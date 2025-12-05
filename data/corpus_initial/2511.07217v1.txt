@@ -1,0 +1,5 @@
+Title: Minimization of eddy currents in permanent magnets of an electric machine with shape derivatives
+URL: http://arxiv.org/abs/2511.07217v1
+Published: 2025-11-10 15:40:14+00:00
+----------------------------------------
+In this work we deal with the shape optimization of an electric machine considering time-dependent effects such as eddy currents. The considered electric machine is an interior permanent magnet synchronous machine and we minimize the average dissipated power due to the eddy currents in the magnets over a period of time corresponding to a rotation, while at the same time maximizing the average torque. Our approach is based on the computation of the shape derivative which -- beside the computation of a time discretization of time-dependent state problem -- also involves solving a a time discretization of a time-dependent adjoint problem. The challenge of this problem is related to the dependency of each one of the N time steps of the adjoint problem on two different time steps, due to the use of finite difference in the calculation of eddy current losses.

@@ -1,0 +1,5 @@
+Title: A Probabilistic Approach to Pose Synchronization for Multi-Reference Alignment with Applications to MIMO Wireless Communication Systems
+URL: http://arxiv.org/abs/2511.03280v1
+Published: 2025-11-05 08:23:58+00:00
+----------------------------------------
+From molecular imaging to wireless communications, the ability to align and reconstruct signals from multiple misaligned observations is crucial for system performance. We study the problem of multi-reference alignment (MRA), which arises in many real-world problems, such as cryo-EM, computer vision, and, in particular, wireless communication systems. Using a probabilistic approach to model MRA, we find a new algorithm that uses relative poses as nuisance variables to marginalize out -- thereby removing the global symmetries of the problem and allowing for more direct solutions and improved convergence. The decentralization of this approach enables significant computational savings by avoiding the cubic scaling of centralized methods through cycle consistency. Both proposed algorithms achieve lower reconstruction error across experimental settings.

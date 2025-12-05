@@ -1,0 +1,8 @@
+Title: QUASAR: An Evolutionary Algorithm to Accelerate High-Dimensional Optimization
+URL: http://arxiv.org/abs/2511.13843v2
+Published: 2025-11-17 19:02:31+00:00
+----------------------------------------
+High-dimensional numerical optimization presents a persistent challenge. This paper introduces Quasi-Adaptive Search with Asymptotic Reinitialization (QUASAR), an evolutionary algorithm to accelerate convergence in complex, non-differentiable problems afflicted by the curse of dimensionality.
+  Evaluated on the notoriously difficult CEC2017 benchmark suite of 29 functions, QUASAR achieved the lowest overall rank sum (150) using the Friedman test, significantly outperforming L-SHADE (229) and standard DE (305) in the dimension-variant trials. QUASAR also proves computationally efficient, with run times averaging $1.4 \text{x}$ faster than DE and $7.8 \text{x}$ faster than L-SHADE ($p \ll 0.001$) in the population-variant trials.
+  Building upon Differential Evolution (DE), QUASAR introduces a highly stochastic architecture to dynamically balance exploration and exploitation. Inspired by the probabilistic behavior of quantum particles in a stellar core, the algorithm implements three primary components that augment standard DE mechanisms: 1) probabilistically selected mutation strategies and scaling factors; 2) rank-based crossover rates; 3) asymptotically decaying reinitialization that leverages a covariance matrix of the best solutions to introduce high-quality genetic diversity.
+  QUASAR's performance establishes it as an effective, user-friendly optimizer for complex high-dimensional problems.

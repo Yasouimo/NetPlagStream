@@ -1,0 +1,5 @@
+Title: ML-Based Optimum Sub-system Size Heuristic for the GPU Implementation of the Tridiagonal Partition Method
+URL: http://arxiv.org/abs/2510.27351v1
+Published: 2025-10-31 10:35:03+00:00
+----------------------------------------
+This paper presents a machine learning (ML)-based heuristic for finding the optimum sub-system size for the CUDA implementation of the parallel partition algorithm. Computational experiments for different system of linear algebraic equation (SLAE) sizes are conducted, and the optimum sub-system size for each of them is found empirically. To estimate a model for the sub-system size, we perform the k-nearest neighbors (kNN) classification method. Statistical analysis of the results is done. By comparing the predicted values with the actual data, the algorithm is deemed to be acceptably good. Next, the heuristic is expanded to work for the recursive parallel partition algorithm as well. An algorithm for determining the optimum sub-system size for each recursive step is formulated. A kNN model for predicting the optimum number of recursive steps for a particular SLAE size is built.

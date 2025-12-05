@@ -1,0 +1,5 @@
+Title: Multi-View Polymer Representations for the Open Polymer Prediction
+URL: http://arxiv.org/abs/2511.10893v2
+Published: 2025-11-14 02:14:07+00:00
+----------------------------------------
+We address polymer property prediction with a multi-view design that exploits complementary representations. Our system integrates four families: (i) tabular RDKit/Morgan descriptors, (ii) graph neural networks, (iii) 3D-informed representations, and (iv) pretrained SMILES language models, and averages per-property predictions via a uniform ensemble. Models are trained with 10-fold splits and evaluated with SMILES test-time augmentation. The approach ranks 9th of 2241 teams in the Open Polymer Prediction Challenge at NeurIPS 2025. The submitted ensemble achieves a public MAE of 0.057 and a private MAE of 0.082.

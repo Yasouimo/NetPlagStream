@@ -1,0 +1,5 @@
+Title: Optimizing Input of Denoising Score Matching is Biased Towards Higher Score Norm
+URL: http://arxiv.org/abs/2511.11727v1
+Published: 2025-11-13 05:11:01+00:00
+----------------------------------------
+Many recent works utilize denoising score matching to optimize the conditional input of diffusion models. In this workshop paper, we demonstrate that such optimization breaks the equivalence between denoising score matching and exact score matching. Furthermore, we show that this bias leads to higher score norm. Additionally, we observe a similar bias when optimizing the data distribution using a pre-trained diffusion model. Finally, we discuss the wide range of works across different domains that are affected by this bias, including MAR for auto-regressive generation, PerCo for image compression, and DreamFusion for text to 3D generation.

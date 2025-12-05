@@ -1,0 +1,5 @@
+Title: Aligning by Misaligning: Boundary-aware Curriculum Learning for Multimodal Alignment
+URL: http://arxiv.org/abs/2511.08399v1
+Published: 2025-11-11 16:15:15+00:00
+----------------------------------------
+Most multimodal models treat every negative pair alike, ignoring the ambiguous negatives that differ from the positive by only a small detail. We propose Boundary-Aware Curriculum with Local Attention (BACL), a lightweight add-on that turns these borderline cases into a curriculum signal. A Boundary-aware Negative Sampler gradually raises difficulty, while a Contrastive Local Attention loss highlights where the mismatch occurs. The two modules are fully differentiable and work with any off-the-shelf dual encoder. Theory predicts a fast O(1/n) error rate; practice shows up to +32% R@1 over CLIP and new SOTA on four large-scale benchmarks, all without extra labels.

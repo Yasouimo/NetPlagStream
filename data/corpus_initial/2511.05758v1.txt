@@ -1,0 +1,5 @@
+Title: Primal-Only Actor Critic Algorithm for Robust Constrained Average Cost MDPs
+URL: http://arxiv.org/abs/2511.05758v1
+Published: 2025-11-07 23:05:14+00:00
+----------------------------------------
+In this work, we study the problem of finding robust and safe policies in Robust Constrained Average-Cost Markov Decision Processes (RCMDPs). A key challenge in this setting is the lack of strong duality, which prevents the direct use of standard primal-dual methods for constrained RL. Additional difficulties arise from the average-cost setting, where the Robust Bellman operator is not a contraction under any norm. To address these challenges, we propose an actor-critic algorithm for Average-Cost RCMDPs. We show that our method achieves both \(ε\)-feasibility and \(ε\)-optimality, and we establish a sample complexities of \(\tilde{O}\left(ε^{-4}\right)\) and \(\tilde{O}\left(ε^{-6}\right)\) with and without slackness assumption, which is comparable to the discounted setting.

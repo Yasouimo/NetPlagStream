@@ -1,0 +1,5 @@
+Title: Deep Progressive Training: scaling up depth capacity of zero/one-layer models
+URL: http://arxiv.org/abs/2511.04981v1
+Published: 2025-11-07 04:56:45+00:00
+----------------------------------------
+Model depth is a double-edged sword in deep learning: deeper models achieve higher accuracy but require higher computational cost. To efficiently train models at scale, an effective strategy is the progressive training, which scales up model capacity during training, hence significantly reducing computation with little to none performance degradation. In this work, we study the depth expansion of large models through the lens of optimization theory and feature learning, offering insights on the initialization of new layers, hyperparameter transfer, learning rate schedule, and timing of model expansion. Specifically, we propose zero/one-layer progressive training for the optimal tradeoff between computation and loss. For example, zero/one-layer progressive training on GPT2 can save $\approx 80\%$ compute, or equivalently accelerate $\approx 5\times$ while achieving almost the same loss, compared to to a fully trained 60-layer model with 7B parameters.

@@ -1,0 +1,5 @@
+Title: FlowTIE: Flow-based Transport of Intensity Equation for Phase Gradient Estimation from 4D-STEM Data
+URL: http://arxiv.org/abs/2511.07633v1
+Published: 2025-11-10 21:05:58+00:00
+----------------------------------------
+We introduce FlowTIE, a neural-network-based framework for phase reconstruction from 4D-Scanning Transmission Electron Microscopy (STEM) data, which integrates the Transport of Intensity Equation (TIE) with a flow-based representation of the phase gradient. This formulation allows the model to bridge data-driven learning with physics-based priors, improving robustness under dynamical scattering conditions for thick specimen. The validation on simulated datasets of crystalline materials, benchmarking to classical TIE and gradient-based optimization methods are presented. The results demonstrate that FlowTIE improves phase reconstruction accuracy, fast, and can be integrated with a thick specimen model, namely multislice method.

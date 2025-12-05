@@ -1,0 +1,5 @@
+Title: Low redshift observational constraints on dark energy models using ANN - CosmicANNEstimator
+URL: http://arxiv.org/abs/2511.04033v1
+Published: 2025-11-06 04:11:46+00:00
+----------------------------------------
+We present CosmicANNEstimator (Cosmological Parameters Artificial Neural Network Estimator), a machine learning approach for constraining cosmological parameters within the Lambda Cold Dark Matter ($Λ$CDM) framework. Our methodology employs two specialized artificial neural networks (ANNs) designed to analyze Hubble parameter and Supernova data independently. The estimator is trained on synthetic data covering broad parameter ranges, with Gaussian random noise incorporated to simulate observational uncertainties. Our results demonstrate parameter estimates and associated uncertainties comparable to traditional Markov Chain Monte Carlo (MCMC) methods, establishing machine learning as an efficient alternative for cosmological parameter estimation. This work underscores the potential of neural network-based inference to complement traditional Bayesian methods and accelerate future cosmological analyses.

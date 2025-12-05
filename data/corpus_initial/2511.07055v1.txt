@@ -1,0 +1,5 @@
+Title: When Sufficient is not Enough: Utilizing the Rashomon Effect for Complete Evidence Extraction
+URL: http://arxiv.org/abs/2511.07055v1
+Published: 2025-11-10 12:46:39+00:00
+----------------------------------------
+Feature attribution methods typically provide minimal sufficient evidence justifying a model decision. However, in many applications this is inadequate. For compliance and cataloging, the full set of contributing features must be identified - complete evidence. We perform a case study on a medical dataset which contains human-annotated complete evidence. We show that individual models typically recover only subsets of complete evidence and that aggregating evidence from several models improves evidence recall from $\sim$0.60 (single best model) to $\sim$0.86 (ensemble). We analyze the recall-precision trade-off, the role of training with evidence, dynamic ensembles with certainty thresholds, and discuss implications.

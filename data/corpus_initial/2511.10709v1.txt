@@ -1,0 +1,5 @@
+Title: Limitations of Quantum Advantage in Unsupervised Machine Learning
+URL: http://arxiv.org/abs/2511.10709v1
+Published: 2025-11-13 08:50:40+00:00
+----------------------------------------
+Machine learning models are used for pattern recognition analysis of big data, without direct human intervention. The task of unsupervised learning is to find the probability distribution that would best describe the available data, and then use it to make predictions for observables of interest. Classical models generally fit the data to Boltzmann distribution of Hamiltonians with a large number of tunable parameters. Quantum extensions of these models replace classical probability distributions with quantum density matrices. An advantage can be obtained only when features of density matrices that are absent in classical probability distributions are exploited. Such situations depend on the input data as well as the targeted observables. Explicit examples are discussed that bring out the constraints limiting possible quantum advantage. The problem-dependent extent of quantum advantage has implications for both data analysis and sensing applications.

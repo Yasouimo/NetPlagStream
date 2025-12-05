@@ -1,0 +1,131 @@
+services:
+  # HDFS NameNode - accessible from Windows host at localhost:8020
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: hadoop-namenode
+    hostname: namenode
+    ports:
+      - "9870:9870"  # Web UI (NameNode Web Interface)
+      - "9000:9000"   # HDFS Client Protocol (legacy, not used)
+      - "8020:8020"   # NameNode RPC (for external connections from Windows host)
+    environment:
+      - CLUSTER_NAME=netplag
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020  # Internal (container) URL
+      # External connections from Windows host should use: hdfs://localhost:8020
+    volumes:
+      - hadoop_namenode:/hadoop/dfs/name
+      - ./hadoop-config/hdfs-site.xml:/opt/hadoop-3.2.1/etc/hadoop/hdfs-site.xml:ro
+    networks:
+      - hadoop-net
+    healthcheck:
+      test: ["CMD-SHELL", "hdfs dfsadmin -report || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    restart: unless-stopped  # Prevents auto-restart on corruption, allows manual control
+    stop_grace_period: 60s   # Give NameNode time to save metadata gracefully
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+        reservations:
+          memory: 1G
+
+  # HDFS DataNode - accessible from Windows host at localhost:9866
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: hadoop-datanode
+    hostname: datanode
+    ports:
+      - "9864:9864"  # Web UI
+      - "9866:9866"   # Data transfer port (critical for Windows host access)
+    environment:
+      - SERVICE_PRECONDITION=namenode:9870
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+      # Force DataNode to bind to all interfaces
+      - HDFS_CONF_datanode_address=0.0.0.0:9866
+      - HDFS_CONF_datanode_http_address=0.0.0.0:9864
+    volumes:
+      - hadoop_datanode:/hadoop/dfs/data
+      - ./hadoop-config/hdfs-site.xml:/opt/hadoop-3.2.1/etc/hadoop/hdfs-site.xml:ro
+    networks:
+      - hadoop-net
+    depends_on:
+      namenode:
+        condition: service_healthy  # Wait for NameNode to be healthy before starting
+    healthcheck:
+      test: ["CMD-SHELL", "hdfs dfsadmin -report || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    restart: unless-stopped  # Prevents auto-restart on corruption, allows manual control
+    stop_grace_period: 30s   # Give DataNode time to close connections gracefully
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+        reservations:
+          memory: 1G
+
+  # Dashboard - Web interface for visualizing plagiarism results
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.dashboard
+    container_name: netplag-dashboard
+    hostname: dashboard
+    ports:
+      - "5000:5000"
+    environment:
+      - IN_DOCKER=true
+      - ES_HOST=elasticsearch
+      - ES_PORT=9200
+    networks:
+      - hadoop-net
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/api/stats"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 10s
+
+  # Elasticsearch - for indexing and searching plagiarism results
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.11.0
+    container_name: netplag-elasticsearch
+    hostname: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - bootstrap.memory_lock=true
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    ports:
+      - "9200:9200"  # REST API
+      - "9300:9300"  # Transport (if needed)
+    volumes:
+      - elasticsearch_data:/usr/share/elasticsearch/data
+    networks:
+      - hadoop-net
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9200/_cluster/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+
+volumes:
+  hadoop_namenode:
+  hadoop_datanode:
+  elasticsearch_data:
+
+networks:
+  hadoop-net:

@@ -1,0 +1,5 @@
+Title: A Lightweight CNN-Attention-BiLSTM Architecture for Multi-Class Arrhythmia Classification on Standard and Wearable ECGs
+URL: http://arxiv.org/abs/2511.08650v1
+Published: 2025-11-11 05:25:58+00:00
+----------------------------------------
+Early and accurate detection of cardiac arrhythmias is vital for timely diagnosis and intervention. We propose a lightweight deep learning model combining 1D Convolutional Neural Networks (CNN), attention mechanisms, and Bidirectional Long Short-Term Memory (BiLSTM) for classifying arrhythmias from both 12-lead and single-lead ECGs. Evaluated on the CPSC 2018 dataset, the model addresses class imbalance using a class-weighted loss and demonstrates superior accuracy and F1- scores over baseline models. With only 0.945 million parameters, our model is well-suited for real-time deployment in wearable health monitoring systems.

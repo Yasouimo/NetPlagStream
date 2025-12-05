@@ -1,0 +1,5 @@
+Title: Theoretical basis for code presentation: A case for cognitive load
+URL: http://arxiv.org/abs/2511.14636v1
+Published: 2025-11-18 16:28:45+00:00
+----------------------------------------
+Evidence supports that reducing cognitive load (CL) improves task performance for people of all abilities. This effect is specifically important for blind-and-low-vision (BLV) individuals because they cannot rely on many common methods of managing CL, which are frequently vision-based techniques. Current accessible "solutions" for BLV developers only sporadically consider CL in their design. There isn't a way to know whether CL is being alleviated by them. Neither do we know if alleviating CL is part of the mechanism behind why these solutions help BLV people. Using a strong foundation in psychological sciences, we identify aspects of CL that impact performance and learning in programming. These aspects are then examined when evaluating existing solutions for programming sub-tasks for BLV users. We propose an initial design "recommendations" for presentation of code which, when followed, will reduce cognitive load for BLV developers.

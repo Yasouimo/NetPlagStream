@@ -1,0 +1,5 @@
+Title: Slimmable NAM: Neural Amp Models with adjustable runtime computational cost
+URL: http://arxiv.org/abs/2511.07470v1
+Published: 2025-11-08 01:06:18+00:00
+----------------------------------------
+This work demonstrates "slimmable Neural Amp Models", whose size and computational cost can be changed without additional training and with negligible computational overhead, enabling musicians to easily trade off between the accuracy and compute of the models they are using. The method's performance is quantified against commonly-used baselines, and a real-time demonstration of the model in an audio effect plug-in is developed.

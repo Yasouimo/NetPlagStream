@@ -1,0 +1,5 @@
+Title: Convolutional Model Trees
+URL: http://arxiv.org/abs/2511.12725v1
+Published: 2025-11-16 18:31:29+00:00
+----------------------------------------
+A method for creating a forest of model trees to fit samples of a function defined on images is described in several steps: down-sampling the images, determining a tree's hyperplanes, applying convolutions to the hyperplanes to handle small distortions of training images, and creating forests of model trees to increase accuracy and achieve a smooth fit. A 1-to-1 correspondence among pixels of images, coefficients of hyperplanes and coefficients of leaf functions offers the possibility of dealing with larger distortions such as arbitrary rotations or changes of perspective. A theoretical method for smoothing forest outputs to produce a continuously differentiable approximation is described. Within that framework, a training procedure is proved to converge.

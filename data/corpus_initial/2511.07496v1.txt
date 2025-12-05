@@ -1,0 +1,5 @@
+Title: Laplacian Score Sharpening for Mitigating Hallucination in Diffusion Models
+URL: http://arxiv.org/abs/2511.07496v1
+Published: 2025-11-10 14:16:31+00:00
+----------------------------------------
+Diffusion models, though successful, are known to suffer from hallucinations that create incoherent or unrealistic samples. Recent works have attributed this to the phenomenon of mode interpolation and score smoothening, but they lack a method to prevent their generation during sampling. In this paper, we propose a post-hoc adjustment to the score function during inference that leverages the Laplacian (or sharpness) of the score to reduce mode interpolation hallucination in unconditional diffusion models across 1D, 2D, and high-dimensional image data. We derive an efficient Laplacian approximation for higher dimensions using a finite-difference variant of the Hutchinson trace estimator. We show that this correction significantly reduces the rate of hallucinated samples across toy 1D/2D distributions and a high-dimensional image dataset. Furthermore, our analysis explores the relationship between the Laplacian and uncertainty in the score.

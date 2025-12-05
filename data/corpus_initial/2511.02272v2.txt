@@ -1,0 +1,5 @@
+Title: Probabilistic Graph Cuts
+URL: http://arxiv.org/abs/2511.02272v2
+Published: 2025-11-04 05:24:56+00:00
+----------------------------------------
+Probabilistic relaxations of graph cuts offer a differentiable alternative to spectral clustering, enabling end-to-end and online learning without eigendecompositions, yet prior work centered on RatioCut and lacked general guarantees and principled gradients. We present a unified probabilistic framework that covers a wide class of cuts, including Normalized Cut. Our framework provides tight analytic upper bounds on expected discrete cuts via integral representations and Gauss hypergeometric functions with closed-form forward and backward. Together, these results deliver a rigorous, numerically stable foundation for scalable, differentiable graph partitioning covering a wide range of clustering and contrastive learning objectives.

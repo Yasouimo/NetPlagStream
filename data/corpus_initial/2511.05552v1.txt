@@ -1,0 +1,5 @@
+Title: Deep one-gate per layer networks with skip connections are universal classifiers
+URL: http://arxiv.org/abs/2511.05552v1
+Published: 2025-11-02 21:12:38+00:00
+----------------------------------------
+This paper shows how a multilayer perceptron with two hidden layers, which has been designed to classify two classes of data points, can easily be transformed into a deep neural network with one-gate layers and skip connections.

@@ -1,0 +1,5 @@
+Title: Machine-learning interatomic potential for AlN for epitaxial simulation
+URL: http://arxiv.org/abs/2511.08330v1
+Published: 2025-11-11 15:07:45+00:00
+----------------------------------------
+A machine learned interatomic potential for AlN was developed using the ultra-fast force field (UF3) methodology. A strong agreement with density functional theory calculations in predicting key structural and mechanical properties, including lattice constants, elastic constants, cohesive energy, and surface energies has been demonstrated. The potential was also shown to accurately reproduce the experimentally observed atomic core structure of edge dislocations. Most significantly, it reproduced the experimentally observed wurtzite crystal structure in the overlayer during homoepitaxial growth of AlN on wurtzite AlN, something that prior potentials failed to achieve. Additionally, the potential reproduced the experimentally observed layer-by-layer growth mode in the epilayer. The combination of accuracy, transferability, and computational speed afforded by the UF3 framework thus makes large-scale, atomistic simulations of epitaxial growth of AlN feasible.

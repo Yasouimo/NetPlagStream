@@ -1,0 +1,5 @@
+Title: Vision Transformer Based User Equipment Positioning
+URL: http://arxiv.org/abs/2511.08549v1
+Published: 2025-11-11 18:31:29+00:00
+----------------------------------------
+Recently, Deep Learning (DL) techniques have been used for User Equipment (UE) positioning. However, the key shortcomings of such models is that: i) they weigh the same attention to the entire input; ii) they are not well suited for the non-sequential data e.g., when only instantaneous Channel State Information (CSI) is available. In this context, we propose an attention-based Vision Transformer (ViT) architecture that focuses on the Angle Delay Profile (ADP) from CSI matrix. Our approach, validated on the `DeepMIMO' and `ViWi' ray-tracing datasets, achieves an Root Mean Squared Error (RMSE) of 0.55m indoors, 13.59m outdoors in DeepMIMO, and 3.45m in ViWi's outdoor blockage scenario. The proposed scheme outperforms state-of-the-art schemes by $\sim$ 38\%. It also performs substantially better than other approaches that we have considered in terms of the distribution of error distance.

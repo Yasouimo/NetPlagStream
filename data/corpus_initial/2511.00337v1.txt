@@ -1,0 +1,5 @@
+Title: Large Language Models for Control
+URL: http://arxiv.org/abs/2511.00337v1
+Published: 2025-11-01 00:43:12+00:00
+----------------------------------------
+This paper investigates using large language models (LLMs) to generate control actions directly, without requiring control-engineering expertise or hand-tuned algorithms. We implement several variants: (i) prompt-only, (ii) tool-assisted with access to historical data, and (iii) prediction-assisted using learned or simple models to score candidate actions. We compare them on tracking accuracy and actuation effort, with and without a prompt that requests lower actuator usage. Results show prompt-only LLMs already produce viable control, while tool-augmented versions adapt better to changing objectives but can be more sensitive to constraints, supporting LLM-in-the-loop control for evolving cyber-physical systems today and operator and human inputs.

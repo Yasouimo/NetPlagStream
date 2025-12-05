@@ -1,0 +1,5 @@
+Title: Enhancing Medical Image Segmentation via Heat Conduction Equation
+URL: http://arxiv.org/abs/2511.03260v1
+Published: 2025-11-05 07:44:27+00:00
+----------------------------------------
+Medical image segmentation has been significantly advanced by deep learning architectures, notably U-Net variants. However, existing models struggle to achieve efficient global context modeling and long-range dependency reasoning under practical computational budgets simultaneously. In this work, we propose a novel hybrid architecture utilizing U-Mamba with Heat Conduction Equation. Our model combines Mamba-based state-space modules for efficient long-range reasoning with Heat Conduction Operators (HCOs) in the bottleneck layers, simulating frequency-domain thermal diffusion for enhanced semantic abstraction. Experimental results on multimodal abdominal CT and MRI datasets demonstrate that the proposed model consistently outperforms strong baselines, validating its effectiveness and generalizability. It suggest that blending state-space dynamics with heat-based global diffusion offers a scalable and interpretable solution for medical segmentation tasks.

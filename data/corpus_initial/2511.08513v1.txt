@@ -1,0 +1,5 @@
+Title: Clustering Guided Residual Neural Networks for Multi-Tx Localization in Molecular Communications
+URL: http://arxiv.org/abs/2511.08513v1
+Published: 2025-11-11 17:51:04+00:00
+----------------------------------------
+Transmitter localization in Molecular Communication via Diffusion is a critical topic with many applications. However, accurate localization of multiple transmitters is a challenging problem due to the stochastic nature of diffusion and overlapping molecule distributions at the receiver surface. To address these issues, we introduce clustering-based centroid correction methods that enhance robustness against density variations, and outliers. In addition, we propose two clusteringguided Residual Neural Networks, namely AngleNN for direction refinement and SizeNN for cluster size estimation. Experimental results show that both approaches provide significant improvements with reducing localization error between 69% (2-Tx) and 43% (4-Tx) compared to the K-means.

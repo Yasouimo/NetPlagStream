@@ -1,0 +1,5 @@
+Title: Encoding and Understanding Astrophysical Information in Large Language Model-Generated Summaries
+URL: http://arxiv.org/abs/2511.14685v1
+Published: 2025-11-18 17:23:29+00:00
+----------------------------------------
+Large Language Models have demonstrated the ability to generalize well at many levels across domains, modalities, and even shown in-context learning capabilities. This enables research questions regarding how they can be used to encode physical information that is usually only available from scientific measurements, and loosely encoded in textual descriptions. Using astrophysics as a test bed, we investigate if LLM embeddings can codify physical summary statistics that are obtained from scientific measurements through two main questions: 1) Does prompting play a role on how those quantities are codified by the LLM? and 2) What aspects of language are most important in encoding the physics represented by the measurement? We investigate this using sparse autoencoders that extract interpretable features from the text.

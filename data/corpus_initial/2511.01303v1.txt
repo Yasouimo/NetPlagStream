@@ -1,0 +1,5 @@
+Title: Black-Box Differentially Private Nonparametric Confidence Intervals Under Minimal Assumptions
+URL: http://arxiv.org/abs/2511.01303v1
+Published: 2025-11-03 07:38:30+00:00
+----------------------------------------
+We introduce a simple, general framework that takes any differentially private estimator of any arbitrary quantity as a black box, and from it constructs a differentially private nonparametric confidence interval of that quantity. Our approach repeatedly subsamples the data, applies the private estimator to each subsample, and then post-processes the resulting empirical CDF to a confidence interval. Our analysis uses the randomness from the subsampling to achieve privacy amplification. Under mild assumptions, the empirical CDF we obtain approaches the CDF of the private statistic as the sample size grows. We use this to show that the confidence intervals we estimate are asymptotically valid, tight, and equivalent to their non-private counterparts. We provide empirical evidence that our method performs well compared with the (less-general) state-of-the-art algorithms.

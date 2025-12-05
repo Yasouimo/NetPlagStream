@@ -1,0 +1,5 @@
+Title: Environment Agnostic Goal-Conditioning, A Study of Reward-Free Autonomous Learning
+URL: http://arxiv.org/abs/2511.04598v1
+Published: 2025-11-06 17:51:11+00:00
+----------------------------------------
+In this paper we study how transforming regular reinforcement learning environments into goal-conditioned environments can let agents learn to solve tasks autonomously and reward-free. We show that an agent can learn to solve tasks by selecting its own goals in an environment-agnostic way, at training times comparable to externally guided reinforcement learning. Our method is independent of the underlying off-policy learning algorithm. Since our method is environment-agnostic, the agent does not value any goals higher than others, leading to instability in performance for individual goals. However, in our experiments, we show that the average goal success rate improves and stabilizes. An agent trained with this method can be instructed to seek any observations made in the environment, enabling generic training of agents prior to specific use cases.

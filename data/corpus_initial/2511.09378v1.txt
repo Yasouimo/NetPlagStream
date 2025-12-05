@@ -1,0 +1,5 @@
+Title: The 2025 Planning Performance of Frontier Large Language Models
+URL: http://arxiv.org/abs/2511.09378v1
+Published: 2025-11-12 14:45:07+00:00
+----------------------------------------
+The capacity of Large Language Models (LLMs) for reasoning remains an active area of research, with the capabilities of frontier models continually advancing. We provide an updated evaluation of the end-to-end planning performance of three frontier LLMs as of 2025, where models are prompted to generate a plan from PDDL domain and task descriptions. We evaluate DeepSeek R1, Gemini 2.5 Pro, GPT-5 and as reference the planner LAMA on a subset of domains from the most recent Learning Track of the International Planning Competition. Our results show that on standard PDDL domains, the performance of GPT-5 in terms of solved tasks is competitive with LAMA. When the PDDL domains and tasks are obfuscated to test for pure reasoning, the performance of all LLMs degrades, though less severely than previously reported for other models. These results show substantial improvements over prior generations of LLMs, reducing the performance gap to planners on a challenging benchmark.

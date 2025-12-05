@@ -1,0 +1,5 @@
+Title: Generic Algorithm for Universal TDM Communication Over Inter Satellite Links
+URL: http://arxiv.org/abs/2511.08034v1
+Published: 2025-11-11 09:37:53+00:00
+----------------------------------------
+The original Python Testbed for Federated Learning Algorithms is a light FL framework, which provides the three generic algorithms: the centralized federated learning, the decentralized federated learning, and the TDM communication (i.e., peer data exchange) in the current time slot. The limitation of the latter is that it allows communication only between pairs of network nodes. This paper presents the new generic algorithm for the universal TDM communication that overcomes this limitation, such that a node can communicate with an arbitrary number of peers (assuming the peers also want to communicate with it). The paper covers: (i) the algorithm's theoretical foundation, (ii) the system design, and (iii) the system validation. The main advantage of the new algorithm is that it supports real-world TDM communications over inter satellite links.

@@ -1,0 +1,7 @@
+Title: Reasoning: From Reflection to Solution
+URL: http://arxiv.org/abs/2511.11712v1
+Published: 2025-11-12 17:23:32+00:00
+----------------------------------------
+What is reasoning? This question has driven centuries of philosophical inquiry, from Aristotle's syllogisms to modern computational complexity theory. In the age of large language models achieving superhuman performance on benchmarks like GSM8K (95\% accuracy) and HumanEval (90\% pass@1), we must ask: have these systems learned to \emph{reason}, or have they learned to \emph{pattern-match over reasoning traces}?
+  This paper argues for a specific answer: \textbf{reasoning is iterative operator application in state spaces, converging to fixed points}. This definition is not merely philosophical -- it has concrete architectural implications that explain both the failures of current systems and the path to genuine reasoning capabilities.
+  Our investigation begins with a puzzle (OpenXOR), progresses through theory (OpenOperator), and culminates in a working solution (OpenLM) that achieves 76\% accuracy where state-of-the-art LLMs achieve 0\%. This is not about criticizing existing systems, but about \emph{understanding what reasoning requires} and \emph{building architectures that provide it}.

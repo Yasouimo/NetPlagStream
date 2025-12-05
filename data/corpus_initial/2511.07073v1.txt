@@ -1,0 +1,6 @@
+Title: Breaking Privacy in Federated Clustering: Perfect Input Reconstruction via Temporal Correlations
+URL: http://arxiv.org/abs/2511.07073v1
+Published: 2025-11-10 13:06:16+00:00
+----------------------------------------
+Federated clustering allows multiple parties to discover patterns in distributed data without sharing raw samples. To reduce overhead, many protocols disclose intermediate centroids during training. While often treated as harmless for efficiency, whether such disclosure compromises privacy remains an open question. Prior analyses modeled the problem as a so-called Hidden Subset Sum Problem (HSSP) and argued that centroid release may be safe, since classical HSSP attacks fail to recover inputs.
+  We revisit this question and uncover a new leakage mechanism: temporal regularities in $k$-means iterations create exploitable structure that enables perfect input reconstruction. Building on this insight, we propose Trajectory-Aware Reconstruction (TAR), an attack that combines temporal assignment information with algebraic analysis to recover exact original inputs. Our findings provide the first rigorous evidence, supported by a practical attack, that centroid disclosure in federated clustering significantly compromises privacy, exposing a fundamental tension between privacy and efficiency.

@@ -1,0 +1,5 @@
+Title: End-to-End Reinforcement Learning of Koopman Models for eNMPC of an Air Separation Unit
+URL: http://arxiv.org/abs/2511.04522v1
+Published: 2025-11-06 16:35:32+00:00
+----------------------------------------
+With our recently proposed method based on reinforcement learning (Mayfrank et al. (2024), Comput. Chem. Eng. 190), Koopman surrogate models can be trained for optimal performance in specific (economic) nonlinear model predictive control ((e)NMPC) applications. So far, our method has exclusively been demonstrated on a small-scale case study. Herein, we show that our method scales well to a more challenging demand response case study built on a large-scale model of a single-product (nitrogen) air separation unit. Across all numerical experiments, we assume observability of only a few realistically measurable plant variables. Compared to a purely system identification-based Koopman eNMPC, which generates small economic savings but frequently violates constraints, our method delivers similar economic performance while avoiding constraint violations.

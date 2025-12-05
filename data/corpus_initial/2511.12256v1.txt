@@ -1,0 +1,5 @@
+Title: Prompt-Conditioned FiLM and Multi-Scale Fusion on MedSigLIP for Low-Dose CT Quality Assessment
+URL: http://arxiv.org/abs/2511.12256v1
+Published: 2025-11-15 15:26:59+00:00
+----------------------------------------
+We propose a prompt-conditioned framework built on MedSigLIP that injects textual priors via Feature-wise Linear Modulation (FiLM) and multi-scale pooling. Text prompts condition patch-token features on clinical intent, enabling data-efficient learning and rapid adaptation. The architecture combines global, local, and texture-aware pooling through separate regression heads fused by a lightweight MLP, trained with pairwise ranking loss. Evaluated on the LDCTIQA2023 (a public LDCT quality assessment challenge) with 1,000 training images, we achieve PLCC = 0.9575, SROCC = 0.9561, and KROCC = 0.8301, surpassing the top-ranked published challenge submissions and demonstrating the effectiveness of our prompt-guided approach.

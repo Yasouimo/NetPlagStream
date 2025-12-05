@@ -1,0 +1,5 @@
+Title: Quantum Information Ordering and Differential Privacy
+URL: http://arxiv.org/abs/2511.01467v2
+Published: 2025-11-03 11:24:52+00:00
+----------------------------------------
+We study quantum differential privacy (QDP) by defining a notion of the order of informativeness between two pairs of quantum states. In particular, we show that if the hypothesis testing divergence of the one pair dominates over that of the other pair, then this dominance holds for every $f$-divergence. This approach completely characterizes $(\varepsilon,δ)$-QDP mechanisms by identifying the most informative $(\varepsilon,δ)$-DP quantum state pairs. We apply this to analyze the stability of quantum differentially private learning algorithms, generalizing classical results to the case $δ>0$. Additionally, we study precise limits for privatized hypothesis testing and privatized quantum parameter estimation, including tight upper-bounds on the quantum Fisher information under QDP. Finally, we establish near-optimal contraction bounds for differentially private quantum channels with respect to the hockey-stick divergence.

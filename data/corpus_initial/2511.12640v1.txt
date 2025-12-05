@@ -1,0 +1,5 @@
+Title: Double machine learning for causal inference in a multivariate sample selection model
+URL: http://arxiv.org/abs/2511.12640v1
+Published: 2025-11-16 15:14:38+00:00
+----------------------------------------
+We propose plug-in (PI) and double machine learning (DML) estimators of average treatment effect (ATE), average treatment effect on the treated (ATET) and local average treatment effect (LATE) in the multivariate sample selection model with ordinal selection equations. Our DML estimators are doubly-robust and based on the efficient influence functions. Finite sample properties of the proposed estimators are studied and compared on simulated data. Specifically, the results of the analysis suggest that without addressing multivariate sample selection, the estimates of the causal parameters may be highly biased. However, the proposed estimators allow us to avoid these biases.

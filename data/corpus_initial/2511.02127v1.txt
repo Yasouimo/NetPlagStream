@@ -1,0 +1,5 @@
+Title: Exact Mapping of Nonequilibrium to Equilibrium Phase Transitions for Systems in Contact with Two Thermal Baths
+URL: http://arxiv.org/abs/2511.02127v1
+Published: 2025-11-03 23:35:43+00:00
+----------------------------------------
+We show that a large class of nonequilibrium many-body systems in contact with two thermal baths admit an exact mapping onto equivalent equilibrium systems. This mapping provides direct access to nonequilibrium phase transition points from known equilibrium results, irrespective of the model, interaction topology, or distance from equilibrium. We verify the universality of this correspondence using paradigmatic models (Ising, Potts, and Blume-Capel), and highlight distinctive features in entropy production close to critical and tricritical points. Our findings connect equilibrium and nonequilibrium statistical mechanics, with implications for microscopic thermal machines and stochastic thermodynamics.

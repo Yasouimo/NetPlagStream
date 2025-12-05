@@ -1,0 +1,5 @@
+Title: From generative AI to the brain: five takeaways
+URL: http://arxiv.org/abs/2511.16432v1
+Published: 2025-11-20 15:00:44+00:00
+----------------------------------------
+The big strides seen in generative AI are not based on somewhat obscure algorithms, but due to clearly defined generative principles. The resulting concrete implementations have proven themselves in large numbers of applications. We suggest that it is imperative to thoroughly investigate which of these generative principles may be operative also in the brain, and hence relevant for cognitive neuroscience. In addition, ML research led to a range of interesting characterizations of neural information processing systems. We discuss five examples, the shortcomings of world modelling, the generation of thought processes, attention, neural scaling laws, and quantization, that illustrate how much neuroscience could potentially learn from ML research.

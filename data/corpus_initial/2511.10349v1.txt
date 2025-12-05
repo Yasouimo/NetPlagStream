@@ -1,0 +1,5 @@
+Title: Private From Whom? Minimal Information Leakage in Auctions
+URL: http://arxiv.org/abs/2511.10349v1
+Published: 2025-11-13 14:22:59+00:00
+----------------------------------------
+In many auctions, bidders may be reluctant to reveal private information to the auctioneer and other bidders. Among deterministic bilateral communication protocols, reducing what bidders learn requires increasing what the auctioneer learns. A protocol implementing a given social choice rule is on the privacy Pareto frontier if no alternative protocol reveals less to both bidders and the auctioneer. For first-price auctions, the descending protocol and the sealed-bid protocol are both on the privacy Pareto frontier. For second-price auctions, the ascending protocol and the ascending-join protocol of Haupt and Hitzig (2025) are both on the privacy Pareto frontier, but the sealed-bid protocol is not. A designer can flexibly trade off between what bidders learn and what the auctioneer learns by "stitching" different protocols together.

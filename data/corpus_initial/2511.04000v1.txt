@@ -1,0 +1,5 @@
+Title: Towards Scalable Meta-Learning of near-optimal Interpretable Models via Synthetic Model Generations
+URL: http://arxiv.org/abs/2511.04000v1
+Published: 2025-11-06 02:50:23+00:00
+----------------------------------------
+Decision trees are widely used in high-stakes fields like finance and healthcare due to their interpretability. This work introduces an efficient, scalable method for generating synthetic pre-training data to enable meta-learning of decision trees. Our approach samples near-optimal decision trees synthetically, creating large-scale, realistic datasets. Using the MetaTree transformer architecture, we demonstrate that this method achieves performance comparable to pre-training on real-world data or with computationally expensive optimal decision trees. This strategy significantly reduces computational costs, enhances data generation flexibility, and paves the way for scalable and efficient meta-learning of interpretable decision tree models.

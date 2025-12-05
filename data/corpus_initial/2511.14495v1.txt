@@ -1,0 +1,5 @@
+Title: Adversarial Learning-Based Radio Map Reconstruction for Fingerprinting Localization
+URL: http://arxiv.org/abs/2511.14495v1
+Published: 2025-11-18 13:37:30+00:00
+----------------------------------------
+This letter presents a feature-guided adversarial framework, namely ComGAN, which is designed to reconstruct an incomplete fingerprint database by inferring missing received signal strength (RSS) values at unmeasured reference points (RPs). An auxiliary subnetwork is integrated into a conditional generative adversarial network (cGAN) to enable spatial feature learning. An optimization method is then developed to refine the RSS predictions by aggregating multiple prediction sets, achieving an improved localization performance. Experimental results demonstrate that the proposed scheme achieves a root mean squared error (RMSE) comparable to the ground-truth measurements while outperforming state-of-the-art reconstruction methods. When the reconstructed fingerprint is combined with measured data for training, the fingerprinting localization achieves accuracy comparable to models trained on fully measured datasets.

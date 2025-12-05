@@ -1,0 +1,7 @@
+Title: A mark and recapture perspective on vaccination touchpoints
+URL: http://arxiv.org/abs/2511.12536v1
+Published: 2025-11-16 10:11:22+00:00
+----------------------------------------
+This paper considers large-scale vaccination campaigns, a major platform for vaccine access in a lot of the world, as a recapture estimate of the target population marked by routine immunization. Framing the campaign as a measurement, we learn about its properties, including the campaign's coverage of the target population and some implied sampling properties of post-campaign coverage surveys (PCCSs), the current gold-standard in implementation quality measurement.
+  We develop this idea in the context of the 2023 measles campaign in Kano State, Nigeria, where we have detailed implementation data collected by vaccination teams involved in that effort. Looking specifically at the teams' tally sheets, the daily records of who they vaccinated, we find significant discrepancies between the recapture estimates and those from the corresponding PCCS. Exploring a variety of bias models applied to both the tally sheets and the PCCS helps clarify how anecdotal issues from the field relate to this discrepancy.
+  Overall, we find that the tally sheets, despite being an unorthodox population sample, provide a tractable perspective on implementation and measurement, one that's in principle available nearly instantly and at high resolution for any vaccination touchpoint.

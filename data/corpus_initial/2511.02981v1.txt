@@ -1,0 +1,5 @@
+Title: Machine Learning the Conformal Manifold of Holographic CFT$_{2}$s
+URL: http://arxiv.org/abs/2511.02981v1
+Published: 2025-11-04 20:40:06+00:00
+----------------------------------------
+We investigate the structure of conformal manifolds around AdS$_3 \times S^3$ which lift from continuous flat directions in the scalar potential of gauged supergravity resulting from six-dimensional $\mathcal{N}=(1,1)$ supergravity. Our approach combines numerical exploration and symbolic inference. For the latter, we develop a symbolic regression algorithm based on Annealed Sequential Monte Carlo samplers, a combination of Annealed Importance Sampling and Sequential Monte Carlo samplers, well-suited to uncovering polynomial constraints in high-dimensional parameter spaces. The algorithm reconstructs a set of polynomial relations that provides an explicit analytic parametrization of a new family of solutions.

@@ -1,0 +1,5 @@
+Title: How Worrying Are Privacy Attacks Against Machine Learning?
+URL: http://arxiv.org/abs/2511.10516v1
+Published: 2025-11-13 17:22:07+00:00
+----------------------------------------
+In several jurisdictions, the regulatory framework on the release and sharing of personal data is being extended to machine learning (ML). The implicit assumption is that disclosing a trained ML model entails a privacy risk for any personal data used in training comparable to directly releasing those data. However, given a trained model, it is necessary to mount a privacy attack to make inferences on the training data. In this concept paper, we examine the main families of privacy attacks against predictive and generative ML, including membership inference attacks (MIAs), property inference attacks, and reconstruction attacks. Our discussion shows that most of these attacks seem less effective in the real world than what a prima face interpretation of the related literature could suggest.

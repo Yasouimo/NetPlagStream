@@ -1,0 +1,5 @@
+Title: Observability of an ultraheavy diquark decaying into vectorlike quarks at the LHC
+URL: http://arxiv.org/abs/2511.02474v1
+Published: 2025-11-04 10:59:14+00:00
+----------------------------------------
+We present a comprehensive analysis of the discovery reach and exclusion limits for an ultraheavy diquark scalar (7 - 8.75 TeV) decaying into two vectorlike quarks (1.5 - 2 TeV) at the HL-LHC, improving upon the statistical results reported in our previous six-jet final state study. The statistical analysis was performed using the output of Machine Learning algorithms trained to discriminate signal from background. The mass regions of interest were determined through scans of the local $p$-values, $CL_s$, and the upper limits on the model-independent signal strength $μ$. The results indicate a promising sensitivity to ultraheavy diquark scalars within the explored mass range, suggesting that the HL-LHC could either discover or set stringent exclusion limits on such particles.

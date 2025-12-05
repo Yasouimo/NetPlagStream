@@ -1,0 +1,5 @@
+Title: Low-Bit, High-Fidelity: Optimal Transport Quantization for Flow Matching
+URL: http://arxiv.org/abs/2511.11418v1
+Published: 2025-11-14 15:49:36+00:00
+----------------------------------------
+Flow Matching (FM) generative models offer efficient simulation-free training and deterministic sampling, but their practical deployment is challenged by high-precision parameter requirements. We adapt optimal transport (OT)-based post-training quantization to FM models, minimizing the 2-Wasserstein distance between quantized and original weights, and systematically compare its effectiveness against uniform, piecewise, and logarithmic quantization schemes. Our theoretical analysis provides upper bounds on generative degradation under quantization, and empirical results across five benchmark datasets of varying complexity show that OT-based quantization preserves both visual generation quality and latent space stability down to 2-3 bits per parameter, where alternative methods fail. This establishes OT-based quantization as a principled, effective approach to compress FM generative models for edge and embedded AI applications.

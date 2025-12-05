@@ -1,0 +1,5 @@
+Title: IoT and Predictive Maintenance in Industrial Engineering: A Data-Driven Approach
+URL: http://arxiv.org/abs/2511.04923v1
+Published: 2025-11-07 01:55:16+00:00
+----------------------------------------
+Fourth Industrial Revolution has brought in a new era of smart manufacturing, wherein, application of Internet of Things , and data-driven methodologies is revolutionizing the conventional maintenance. With the help of real-time data from the IoT and machine learning algorithms, predictive maintenance allows industrial systems to predict failures and optimize machines life. This paper presents the synergy between the Internet of Things and predictive maintenance in industrial engineering with an emphasis on the technologies, methodologies, as well as data analytics techniques, that constitute the integration. A systematic collection, processing, and predictive modeling of data is discussed. The outcomes emphasize greater operational efficiency, decreased downtime, and cost-saving, which makes a good argument as to why predictive maintenance should be implemented in contemporary industries.

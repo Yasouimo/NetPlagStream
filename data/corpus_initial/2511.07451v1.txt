@@ -1,0 +1,5 @@
+Title: Exploring the Psychometric Validity of AI-Generated Student Responses: A Study on Virtual Personas' Learning Motivation
+URL: http://arxiv.org/abs/2511.07451v1
+Published: 2025-11-05 19:22:02+00:00
+----------------------------------------
+This study explores whether large language models (LLMs) can simulate valid student responses for educational measurement. Using GPT -4o, 2000 virtual student personas were generated. Each persona completed the Academic Motivation Scale (AMS). Factor analyses(EFA and CFA) and clustering showed GPT -4o reproduced the AMS structure and distinct motivational subgroups.

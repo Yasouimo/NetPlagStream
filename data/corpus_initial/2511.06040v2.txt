@@ -1,0 +1,14 @@
+Title: The Algorithmic Phase Transition in Symmetric Correlated Spiked Wigner Model
+URL: http://arxiv.org/abs/2511.06040v2
+Published: 2025-11-08 15:23:44+00:00
+----------------------------------------
+We study the computational task of detecting and estimating correlated signals in a pair of spiked Wigner matrices. Our model consists of observations
+  $$
+  X = \tfracλ{\sqrt{n}} xx^{\top} + W \,, \quad Y = \tfracμ{\sqrt{n}} yy^{\top} + Z \,.
+  $$
+  where $x,y \in \mathbb R^n$ are signal vectors with norm $\|x\|,\|y\| \approx\sqrt{n}$ and correlation $\langle x,y \rangle \approx ρ\|x\|\|y\|$, while $W,Z$ are independent Gaussian Wigner matrices. We propose an efficient algorithm that succeeds whenever $F(λ,μ,ρ)>1$, where
+  $$
+  F(λ,μ,ρ)=\max\Big\{ λ,μ, \frac{ λ^2 ρ^2 }{ 1-λ^2+λ^2 ρ^2 } + \frac{ μ^2 ρ^2 }{ 1-μ^2+μ^2 ρ^2 } \Big\} \,.
+  $$
+  Our result shows that an algorithm can leverage the correlation between the spikes to detect and estimate the signals even in regimes where efficiently recovering either $x$ from $X$ alone or $y$ from $Y$ alone is believed to be computationally infeasible.
+  We complement our algorithmic result with evidence for a matching computational lower bound. In particular, we prove that when $F(λ,μ,ρ)<1$, all algorithms based on {\em low-degree polynomials} fails to distinguish $(X,Y)$ with two independent Wigner matrices. This low-degree analysis strongly suggests that $F(λ,μ,ρ)=1$ is the precise computation threshold for this problem.

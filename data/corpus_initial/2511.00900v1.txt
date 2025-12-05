@@ -1,0 +1,5 @@
+Title: Learning with Category-Equivariant Representations for Human Activity Recognition
+URL: http://arxiv.org/abs/2511.00900v1
+Published: 2025-11-02 11:37:36+00:00
+----------------------------------------
+Human activity recognition is challenging because sensor signals shift with context, motion, and environment; effective models must therefore remain stable as the world around them changes. We introduce a categorical symmetry-aware learning framework that captures how signals vary over time, scale, and sensor hierarchy. We build these factors into the structure of feature representations, yielding models that automatically preserve the relationships between sensors and remain stable under realistic distortions such as time shifts, amplitude drift, and device orientation changes. On the UCI Human Activity Recognition benchmark, this categorical symmetry-driven design improves out-of-distribution accuracy by approx. 46 percentage points (approx. 3.6x over the baseline), demonstrating that abstract symmetry principles can translate into concrete performance gains in everyday sensing tasks via category-equivariant representation theory.

@@ -1,0 +1,5 @@
+Title: Machine Learning Green's Functions of Strongly Correlated Hubbard Models
+URL: http://arxiv.org/abs/2511.07252v1
+Published: 2025-11-10 16:03:44+00:00
+----------------------------------------
+We demonstrate that a machine learning framework based on kernel ridge regression can encode and predict the self-energy of one-dimensional Hubbard models using only mean-field features such as static and dynamic Hartree-Fock quantities and first-order GW calculations. This approach is applicable across a wide range of on-site Coulomb interaction strengths $U/t$, ranging from weakly interacting systems ($U/t \ll 1$) to strong correlations ($U/t > 8$). The predicted self-energy is transformed via Dyson's equation and analytic continuation to obtain the real-frequency Green's function, which allows access to the spectral function and density of states. This method can be used for nearest-neighbor interactions $t$ and long-range hopping terms $t'$, $t''$, and $t'''$.

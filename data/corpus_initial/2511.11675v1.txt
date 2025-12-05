@@ -1,0 +1,5 @@
+Title: Beyond One-Way Pruning: Bidirectional Pruning-Regrowth for Extreme Accuracy-Sparsity Tradeoff
+URL: http://arxiv.org/abs/2511.11675v1
+Published: 2025-11-11 21:22:29+00:00
+----------------------------------------
+As a widely adopted model compression technique, model pruning has demonstrated strong effectiveness across various architectures. However, we observe that when sparsity exceeds a certain threshold, both iterative and one-shot pruning methods lead to a steep decline in model performance. This rapid degradation limits the achievable compression ratio and prevents models from meeting the stringent size constraints required by certain hardware platforms, rendering them inoperable. To overcome this limitation, we propose a bidirectional pruning-regrowth strategy. Starting from an extremely compressed network that satisfies hardware constraints, the method selectively regenerates critical connections to recover lost performance, effectively mitigating the sharp accuracy drop commonly observed under high sparsity conditions.

@@ -1,0 +1,6 @@
+Title: Maximal Palindromes in MPC: Simple and Optimal
+URL: http://arxiv.org/abs/2511.13014v1
+Published: 2025-11-17 06:13:46+00:00
+----------------------------------------
+In the classical longest palindromic substring (LPS) problem, we are given a string $S$ of length $n$, and the task is to output a longest palindromic substring in $S$. Gilbert, Hajiaghayi, Saleh, and Seddighin [SPAA 2023] showed how to solve the LPS problem in the Massively Parallel Computation (MPC) model in $\mathcal{O}(1)$ rounds using $\mathcal{\widetilde{O}}(n)$ total memory, with $\mathcal{\widetilde{O}}(n^{1-ε})$ memory per machine, for any $ε\in (0,0.5]$.
+  We present a simple and optimal algorithm to solve the LPS problem in the MPC model in $\mathcal{O}(1)$ rounds. The total time and memory are $\mathcal{O}(n)$, with $\mathcal{O}(n^{1-ε})$ memory per machine, for any $ε\in (0,0.5]$. A key attribute of our algorithm is its ability to compute all maximal palindromes in the same complexities. Furthermore, our new insights allow us to bypass the constraint $ε\in (0,0.5]$ in the Adaptive MPC model. Our algorithms and the one proposed by Gilbert et al. for the LPS problem are randomized and succeed with high probability.

@@ -1,0 +1,5 @@
+Title: Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence
+URL: http://arxiv.org/abs/2511.07384v1
+Published: 2025-11-10 18:43:07+00:00
+----------------------------------------
+Recent advances in depth-recurrent language models show that recurrence can decouple train-time compute and parameter count from test-time compute. In this work, we study how to convert existing pretrained non-recurrent language models into depth-recurrent models. We find that using a curriculum of recurrences to increase the effective depth of the model over the course of training preserves performance while reducing total computational cost. In our experiments, on mathematics, we observe that converting pretrained models to recurrent ones results in better performance at a given compute budget than simply post-training the original non-recurrent language model.

@@ -1,0 +1,5 @@
+Title: Several Supporting Evidences for the Adaptive Feature Program
+URL: http://arxiv.org/abs/2511.09425v1
+Published: 2025-11-12 15:39:28+00:00
+----------------------------------------
+Theoretically exploring the advantages of neural networks might be one of the most challenging problems in the AI era. An adaptive feature program has recently been proposed to analyze the feature learning characteristic property of neural networks in a more abstract way. Motivated by the celebrated Le Cam equivalence, we advocate the over-parametrized sequence models to further simplify the analysis of the training dynamics of adaptive feature program and present several supporting evidences for the adaptive feature program. More precisely, after having introduced the feature error measure (FEM) to characterize the quality of the learned feature, we show that the FEM is decreasing during the training process of several concrete adaptive feature models including linear regression, single/multiple index models, etc. We believe that this hints at the potential successes of the adaptive feature program.

@@ -1,0 +1,5 @@
+Title: Ground Plane Projection for Improved Traffic Analytics at Intersections
+URL: http://arxiv.org/abs/2511.12342v1
+Published: 2025-11-15 20:02:29+00:00
+----------------------------------------
+Accurate turning movement counts at intersections are important for signal control, traffic management and urban planning. Computer vision systems for automatic turning movement counts typically rely on visual analysis in the image plane of an infrastructure camera. Here we explore potential advantages of back-projecting vehicles detected in one or more infrastructure cameras to the ground plane for analysis in real-world 3D coordinates. For single-camera systems we find that back-projection yields more accurate trajectory classification and turning movement counts. We further show that even higher accuracy can be achieved through weak fusion of back-projected detections from multiple cameras. These results suggeest that traffic should be analyzed on the ground plane, not the image plane

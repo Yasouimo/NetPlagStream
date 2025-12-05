@@ -1,0 +1,5 @@
+Title: Solving cold start in news recommendations: a RippleNet-based system for large scale media outlet
+URL: http://arxiv.org/abs/2511.02052v1
+Published: 2025-11-03 20:38:37+00:00
+----------------------------------------
+We present a scalable recommender system implementation based on RippleNet, tailored for the media domain with a production deployment in Onet.pl, one of Poland's largest online media platforms. Our solution addresses the cold-start problem for newly published content by integrating content-based item embeddings into the knowledge propagation mechanism of RippleNet, enabling effective scoring of previously unseen items. The system architecture leverages Amazon SageMaker for distributed training and inference, and Apache Airflow for orchestrating data pipelines and model retraining workflows. To ensure high-quality training data, we constructed a comprehensive golden dataset consisting of user and item features and a separate interaction table, all enabling flexible extensions and integration of new signals.

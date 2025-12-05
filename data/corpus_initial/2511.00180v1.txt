@@ -1,0 +1,5 @@
+Title: ParaScopes: What do Language Models Activations Encode About Future Text?
+URL: http://arxiv.org/abs/2511.00180v1
+Published: 2025-10-31 18:36:10+00:00
+----------------------------------------
+Interpretability studies in language models often investigate forward-looking representations of activations. However, as language models become capable of doing ever longer time horizon tasks, methods for understanding activations often remain limited to testing specific concepts or tokens. We develop a framework of Residual Stream Decoders as a method of probing model activations for paragraph-scale and document-scale plans. We test several methods and find information can be decoded equivalent to 5+ tokens of future context in small models. These results lay the groundwork for better monitoring of language models and better understanding how they might encode longer-term planning information.

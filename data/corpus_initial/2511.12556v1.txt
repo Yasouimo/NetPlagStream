@@ -1,0 +1,5 @@
+Title: DLMMPR:Deep Learning-based Measurement Matrix for Phase Retrieval
+URL: http://arxiv.org/abs/2511.12556v1
+Published: 2025-11-16 11:23:15+00:00
+----------------------------------------
+This paper pioneers the integration of learning optimization into measurement matrix design for phase retrieval. We introduce the Deep Learning-based Measurement Matrix for Phase Retrieval (DLMMPR) algorithm, which parameterizes the measurement matrix within an end-to-end deep learning architecture. Synergistically augmented with subgradient descent and proximal mapping modules for robust recovery, DLMMPR's efficacy is decisively confirmed through comprehensive empirical validation across diverse noise regimes. Benchmarked against DeepMMSE and PrComplex, our method yields substantial gains in PSNR and SSIM, underscoring its superiority.

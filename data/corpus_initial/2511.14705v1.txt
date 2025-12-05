@@ -1,0 +1,5 @@
+Title: Systematic Study on the $α$-particle preformation factor in the theory of $α$-decay based on the Tabular Prior-data Fitted Network (TabPFN)
+URL: http://arxiv.org/abs/2511.14705v1
+Published: 2025-11-18 17:46:02+00:00
+----------------------------------------
+A hybrid approach combining the Tabular Prior-data Fitted Network (TabPFN) with the Coulomb and Proximity Potential Model (CPPM) is developed to investigate $α$-particle preformation factors $P_α$ and their impact on $α$-decay half-lives. The TabPFN model, trained on 498 nuclei, accurately learns the relationship between the properties of the nuclear structure and $P_α$, achieving a root mean square deviation of $σ_{\mathrm{rms}} = 0.211$. The predicted factors reveal clear odd-even staggering and shell closure effects, and exhibit a linear correlation with $Q_α^{-1/2}$, extending the Geiger-Nuttall systematics. When incorporated into CPPM calculations, the machine learning-based $P_α$ values significantly improve half-life predictions. The capability of the model is demonstrated through predictions for superheavy nuclei ($Z = 117$--120), suggesting $N = 184$ as a potential neutron magic number.

@@ -1,0 +1,5 @@
+Title: Modeling and Topology Estimation of Low Rank Dynamical Networks
+URL: http://arxiv.org/abs/2511.06674v1
+Published: 2025-11-10 03:42:35+00:00
+----------------------------------------
+Conventional topology learning methods for dynamical networks become inapplicable to processes exhibiting low-rank characteristics. To address this, we propose the low rank dynamical network model which ensures identifiability. By employing causal Wiener filtering, we establish a necessary and sufficient condition that links the sparsity pattern of the filter to conditional Granger causality. Building on this theoretical result, we develop a consistent method for estimating all network edges. Simulation results demonstrate the parsimony of the proposed framework and consistency of the topology estimation approach.

@@ -1,0 +1,5 @@
+Title: Matching Under Preference Uncertainty: Random Allocation, Informativeness, and Welfare
+URL: http://arxiv.org/abs/2511.09988v1
+Published: 2025-11-13 05:45:23+00:00
+----------------------------------------
+This paper studies a decentralized many-to-one matching market where preferences remain uncertain during the matching process. Institutions initiate matching by sending offers, and applicants decide whether to accept upon receiving them. Since applicants learn their preferences only after receiving offers, institutions face a challenge in deciding how many offers to issue. I address this challenge by introducing probabilistic offers (admitting applicants with a probability less than one), which ensure that ex-ante market clearing and stability are achievable. However, the welfare effect of information is subtle: applicants may become worse off as they acquire more information.

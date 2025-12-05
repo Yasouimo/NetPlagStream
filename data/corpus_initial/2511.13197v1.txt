@@ -1,0 +1,5 @@
+Title: Self-Supervised Ultrasound Screen Detection
+URL: http://arxiv.org/abs/2511.13197v1
+Published: 2025-11-17 10:08:23+00:00
+----------------------------------------
+Ultrasound (US) machines display images on a built-in monitor, but routine transfer to hospital systems relies on DICOM. We propose a self-supervised pipeline to extract the US image from a photograph of the monitor. This removes the DICOM bottleneck and enables rapid testing and prototyping of new algorithms. In a proof-of-concept study, the rectified images retained enough visual fidelity to classify cardiac views with a balanced accuracy of 0.79 with respect to the native DICOMs.

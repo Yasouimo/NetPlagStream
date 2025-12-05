@@ -1,0 +1,5 @@
+Title: A Proof of Learning Rate Transfer under $μ$P
+URL: http://arxiv.org/abs/2511.01734v1
+Published: 2025-11-03 16:45:47+00:00
+----------------------------------------
+We provide the first proof of learning rate transfer with width in a linear multi-layer perceptron (MLP) parametrized with $μ$P, a neural network parameterization designed to ``maximize'' feature learning in the infinite-width limit. We show that under $μP$, the optimal learning rate converges to a \emph{non-zero constant} as width goes to infinity, providing a theoretical explanation to learning rate transfer. In contrast, we show that this property fails to hold under alternative parametrizations such as Standard Parametrization (SP) and Neural Tangent Parametrization (NTP). We provide intuitive proofs and support the theoretical findings with extensive empirical results.

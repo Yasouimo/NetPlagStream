@@ -1,0 +1,5 @@
+Title: Search for $K_{\mathrm{S(L)}}^{0} \rightarrow π^{+}π^{-}μ^{+}μ^{-}$ decays at LHCb
+URL: http://arxiv.org/abs/2511.02619v1
+Published: 2025-11-04 14:47:34+00:00
+----------------------------------------
+A search for $K_{\mathrm{S(L)}}^{0} \rightarrow π^{+}π^{-}μ^{+}μ^{-}$ decays is performed using proton-proton collision data collected by the LHCb experiment at a centre-of-mass energy of $13\,\mathrm{TeV}$, corresponding to an integrated luminosity of $5.4\,\mathrm{fb^{-1}}$. No $K_{\mathrm{S(L)}}^{0} \rightarrow π^{+}π^{-}μ^{+}μ^{-}$ signals are found and upper limits are set for the first time on the branching fractions $\mathcal{B}(K_\text{S}^{0} \rightarrow π^{+}π^{-}μ^{+}μ^{-}) < 1.4 \times 10^{-9}$ and $\mathcal{B}(K_\text{L}^{0} \rightarrow π^{+}π^{-}μ^{+}μ^{-}) < 6.6 \times 10^{-7}$, at the 90% confidence level.

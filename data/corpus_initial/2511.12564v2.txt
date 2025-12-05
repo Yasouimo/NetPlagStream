@@ -1,0 +1,7 @@
+Title: Linear time small coresets for k-mean clustering of segments with applications
+URL: http://arxiv.org/abs/2511.12564v2
+Published: 2025-11-16 11:48:55+00:00
+----------------------------------------
+We study the $k$-means problem for a set $\mathcal{S} \subseteq \mathbb{R}^d$ of $n$ segments, aiming to find $k$ centers $X \subseteq \mathbb{R}^d$ that minimize
+  $D(\mathcal{S},X) := \sum_{S \in \mathcal{S}} \min_{x \in X} D(S,x)$, where $D(S,x) := \int_{p \in S} |p - x| dp$
+  measures the total distance from each point along a segment to a center. Variants of this problem include handling outliers, employing alternative distance functions such as M-estimators, weighting distances to achieve balanced clustering, or enforcing unique cluster assignments. For any $\varepsilon > 0$, an $\varepsilon$-coreset is a weighted subset $C \subseteq \mathbb{R}^d$ that approximates $D(\mathcal{S},X)$ within a factor of $1 \pm \varepsilon$ for any set of $k$ centers, enabling efficient streaming, distributed, or parallel computation. We propose the first coreset construction that provably handles arbitrary input segments. For constant $k$ and $\varepsilon$, it produces a coreset of size $O(\log^2 n)$ computable in $O(nd)$ time. Experiments, including a real-time video tracking application, demonstrate substantial speedups with minimal loss in clustering accuracy, confirming both the practical efficiency and theoretical guarantees of our method.

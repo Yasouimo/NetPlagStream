@@ -1,0 +1,5 @@
+Title: Enhancing Nuclear Reactor Core Simulation through Data-Based Surrogate Models
+URL: http://arxiv.org/abs/2511.16148v1
+Published: 2025-11-20 08:41:33+00:00
+----------------------------------------
+In recent years, there has been an increasing need for Nuclear Power Plants (NPPs) to improve flexibility in order to match the rapid growth of renewable energies. The Operator Assistance Predictive System (OAPS) developed by Framatome addresses this problem through Model Predictive Control (MPC). In this work, we aim to improve MPC methods through data-driven simulation schemes. Thus, from a set of nonlinear stiff ordinary differential equations (ODEs), this paper introduces two surrogate models acting as alternative simulation schemes to enhance nuclear reactor core simulation. We show that both data-driven and physics-informed models can rapidly integrate complex dynamics, with a very low computational time (up to 1000x time reduction).

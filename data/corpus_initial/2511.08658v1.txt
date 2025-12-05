@@ -1,0 +1,5 @@
+Title: "It Looks All the Same to Me": Cross-index Training for Long-term Financial Series Prediction
+URL: http://arxiv.org/abs/2511.08658v1
+Published: 2025-11-11 15:07:12+00:00
+----------------------------------------
+We investigate a number of Artificial Neural Network architectures (well-known and more ``exotic'') in application to the long-term financial time-series forecasts of indexes on different global markets. The particular area of interest of this research is to examine the correlation of these indexes' behaviour in terms of Machine Learning algorithms cross-training. Would training an algorithm on an index from one global market produce similar or even better accuracy when such a model is applied for predicting another index from a different market? The demonstrated predominately positive answer to this question is another argument in favour of the long-debated Efficient Market Hypothesis of Eugene Fama.

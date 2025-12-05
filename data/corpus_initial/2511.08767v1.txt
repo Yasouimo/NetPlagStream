@@ -1,0 +1,5 @@
+Title: Hey Pentti, We Did (More of) It!: A Vector-Symbolic Lisp With Residue Arithmetic
+URL: http://arxiv.org/abs/2511.08767v1
+Published: 2025-11-11 20:42:56+00:00
+----------------------------------------
+Using Frequency-domain Holographic Reduced Representations (FHRRs), we extend a Vector-Symbolic Architecture (VSA) encoding of Lisp 1.5 with primitives for arithmetic operations using Residue Hyperdimensional Computing (RHC). Encoding a Turing-complete syntax over a high-dimensional vector space increases the expressivity of neural network states, enabling network states to contain arbitrarily structured representations that are inherently interpretable. We discuss the potential applications of the VSA encoding in machine learning tasks, as well as the importance of encoding structured representations and designing neural networks whose behavior is sensitive to the structure of their representations in virtue of attaining more general intelligent agents than exist at present.

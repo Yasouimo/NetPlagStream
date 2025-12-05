@@ -1,0 +1,5 @@
+Title: When Generative Artificial Intelligence meets Extended Reality: A Systematic Review
+URL: http://arxiv.org/abs/2511.03282v1
+Published: 2025-11-05 08:24:48+00:00
+----------------------------------------
+With the continuous advancement of technology, the application of generative artificial intelligence (AI) in various fields is gradually demonstrating great potential, particularly when combined with Extended Reality (XR), creating unprecedented possibilities. This survey article systematically reviews the applications of generative AI in XR, covering as much relevant literature as possible from 2023 to 2025. The application areas of generative AI in XR and its key technology implementations are summarised through PRISMA screening and analysis of the final 26 articles. The survey highlights existing articles from the last three years related to how XR utilises generative AI, providing insights into current trends and research gaps. We also explore potential opportunities for future research to further empower XR through generative AI, providing guidance and information for future generative XR research.

@@ -1,0 +1,5 @@
+Title: Learning Cosmology from Nearest Neighbour Statistics
+URL: http://arxiv.org/abs/2511.13393v1
+Published: 2025-11-17 14:06:53+00:00
+----------------------------------------
+Extracting cosmological parameters from galaxy/halo catalogues with sub-percent level accuracy is an important aspect of modern cosmology, especially in view of ongoing and upcoming surveys such as Euclid, DESI, and LSST. While traditional two-point statistics have been known to be suboptimal for this task, recently proposed k-Nearest Neighbour (kNN) based summary statistics have demonstrated tighter constraining power. Building on the kNN statistics, we introduce a new field-level representation of discrete halo catalogues - NN distance maps. We employ this technique on the halo catalogues obtained from Quijote N-body simulation suites. By combining these maps with kNN-based summary statistics, we train a hybrid neural network to infer cosmological parameters, showing that the resulting constraints achieve state-of-the-art, if not the best, accuracy. In addition, our hybrid framework is 5-10 times more computationally efficient than some of the existing point-cloud-based ML methods.

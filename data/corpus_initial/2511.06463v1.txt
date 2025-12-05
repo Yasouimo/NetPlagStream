@@ -1,0 +1,5 @@
+Title: Error Estimate and Convergence Analysis for Data Valuation
+URL: http://arxiv.org/abs/2511.06463v1
+Published: 2025-11-09 17:15:40+00:00
+----------------------------------------
+Data valuation quantifies data importance, but existing methods cannot ensure validity in a single training process. The neural dynamic data valuation (NDDV) method [3] addresses this limitation. Based on NDDV, we are the first to explore error estimation and convergence analysis in data valuation. Under Lipschitz and smoothness assumptions, we derive quadratic error bounds for loss differences that scale inversely with time steps and quadratically with control variations, ensuring stability. We also prove that the expected squared gradient norm for the training loss vanishes asymptotically, and that the meta loss converges sublinearly over iterations. In particular, NDDV achieves sublinear convergence.

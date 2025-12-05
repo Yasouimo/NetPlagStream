@@ -1,0 +1,5 @@
+Title: Automatic Machine Translation Detection Using a Surrogate Multilingual Translation Model
+URL: http://arxiv.org/abs/2511.02958v1
+Published: 2025-11-04 19:59:25+00:00
+----------------------------------------
+Modern machine translation (MT) systems depend on large parallel corpora, often collected from the Internet. However, recent evidence indicates that (i) a substantial portion of these texts are machine-generated translations, and (ii) an overreliance on such synthetic content in training data can significantly degrade translation quality. As a result, filtering out non-human translations is becoming an essential pre-processing step in building high-quality MT systems. In this work, we propose a novel approach that directly exploits the internal representations of a surrogate multilingual MT model to distinguish between human and machine-translated sentences. Experimental results show that our method outperforms current state-of-the-art techniques, particularly for non-English language pairs, achieving gains of at least 5 percentage points of accuracy.

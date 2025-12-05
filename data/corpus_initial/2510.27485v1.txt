@@ -1,0 +1,6 @@
+Title: Sockeye: a language for analyzing hardware documentation
+URL: http://arxiv.org/abs/2510.27485v1
+Published: 2025-10-31 14:04:01+00:00
+----------------------------------------
+Systems programmers have to consolidate the ever growing hardware mess present on modern System-on-Chips (SoCs). Correctly programming a multitude of components, providing functionality but also security, is a difficult problem: semantics of individual units are described in English prose, descriptions are often underspecified, and prone to inaccuracies. Rigorous statements about platform security are often impossible.
+  We introduce a domain-specific language to describe hardware semantics, assumptions about software behavior, and desired security properties. We then create machine-readable specifications for a diverse set of eight SoCs from their reference manuals, and formally prove their (in-)security. In addition to security proofs about memory confidentiality and integrity, we discover a handful of documentation errors. Finally, our analysis also revealed a vulnerability on a real-world server chip. Our tooling offers system integrators a way of formally describing security properties for entire SoCs, and means to prove them or find counterexamples to them.

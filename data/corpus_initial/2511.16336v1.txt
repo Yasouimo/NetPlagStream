@@ -1,0 +1,5 @@
+Title: Regularized Multiobjective Optimization with Directionally Lipschitzian Data
+URL: http://arxiv.org/abs/2511.16336v1
+Published: 2025-11-20 13:17:14+00:00
+----------------------------------------
+The paper is devoted to the study of regularized versions of multiobjective optimization problems described by directionally Lipschitzian functions. Such regularizations appear in proximal-type algorithms of multiobjective optimization, various models of machine learning, medical physics, etc. We investigate and illustrate several useful properties of directionally Lipschitzian functions, which distinguish them from locally Lipschitzian ones. By using advanced tools of variational analysis and generalized differentiation revolving around the limiting/Mordukhovich subdifferential, we derive necessary conditions for Pareto optimality in regularized multiobjective problems.

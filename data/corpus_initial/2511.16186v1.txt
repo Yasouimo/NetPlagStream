@@ -1,0 +1,5 @@
+Title: PrIntMesh: Precise Intersection Surfaces for 3D Organ Mesh Reconstruction
+URL: http://arxiv.org/abs/2511.16186v1
+Published: 2025-11-20 09:50:56+00:00
+----------------------------------------
+Human organs are composed of interconnected substructures whose geometry and spatial relationships constrain one another. Yet, most deep-learning approaches treat these parts independently, producing anatomically implausible reconstructions. We introduce PrIntMesh, a template-based, topology-preserving framework that reconstructs organs as unified systems. Starting from a connected template, PrIntMesh jointly deforms all substructures to match patient-specific anatomy, while explicitly preserving internal boundaries and enforcing smooth, artifact-free surfaces. We demonstrate its effectiveness on the heart, hippocampus, and lungs, achieving high geometric accuracy, correct topology, and robust performance even with limited or noisy training data. Compared to voxel- and surface-based methods, PrIntMesh better reconstructs shared interfaces, maintains structural consistency, and provides a data-efficient solution suitable for clinical use.

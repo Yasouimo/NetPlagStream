@@ -1,0 +1,5 @@
+Title: Complexity as Advantage: A Regret-Based Perspective on Emergent Structure
+URL: http://arxiv.org/abs/2511.04590v1
+Published: 2025-11-06 17:46:53+00:00
+----------------------------------------
+We introduce Complexity as Advantage (CAA), a framework that defines the complexity of a system relative to a family of observers. Instead of measuring complexity as an intrinsic property, we evaluate how much predictive regret a system induces for different observers attempting to model it. A system is complex when it is easy for some observers and hard for others, creating an information advantage. We show that this formulation unifies several notions of emergent behavior, including multiscale entropy, predictive information, and observer-dependent structure. The framework suggests that "interesting" systems are those positioned to create differentiated regret across observers, providing a quantitative grounding for why complexity can be functionally valuable. We demonstrate the idea through simple dynamical models and discuss implications for learning, evolution, and artificial agents.

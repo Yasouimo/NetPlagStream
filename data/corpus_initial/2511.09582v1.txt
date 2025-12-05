@@ -1,0 +1,5 @@
+Title: Revisit to the Bai-Galbraith signature scheme
+URL: http://arxiv.org/abs/2511.09582v1
+Published: 2025-11-12 10:56:05+00:00
+----------------------------------------
+Dilithium is one of the NIST approved lattice-based signature schemes. In this short note we describe the Bai-Galbraith signature scheme proposed in BG14, which differs to Dilithium, due to the fact that there is no public key compression. This lattice-based signature scheme is based on Learning with Errors (LWE).

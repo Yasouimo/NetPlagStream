@@ -1,0 +1,5 @@
+Title: Shaping the Koopman dictionary by learning on the Grassmannian
+URL: http://arxiv.org/abs/2511.07234v1
+Published: 2025-11-10 15:50:45+00:00
+----------------------------------------
+Extended dynamic mode decomposition (EDMD) is a powerful tool to construct linear predictors of nonlinear dynamical systems by approximating the action of the Koopman operator on a subspace spanned by finitely many observable functions. However, its accuracy heavily depends on the choice of the observables, which remains a challenge. We propose a systematic framework to identify and shape observable dictionaries, reduce projection errors, and achieve approximately invariant subspaces. To this end, we leverage optimisation on the Grassmann manifold and exploit inherent geometric properties for computational efficiency. Numerical results demonstrate improved prediction accuracy and efficiency. In conclusion, we propose a novel approach to efficiently shape the Koopman dictionary using differential-geometric concepts for optimisation on manifolds resulting in enhanced data-driven Koopman surrogates for nonlinear dynamical systems.

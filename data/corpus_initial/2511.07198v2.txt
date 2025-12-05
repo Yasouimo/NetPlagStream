@@ -1,0 +1,5 @@
+Title: Synergy over Discrepancy: A Partition-Based Approach to Multi-Domain LLM Fine-Tuning
+URL: http://arxiv.org/abs/2511.07198v2
+Published: 2025-11-10 15:27:26+00:00
+----------------------------------------
+Large language models (LLMs) demonstrate impressive generalization abilities, yet adapting them effectively across multiple heterogeneous domains remains challenging due to inter-domain interference. To overcome this challenge, we propose a partition-based multi-stage fine-tuning framework designed to exploit inter-domain synergies while minimizing negative transfer. Our approach strategically partitions domains into subsets (stages) by balancing domain discrepancy, synergy, and model capacity constraints. We theoretically analyze the proposed framework and derive novel generalization bounds that justify our partitioning strategy. Extensive empirical evaluations on various language understanding tasks show that our method consistently outperforms state-of-the-art baselines.

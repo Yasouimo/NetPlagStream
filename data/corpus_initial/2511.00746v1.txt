@@ -1,0 +1,5 @@
+Title: Correspondence Between Ising Machines and Neural Networks
+URL: http://arxiv.org/abs/2511.00746v1
+Published: 2025-11-02 00:13:57+00:00
+----------------------------------------
+Computation with the Ising model is central to future computing technologies like quantum annealing, adiabatic quantum computing, and thermodynamic classical computing. Traditionally, computed values have been equated with ground states. This paper generalizes computation with ground states to computation with spin averages, allowing computations to take place at high temperatures. It then introduces a systematic correspondence between Ising devices and neural networks and a simple method to run trained feed-forward neural networks on Ising-type hardware. Finally, a mathematical proof is offered that these implementations are always successful.

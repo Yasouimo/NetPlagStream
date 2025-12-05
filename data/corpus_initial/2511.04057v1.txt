@@ -1,0 +1,5 @@
+Title: Transfer Learning for Transformer-Based Modeling of Nonlinear Pulse Evolution in Er-Doped Fiber Amplifiers
+URL: http://arxiv.org/abs/2511.04057v1
+Published: 2025-11-06 04:55:28+00:00
+----------------------------------------
+A neural network model based on the Transformer architecture has been developed to predict the nonlinear evolution of optical pulses in Er-doped fiber amplifier under conditions of limited experimental data. To address data scarcity, a two-stage training strategy is employed. In the first stage, the model is pretrained on a synthetic dataset generated through numerical simulations of the amplifier's nonlinear dynamics. In the second stage, the model is fine-tuned using a small set of experimental measurements. This approach enables accurate reproduction of the fine spectral structure of optical pulses observed in experiments across various nonlinear evolution regimes, including the development of modulational instability and the propagation of high-order solitons.

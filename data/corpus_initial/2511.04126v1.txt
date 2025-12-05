@@ -1,0 +1,5 @@
+Title: Automated Tennis Player and Ball Tracking with Court Keypoints Detection (Hawk Eye System)
+URL: http://arxiv.org/abs/2511.04126v1
+Published: 2025-11-06 07:18:54+00:00
+----------------------------------------
+This study presents a complete pipeline for automated tennis match analysis. Our framework integrates multiple deep learning models to detect and track players and the tennis ball in real time, while also identifying court keypoints for spatial reference. Using YOLOv8 for player detection, a custom-trained YOLOv5 model for ball tracking, and a ResNet50-based architecture for court keypoint detection, our system provides detailed analytics including player movement patterns, ball speed, shot accuracy, and player reaction times. The experimental results demonstrate robust performance in varying court conditions and match scenarios. The model outputs an annotated video along with detailed performance metrics, enabling coaches, broadcasters, and players to gain actionable insights into the dynamics of the game.

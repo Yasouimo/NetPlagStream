@@ -1,0 +1,11 @@
+Title: The Structure of Cross-Validation Error: Stability, Covariance, and Minimax Limits
+URL: http://arxiv.org/abs/2511.03554v1
+Published: 2025-11-05 15:35:46+00:00
+----------------------------------------
+Despite ongoing theoretical research on cross-validation (CV), many theoretical questions about CV remain widely open. This motivates our investigation into how properties of algorithm-distribution pairs can affect the choice for the number of folds in $k$-fold cross-validation.
+  Our results consist of a novel decomposition of the mean-squared error of cross-validation for risk estimation, which explicitly captures the correlations of error estimates across overlapping folds and includes a novel algorithmic stability notion, squared loss stability, that is considerably weaker than the typically required hypothesis stability in other comparable works.
+  Furthermore, we prove:
+  1. For every learning algorithm that minimizes empirical error, a minimax lower bound on the mean-squared error of $k$-fold CV estimating the population risk $L_\mathcal{D}$: \[ \min_{k \mid n}\; \max_{\mathcal{D}}\; \mathbb{E}\!\left[\big(\widehat{L}_{\mathrm{CV}}^{(k)} - L_{\mathcal{D}}\big)^{2}\right] \;=\; Ω\!\big(\sqrt{k}/n\big), \] where $n$ is the sample size and $k$ the number of folds. This shows that even under idealized conditions, for large values of $k$, CV cannot attain the optimum of order $1/n$ achievable by a validation set of size $n$, reflecting an inherent penalty caused by dependence between folds.
+  2. Complementing this, we exhibit learning rules for which \[
+  \max_{\mathcal{D}}\; \mathbb{E}\!\left[\big(\widehat{L}_{\mathrm{CV}}^{(k)} - L_{\mathcal{D}}\big)^{2}\right] \;=\; Ω(k/n), \] matching (up to constants) the accuracy of a hold-out estimator of a single fold of size $n/k$.
+  Together these results delineate the fundamental trade-off in resampling-based risk estimation: CV cannot fully exploit all $n$ samples for unbiased risk evaluation, and its minimax performance is pinned between the $k/n$ and $\sqrt{k}/n$ regimes.

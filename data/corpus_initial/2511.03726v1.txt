@@ -1,0 +1,5 @@
+Title: A Transferable Machine Learning Approach to Predict Quantum Circuit Parameters for Electronic Structure Problems
+URL: http://arxiv.org/abs/2511.03726v1
+Published: 2025-11-05 18:59:50+00:00
+----------------------------------------
+The individual optimization of quantum circuit parameters is currently one of the main practical bottlenecks in variational quantum eigensolvers for electronic systems. To this end, several machine learning approaches have been proposed to mitigate the problem. However, such method predominantly aims at training and predicting parameters tailored to individual molecules: either a specific structure, or several structures of the same molecule with varying bond lengths. This work explores machine learning based modeling strategies to include transferability between different molecules. We use a well investigated quantum circuit design and apply it to model properties of hydrogenic systems where we show parameter prediction that is systematically transferable to instances significantly larger than the training instances.

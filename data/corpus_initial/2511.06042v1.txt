@@ -1,0 +1,5 @@
+Title: Physics-Informed Design of Input Convex Neural Networks for Consistency Optimal Transport Flow Matching
+URL: http://arxiv.org/abs/2511.06042v1
+Published: 2025-11-08 15:30:55+00:00
+----------------------------------------
+We propose a consistency model based on the optimal-transport flow. A physics-informed design of partially input-convex neural networks (PICNN) plays a central role in constructing the flow field that emulates the displacement interpolation. During the training stage, we couple the Hamilton-Jacobi (HJ) residual in the OT formulation with the original flow matching loss function. Our approach avoids inner optimization subproblems that are present in previous one-step OFM approaches. During the prediction stage, our approach supports both one-step (Brenier-map) and multi-step ODE sampling from the same learned potential, leveraging the straightness of the OT flow. We validate scalability and performance on standard OT benchmarks.

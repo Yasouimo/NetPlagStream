@@ -1,0 +1,5 @@
+Title: Calibration improves detection of mislabeled examples
+URL: http://arxiv.org/abs/2511.02738v1
+Published: 2025-11-04 17:03:33+00:00
+----------------------------------------
+Mislabeled data is a pervasive issue that undermines the performance of machine learning systems in real-world applications. An effective approach to mitigate this problem is to detect mislabeled instances and subject them to special treatment, such as filtering or relabeling. Automatic mislabeling detection methods typically rely on training a base machine learning model and then probing it for each instance to obtain a trust score that each provided label is genuine or incorrect. The properties of this base model are thus of paramount importance. In this paper, we investigate the impact of calibrating this model. Our empirical results show that using calibration methods improves the accuracy and robustness of mislabeled instance detection, providing a practical and effective solution for industrial applications.

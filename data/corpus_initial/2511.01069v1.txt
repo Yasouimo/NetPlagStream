@@ -1,0 +1,5 @@
+Title: Happiness as a Measure of Fairness
+URL: http://arxiv.org/abs/2511.01069v1
+Published: 2025-11-02 20:27:16+00:00
+----------------------------------------
+In this paper, we propose a novel fairness framework grounded in the concept of happiness, a measure of the utility each group gains fromdecisionoutcomes. Bycapturingfairness through this intuitive lens, we not only offer a more human-centered approach, but also one that is mathematically rigorous: In order to compute the optimal, fair post-processing strategy, only a linear program needs to be solved. This makes our method both efficient and scalable with existing optimization tools. Furthermore, it unifies and extends several well-known fairness definitions, and our empirical results highlight its practical strengths across diverse scenarios.

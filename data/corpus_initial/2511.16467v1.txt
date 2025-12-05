@@ -1,0 +1,5 @@
+Title: Anatomy of an Idiom: Tracing Non-Compositionality in Language Models
+URL: http://arxiv.org/abs/2511.16467v1
+Published: 2025-11-20 15:35:50+00:00
+----------------------------------------
+We investigate the processing of idiomatic expressions in transformer-based language models using a novel set of techniques for circuit discovery and analysis. First discovering circuits via a modified path patching algorithm, we find that idiom processing exhibits distinct computational patterns. We identify and investigate ``Idiom Heads,'' attention heads that frequently activate across different idioms, as well as enhanced attention between idiom tokens due to earlier processing, which we term ``augmented reception.'' We analyze these phenomena and the general features of the discovered circuits as mechanisms by which transformers balance computational efficiency and robustness. Finally, these findings provide insights into how transformers handle non-compositional language and suggest pathways for understanding the processing of more complex grammatical constructions.

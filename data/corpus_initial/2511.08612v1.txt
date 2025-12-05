@@ -1,0 +1,5 @@
+Title: Learning based Modelling of Throttleable Engine Dynamics for Lunar Landing Mission
+URL: http://arxiv.org/abs/2511.08612v1
+Published: 2025-11-05 16:36:52+00:00
+----------------------------------------
+Typical lunar landing missions involve multiple phases of braking to achieve soft-landing. The propulsion system configuration for these missions consists of throttleable engines. This configuration involves complex interconnected hydraulic, mechanical, and pneumatic components each exhibiting non-linear dynamic characteristics. Accurate modelling of the propulsion dynamics is essential for analyzing closed-loop guidance and control schemes during descent. This paper presents a learning-based system identification approach for modelling of throttleable engine dynamics using data obtained from high-fidelity propulsion model. The developed model is validated with experimental results and used for closed-loop guidance and control simulations.

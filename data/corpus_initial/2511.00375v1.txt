@@ -1,0 +1,5 @@
+Title: PolyRecommender: A Multimodal Recommendation System for Polymer Discovery
+URL: http://arxiv.org/abs/2511.00375v1
+Published: 2025-11-01 03:13:56+00:00
+----------------------------------------
+We introduce PolyRecommender, a multimodal discovery framework that integrates chemical language representations from PolyBERT with molecular graph-based representations from a graph encoder. The system first retrieves candidate polymers using language-based similarity and then ranks them using fused multimodal embeddings according to multiple target properties. By leveraging the complementary knowledge encoded in both modalities, PolyRecommender enables efficient retrieval and robust ranking across related polymer properties. Our work establishes a generalizable multimodal paradigm, advancing AI-guided design for the discovery of next-generation polymers.

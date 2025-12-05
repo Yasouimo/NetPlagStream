@@ -1,0 +1,5 @@
+Title: A Probabilistic U-Net Approach to Downscaling Climate Simulations
+URL: http://arxiv.org/abs/2511.03197v1
+Published: 2025-11-05 05:32:18+00:00
+----------------------------------------
+Climate models are limited by heavy computational costs, often producing outputs at coarse spatial resolutions, while many climate change impact studies require finer scales. Statistical downscaling bridges this gap, and we adapt the probabilistic U-Net for this task, combining a deterministic U-Net backbone with a variational latent space to capture aleatoric uncertainty. We evaluate four training objectives, afCRPS and WMSE-MS-SSIM with three settings for downscaling precipitation and temperature from $16\times$ coarser resolution. Our main finding is that WMSE-MS-SSIM performs well for extremes under certain settings, whereas afCRPS better captures spatial variability across scales.

@@ -1,0 +1,5 @@
+Title: Neural Network-Augmented Iterative Learning Control for Friction Compensation of Motion Control Systems with Varying Disturbances
+URL: http://arxiv.org/abs/2511.11850v1
+Published: 2025-11-14 20:12:41+00:00
+----------------------------------------
+This paper proposes a robust control strategy that integrates Iterative Learning Control (ILC) with a simple lateral neural network to enhance the trajectory tracking performance of a linear Lorentz force actuator under friction and model uncertainties. The ILC compensates for nonlinear friction effects, while the neural network estimates the nonlinear ILC effort for varying reference commands. By dynamically adjusting the ILC effort, the method adapts to time-varying friction, reduces errors at reference changes, and accelerates convergence. Compared to previous approaches using complex neural networks, this method simplifies online training and implementation, making it practical for real-time applications. Experimental results confirm its effectiveness in achieving precise tracking across multiple tasks with different reference trajectories.

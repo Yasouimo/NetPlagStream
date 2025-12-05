@@ -1,0 +1,5 @@
+Title: QIBONN: A Quantum-Inspired Bilevel Optimizer for Neural Networks on Tabular Classification
+URL: http://arxiv.org/abs/2511.08940v1
+Published: 2025-11-12 03:31:41+00:00
+----------------------------------------
+Hyperparameter optimization (HPO) for neural networks on tabular data is critical to a wide range of applications, yet it remains challenging due to large, non-convex search spaces and the cost of exhaustive tuning. We introduce the Quantum-Inspired Bilevel Optimizer for Neural Networks (QIBONN), a bilevel framework that encodes feature selection, architectural hyperparameters, and regularization in a unified qubit-based representation. By combining deterministic quantum-inspired rotations with stochastic qubit mutations guided by a global attractor, QIBONN balances exploration and exploitation under a fixed evaluation budget. We conduct systematic experiments under single-qubit bit-flip noise (0.1\%--1\%) emulated by an IBM-Q backend. Results on 13 real-world datasets indicate that QIBONN is competitive with established methods, including classical tree-based methods and both classical/quantum-inspired HPO algorithms under the same tuning budget.

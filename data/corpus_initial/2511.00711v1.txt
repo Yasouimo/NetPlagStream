@@ -1,0 +1,5 @@
+Title: TRISKELION-1: Unified Descriptive-Predictive-Generative AI
+URL: http://arxiv.org/abs/2511.00711v1
+Published: 2025-11-01 21:23:38+00:00
+----------------------------------------
+TRISKELION-1 is a unified descriptive-predictive-generative architecture that integrates statistical, mechanistic, and generative reasoning within a single encoder-decoder framework. The model demonstrates how descriptive representation learning, predictive inference, and generative synthesis can be jointly optimized using variational objectives. Experiments on MNIST validate that descriptive reconstruction, predictive classification, and generative sampling can coexist stably within one model. The framework provides a blueprint toward universal intelligence architectures that connect interpretability, accuracy, and creativity.

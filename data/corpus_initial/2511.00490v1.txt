@@ -1,0 +1,5 @@
+Title: Accuracy estimation of neural networks by extreme value theory
+URL: http://arxiv.org/abs/2511.00490v1
+Published: 2025-11-01 10:52:51+00:00
+----------------------------------------
+Neural networks are able to approximate any continuous function on a compact set. However, it is not obvious how to quantify the error of the neural network, i.e., the remaining bias between the function and the neural network. Here, we propose the application of extreme value theory to quantify large values of the error, which are typically relevant in applications. The distribution of the error beyond some threshold is approximately generalized Pareto distributed. We provide a new estimator of the shape parameter of the Pareto distribution suitable to describe the error of neural networks. Numerical experiments are provided.

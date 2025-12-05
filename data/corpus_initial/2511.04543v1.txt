@@ -1,0 +1,5 @@
+Title: Automatic tuning of a donor in a silicon quantum device using machine learning
+URL: http://arxiv.org/abs/2511.04543v1
+Published: 2025-11-06 16:55:40+00:00
+----------------------------------------
+Donor spin qubits in silicon offer one- and two-qubit gates with fidelities beyond 99%, coherence times exceeding 30 seconds, and compatibility with industrial manufacturing methods. This motivates the development of large-scale quantum processors using this platform, and the ability to automatically tune and operate such complex devices. In this work, we present the first machine learning algorithm with the ability to automatically locate the charge transitions of an ion-implanted donor in a silicon device, tune single-shot charge readout, and identify the gate voltage parameters where tunnelling rates in and out the donor site are the same. The entire tuning pipeline is completed on the order of minutes. Our results enable both automatic characterisation and tuning of a donor in silicon devices faster than human experts.

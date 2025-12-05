@@ -1,0 +1,5 @@
+Title: SPOT: Single-Shot Positioning via Trainable Near-Field Rainbow Beamforming
+URL: http://arxiv.org/abs/2511.11391v1
+Published: 2025-11-14 15:21:35+00:00
+----------------------------------------
+Phase-time arrays, which integrate phase shifters (PSs) and true-time delays (TTDs), have emerged as a cost-effective architecture for generating frequency-dependent rainbow beams in wideband sensing and localization. This paper proposes an end-to-end deep learning-based scheme that simultaneously designs the rainbow beams and estimates user positions. Treating the PS and TTD coefficients as trainable variables allows the network to synthesize task-oriented beams that maximize localization accuracy. A lightweight fully connected module then recovers the user's angle-range coordinates from its feedback of the maximum quantized received power and its corresponding subcarrier index after a single downlink transmission. Compared with existing analytical and learning-based schemes, the proposed method reduces overhead by an order of magnitude and delivers consistently lower two-dimensional positioning error.

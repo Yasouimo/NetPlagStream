@@ -1,0 +1,5 @@
+Title: Neural Network based Distance Estimation for Branched Molecular Communication Systems
+URL: http://arxiv.org/abs/2511.02074v1
+Published: 2025-11-03 21:21:45+00:00
+----------------------------------------
+Molecular Communications (MC) is an emerging research paradigm that utilizes molecules to transmit information, with promising applications in biomedicine such as targeted drug delivery or tumor detection. It is also envisioned as a key enabler of the Internet of BioNanoThings (IoBNT). In this paper, we propose algorithms based on Recurrent Neural Networks (RNN) for the estimation of communication channel parameters in MC systems. We focus on a simple branched topology, simulating the molecule movement with a macroscopic MC simulator. The Deep Learning architectures proposed for distance estimation demonstrate strong performance within these branched environments, highlighting their potential for future MC applications.

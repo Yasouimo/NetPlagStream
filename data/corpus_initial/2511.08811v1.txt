@@ -1,0 +1,5 @@
+Title: A Neural-Operator Preconditioned Newton Method for Accelerated Nonlinear Solvers
+URL: http://arxiv.org/abs/2511.08811v1
+Published: 2025-11-11 22:26:38+00:00
+----------------------------------------
+We propose a novel neural preconditioned Newton (NP-Newton) method for solving parametric nonlinear systems of equations. To overcome the stagnation or instability of Newton iterations caused by unbalanced nonlinearities, we introduce a fixed-point neural operator (FPNO) that learns the direct mapping from the current iterate to the solution by emulating fixed-point iterations. Unlike traditional line-search or trust-region algorithms, the proposed FPNO adaptively employs negative step sizes to effectively mitigate the effects of unbalanced nonlinearities. Through numerical experiments we demonstrate the computational efficiency and robustness of the proposed NP-Newton method across multiple real-world applications, especially for very strong nonlinearities.

@@ -1,0 +1,5 @@
+Title: Go-UT-Bench: A Fine-Tuning Dataset for LLM-Based Unit Test Generation in Go
+URL: http://arxiv.org/abs/2511.10868v1
+Published: 2025-11-14 00:35:00+00:00
+----------------------------------------
+Training data imbalance poses a major challenge for code LLMs. Most available data heavily over represents raw opensource code while underrepresenting broader software engineering tasks, especially in low resource languages like Golang. As a result, models excel at code autocompletion but struggle with real world developer workflows such as unit test generation. To address this gap, we introduce GO UT Bench, a benchmark dataset of 5264 pairs of code and unit tests, drawn from 10 permissively licensed Golang repositories spanning diverse domain. We evaluate its effectiveness as a fine tuning dataset across two LLM families i.e. mixture of experts and dense decoders. Our results show that finetuned models outperform their base counterparts on more than 75% of benchmark tasks.

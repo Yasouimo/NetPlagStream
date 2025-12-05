@@ -1,0 +1,5 @@
+Title: Adaptable Hindsight Experience Replay for Search-Based Learning
+URL: http://arxiv.org/abs/2511.03405v1
+Published: 2025-11-05 12:13:23+00:00
+----------------------------------------
+AlphaZero-like Monte Carlo Tree Search systems, originally introduced for two-player games, dynamically balance exploration and exploitation using neural network guidance. This combination makes them also suitable for classical search problems. However, the original method of training the network with simulation results is limited in sparse reward settings, especially in the early stages, where the network cannot yet give guidance. Hindsight Experience Replay (HER) addresses this issue by relabeling unsuccessful trajectories from the search tree as supervised learning signals. We introduce Adaptable HER (\ours{}), a flexible framework that integrates HER with AlphaZero, allowing easy adjustments to HER properties such as relabeled goals, policy targets, and trajectory selection. Our experiments, including equation discovery, show that the possibility of modifying HER is beneficial and surpasses the performance of pure supervised or reinforcement learning.

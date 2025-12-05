@@ -1,0 +1,5 @@
+Title: Attosecond quantum optical interferometry
+URL: http://arxiv.org/abs/2511.01097v2
+Published: 2025-11-02 22:10:37+00:00
+----------------------------------------
+In this work, we explore the scheme of attosecond quantum interferometry (AQI), the quantum optical version of classical attosecond interferometry, which allows to measure quantum optical properties on the attosecond time-scale. We develop how the scheme of AQI can be used for quantum state engineering of the emitted harmonics, by varying the relative phase of a two-color driving field, and further enables one to manipulate the field correlations as well as their entanglement characteristics. In addition, this scheme allows us to learn properties of the phase-space distribution of the harmonic quantum state, by means of measuring an attosecond quantum tomography trace. This serves as a new type of protocol for in situ attosecond measurements of quantum optical observables. With this, we achieve to further connect all-optical attosecond measurement schemes with quantum optics, allowing for a rich manifold of observations.

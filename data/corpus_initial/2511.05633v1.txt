@@ -1,0 +1,5 @@
+Title: Physics-Guided Machine Learning for Uncertainty Quantification in Turbulence Models
+URL: http://arxiv.org/abs/2511.05633v1
+Published: 2025-11-07 07:48:12+00:00
+----------------------------------------
+Predicting the evolution of turbulent flows is central across science and engineering. Most studies rely on simulations with turbulence models, whose empirical simplifications introduce epistemic uncertainty. The Eigenspace Perturbation Method (EPM) is a widely used physics-based approach to quantify model-form uncertainty, but being purely physics-based it can overpredict uncertainty bounds. We propose a convolutional neural network (CNN)-based modulation of EPM perturbation magnitudes to improve calibration while preserving physical consistency. Across canonical cases, the hybrid ML-EPM framework yields substantially tighter, better-calibrated uncertainty estimates than baseline EPM alone.

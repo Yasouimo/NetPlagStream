@@ -1,0 +1,5 @@
+Title: Intrinsic Dimensionality as a Model-Free Measure of Class Imbalance
+URL: http://arxiv.org/abs/2511.10475v1
+Published: 2025-11-13 16:41:37+00:00
+----------------------------------------
+Imbalance in classification tasks is commonly quantified by the cardinalities of examples across classes. This, however, disregards the presence of redundant examples and inherent differences in the learning difficulties of classes. Alternatively, one can use complex measures such as training loss and uncertainty, which, however, depend on training a machine learning model. Our paper proposes using data Intrinsic Dimensionality (ID) as an easy-to-compute, model-free measure of imbalance that can be seamlessly incorporated into various imbalance mitigation methods. Our results across five different datasets with a diverse range of imbalance ratios show that ID consistently outperforms cardinality-based re-weighting and re-sampling techniques used in the literature. Moreover, we show that combining ID with cardinality can further improve performance. Code: https://github.com/cagries/IDIM.

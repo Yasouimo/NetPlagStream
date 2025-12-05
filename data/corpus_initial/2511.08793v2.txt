@@ -1,0 +1,5 @@
+Title: Ultra-Kolyvagin systems and non-ordinary Selmer groups
+URL: http://arxiv.org/abs/2511.08793v2
+Published: 2025-11-11 21:26:42+00:00
+----------------------------------------
+We develop a machine for bounding Selmer groups of Galois representations via Euler systems in "non-ordinary" settings, using Pottharst's definition of Selmer groups via Robba-ring $(\varphi, Γ)$-modules. Our approach relies on Sweeting's interpretation of Kolyvagin derivative classes via non-principal ultrafilters. We apply these results to prove new cases of the cyclotomic Iwasawa main conjecture for non-ordinary Rankin--Selberg convolutions.

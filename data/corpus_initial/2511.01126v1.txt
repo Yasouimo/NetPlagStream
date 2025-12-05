@@ -1,0 +1,5 @@
+Title: Stochastic Regret Guarantees for Online Zeroth- and First-Order Bilevel Optimization
+URL: http://arxiv.org/abs/2511.01126v1
+Published: 2025-11-03 00:29:36+00:00
+----------------------------------------
+Online bilevel optimization (OBO) is a powerful framework for machine learning problems where both outer and inner objectives evolve over time, requiring dynamic updates. Current OBO approaches rely on deterministic \textit{window-smoothed} regret minimization, which may not accurately reflect system performance when functions change rapidly. In this work, we introduce a novel search direction and show that both first- and zeroth-order (ZO) stochastic OBO algorithms leveraging this direction achieve sublinear {stochastic bilevel regret without window smoothing}. Beyond these guarantees, our framework enhances efficiency by: (i) reducing oracle dependence in hypergradient estimation, (ii) updating inner and outer variables alongside the linear system solution, and (iii) employing ZO-based estimation of Hessians, Jacobians, and gradients. Experiments on online parametric loss tuning and black-box adversarial attacks validate our approach.

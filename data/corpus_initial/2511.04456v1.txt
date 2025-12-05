@@ -1,0 +1,5 @@
+Title: Federated Stochastic Minimax Optimization under Heavy-Tailed Noises
+URL: http://arxiv.org/abs/2511.04456v1
+Published: 2025-11-06 15:27:29+00:00
+----------------------------------------
+Heavy-tailed noise has attracted growing attention in nonconvex stochastic optimization, as numerous empirical studies suggest it offers a more realistic assumption than standard bounded variance assumption. In this work, we investigate nonconvex-PL minimax optimization under heavy-tailed gradient noise in federated learning. We propose two novel algorithms: Fed-NSGDA-M, which integrates normalized gradients, and FedMuon-DA, which leverages the Muon optimizer for local updates. Both algorithms are designed to effectively address heavy-tailed noise in federated minimax optimization, under a milder condition. We theoretically establish that both algorithms achieve a convergence rate of $O({1}/{(TNp)^{\frac{s-1}{2s}}})$. To the best of our knowledge, these are the first federated minimax optimization algorithms with rigorous theoretical guarantees under heavy-tailed noise. Extensive experiments further validate their effectiveness.

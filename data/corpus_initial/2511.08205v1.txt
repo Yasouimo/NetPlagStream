@@ -1,0 +1,5 @@
+Title: From Classical to Hybrid: A Practical Framework for Quantum-Enhanced Learning
+URL: http://arxiv.org/abs/2511.08205v1
+Published: 2025-11-11 13:08:52+00:00
+----------------------------------------
+This work addresses the challenge of enabling practitioners without quantum expertise to transition from classical to hybrid quantum-classical machine learning workflows. We propose a three-stage framework: starting with a classical self-training model, then introducing a minimal hybrid quantum variant, and finally applying diagnostic feedback via QMetric to refine the hybrid architecture. In experiments on the Iris dataset, the refined hybrid model improved accuracy from 0.31 in the classical approach to 0.87 in the quantum approach. These results suggest that even modest quantum components, when guided by proper diagnostics, can enhance class separation and representation capacity in hybrid learning, offering a practical pathway for classical machine learning practitioners to leverage quantum-enhanced methods.

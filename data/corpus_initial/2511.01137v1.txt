@@ -1,0 +1,6 @@
+Title: Regularization Implies balancedness in the deep linear network
+URL: http://arxiv.org/abs/2511.01137v1
+Published: 2025-11-03 01:19:26+00:00
+----------------------------------------
+We use geometric invariant theory (GIT) to study the deep linear network (DLN). The Kempf-Ness theorem is used to establish that the $L^2$ regularizer is minimized on the balanced manifold. This allows us to decompose the training dynamics into two distinct gradient flows: a regularizing flow on fibers and a learning flow on the balanced manifold. We show that the regularizing flow is exactly solvable using the moment map.
+  This approach provides a common mathematical framework for balancedness in deep learning and linear systems theory. We use this framework to interpret balancedness in terms of model reduction and Bayesian principles.

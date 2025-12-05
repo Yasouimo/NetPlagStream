@@ -1,0 +1,9 @@
+Title: A Self-Improving Architecture for Dynamic Safety in Large Language Models
+URL: http://arxiv.org/abs/2511.07645v1
+Published: 2025-11-10 21:39:40+00:00
+----------------------------------------
+Context: The integration of Large Language Models (LLMs) into core software systems is accelerating. However, existing software architecture patterns are static, while current safety assurance methods are not scalable, leaving systems vulnerable to novel adversarial threats.
+  Objective: To design, implement, and evaluate a novel software architecture that enables an AI-driven system to autonomously and continuously adapt its own safety protocols at runtime.
+  Method: We propose the Self-Improving Safety Framework (SISF), a runtime architecture that couples an unprotected, unaligned base LLM (mistralai/Mistral-7B-v0.1) with a dynamic feedback loop. This loop consists of an AI Adjudicator (GPT-4o) for breach detection and a Policy Synthesis Module (GPT-4 Turbo) that autonomously generates new, generalized safety policies (both heuristic and semantic) in response to failures.
+  Results: We conducted a dynamic learning evaluation using the 520-prompt AdvBench dataset. The unprotected model was 100% vulnerable. Our SISF, starting from zero policies, demonstrated a clear learning curve: it detected 237 breaches, autonomously synthesized 234 new policies, and reduced the overall Attack Success Rate (ASR) to 45.58%. In a subsequent test on 520 benign prompts, the SISF achieved a 0.00% False Positive Rate (FPR), proving its ability to adapt without compromising user utility.
+  Conclusion: An architectural approach to AI safety, based on the principles of self-adaptation, is a viable and effective strategy. Our framework demonstrates a practical path towards building more robust, resilient, and scalable AI-driven systems, shifting safety assurance from a static, pre-deployment activity to an automated, runtime process.

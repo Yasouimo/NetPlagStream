@@ -1,0 +1,5 @@
+Title: CATCHFed: Efficient Unlabeled Data Utilization for Semi-Supervised Federated Learning in Limited Labels Environments
+URL: http://arxiv.org/abs/2511.11778v2
+Published: 2025-11-14 13:16:52+00:00
+----------------------------------------
+Federated learning is a promising paradigm that utilizes distributed client resources while preserving data privacy. Most existing FL approaches assume clients possess labeled data, however, in real-world scenarios, client-side labels are often unavailable. Semi-supervised Federated learning, where only the server holds labeled data, addresses this issue. However, it experiences significant performance degradation as the number of labeled data decreases. To tackle this problem, we propose \textit{CATCHFed}, which introduces client-aware adaptive thresholds considering class difficulty, hybrid thresholds to enhance pseudo-label quality, and utilizes unpseudo-labeled data for consistency regularization. Extensive experiments across various datasets and configurations demonstrate that CATCHFed effectively leverages unlabeled client data, achieving superior performance even in extremely limited-label settings.

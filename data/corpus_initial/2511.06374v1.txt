@@ -1,0 +1,5 @@
+Title: Adaptive Regularization for Large-Scale Sparse Feature Embedding Models
+URL: http://arxiv.org/abs/2511.06374v1
+Published: 2025-11-09 13:24:14+00:00
+----------------------------------------
+The one-epoch overfitting problem has drawn widespread attention, especially in CTR and CVR estimation models in search, advertising, and recommendation domains. These models which rely heavily on large-scale sparse categorical features, often suffer a significant decline in performance when trained for multiple epochs. Although recent studies have proposed heuristic solutions, they have not clearly identified the fundamental cause of this phenomenon. In this work, we provide a theoretical analysis that explains why overfitting occurs in models that use large-scale sparse categorical features. Based on this analysis, we propose an adaptive regularization method to address it. Our approach not only prevents the severe performance degradation observed during multi-epoch training, but also improves model performance within a single epoch. This method has already been deployed in online production systems.

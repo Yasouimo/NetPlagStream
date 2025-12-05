@@ -1,0 +1,5 @@
+Title: CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering
+URL: http://arxiv.org/abs/2511.05826v1
+Published: 2025-11-08 03:24:22+00:00
+----------------------------------------
+An appropriate distance metric is crucial for categorical data clustering, as the distance between categorical data cannot be directly calculated. However, the distances between attribute values usually vary in different clusters induced by their different distributions, which has not been taken into account, thus leading to unreasonable distance measurement. Therefore, we propose a cluster-customized distance metric for categorical data clustering, which can competitively update distances based on different distributions of attributes in each cluster. In addition, we extend the proposed distance metric to the mixed data that contains both numerical and categorical attributes. Experiments demonstrate the efficacy of the proposed method, i.e., achieving an average ranking of around first in fourteen datasets. The source code is available at https://anonymous.4open.science/r/CADM-47D8

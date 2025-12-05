@@ -1,0 +1,5 @@
+Title: Infinite-Dimensional Operator/Block Kaczmarz Algorithms: Regret Bounds and $λ$-Effectiveness
+URL: http://arxiv.org/abs/2511.07604v1
+Published: 2025-11-10 20:21:32+00:00
+----------------------------------------
+We present a variety of projection-based linear regression algorithms with a focus on modern machine-learning models and their algorithmic performance. We study the role of the relaxation parameter in generalized Kaczmarz algorithms and establish a priori regret bounds with explicit $λ$-dependence to quantify how much an algorithm's performance deviates from its optimal performance. A detailed analysis of relaxation parameter is also provided. Applications include: explicit regret bounds for the framework of Kaczmarz algorithm models, non-orthogonal Fourier expansions, and the use of regret estimates in modern machine learning models, including for noisy data, i.e., regret bounds for the noisy Kaczmarz algorithms. Motivated by machine-learning practice, our wider framework treats bounded operators (on infinite-dimensional Hilbert spaces), with updates realized as (block) Kaczmarz algorithms, leading to new and versatile results.

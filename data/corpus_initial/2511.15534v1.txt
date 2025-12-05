@@ -1,0 +1,5 @@
+Title: Exploring the use of AI authors and reviewers at Agents4Science
+URL: http://arxiv.org/abs/2511.15534v1
+Published: 2025-11-19 15:32:07+00:00
+----------------------------------------
+There is growing interest in using AI agents for scientific research, yet fundamental questions remain about their capabilities as scientists and reviewers. To explore these questions, we organized Agents4Science, the first conference in which AI agents serve as both primary authors and reviewers, with humans as co-authors and co-reviewers. Here, we discuss the key learnings from the conference and their implications for human-AI collaboration in science.

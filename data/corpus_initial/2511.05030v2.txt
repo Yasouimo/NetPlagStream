@@ -1,0 +1,5 @@
+Title: The Shape of Markets: Machine learning modeling and Prediction Using 2-Manifold Geometries
+URL: http://arxiv.org/abs/2511.05030v2
+Published: 2025-11-07 07:06:36+00:00
+----------------------------------------
+We introduce a Geometry Informed Model for financial forecasting by embedding high dimensional market data onto constant curvature 2manifolds. Guided by the uniformization theorem, we model market dynamics as Brownian motion on spherical S2, Euclidean R2, and hyperbolic H2 geometries. We further include the torus T, a compact, flat manifold admissible as a quotient space of the Euclidean plane anticipating its relevance for capturing cyclical dynamics. Manifold learning techniques infer the latent curvature from financial data, revealing the torus as the best performing geometry. We interpret this result through a macroeconomic lens, the torus circular dimensions align with endogenous cycles in output, interest rates, and inflation described by IS LM theory. Our findings demonstrate the value of integrating differential geometry with data-driven inference for financial modeling.

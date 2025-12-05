@@ -1,0 +1,5 @@
+Title: One model to solve them all: 2BSDE families via neural operators
+URL: http://arxiv.org/abs/2511.01125v1
+Published: 2025-11-03 00:27:13+00:00
+----------------------------------------
+We introduce a mild generative variant of the classical neural operator model, which leverages Kolmogorov--Arnold networks to solve infinite families of second-order backward stochastic differential equations ($2$BSDEs) on regular bounded Euclidean domains with random terminal time. Our first main result shows that the solution operator associated with a broad range of $2$BSDE families is approximable by appropriate neural operator models. We then identify a structured subclass of (infinite) families of $2$BSDEs whose neural operator approximation requires only a polynomial number of parameters in the reciprocal approximation rate, as opposed to the exponential requirement in general worst-case neural operator guarantees.

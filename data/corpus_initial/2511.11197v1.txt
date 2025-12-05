@@ -1,0 +1,6 @@
+Title: Computationally-efficient deep learning models for nowcasting of precipitation: A solution for the Weather4cast 2025 challenge
+URL: http://arxiv.org/abs/2511.11197v1
+Published: 2025-11-14 11:51:59+00:00
+----------------------------------------
+This study presents a transfer-learning framework based on Convolutional Gated Recurrent Units (ConvGRU) for short-term rainfall prediction in the Weather4Cast 2025 competition. A single SEVIRI infrared channel (10.8 μm wavelength) is used as input, which consists of four observations over a one-hour period. A two-stage training strategy is applied to generate rainfall estimates up to four hours ahead. In the first stage, ConvGRU is trained to forecast the brightness temperatures from SEVIRI, enabling the model to capture relevant spatiotemporal patterns. In the second stage, an empirically derived nonlinear transformation maps the predicted fields to OPERA-compatible rainfall rates.
+  For the event-prediction task, the transformed rainfall forecasts are processed using 3D event detection followed by spatiotemporal feature extraction to identify and characterize precipitation events. Our submission achieved 2nd place in the cumulative rainfall task. Further, the same model was used out-of-the-box for the event prediction task, and resulted in similar scores as the baseline model to the competition.

@@ -1,0 +1,5 @@
+Title: Do Syntactic Categories Help in Developmentally Motivated Curriculum Learning for Language Models?
+URL: http://arxiv.org/abs/2511.08199v1
+Published: 2025-11-11 13:03:27+00:00
+----------------------------------------
+We examine the syntactic properties of BabyLM corpus, and age-groups within CHILDES. While we find that CHILDES does not exhibit strong syntactic differentiation by age, we show that the syntactic knowledge about the training data can be helpful in interpreting model performance on linguistic tasks. For curriculum learning, we explore developmental and several alternative cognitively inspired curriculum approaches. We find that some curricula help with reading tasks, but the main performance improvement come from using the subset of syntactically categorizable data, rather than the full noisy corpus.

@@ -1,0 +1,5 @@
+Title: Deep reinforcement learning-based spacecraft attitude control with pointing keep-out constraint
+URL: http://arxiv.org/abs/2511.13746v1
+Published: 2025-11-13 13:45:22+00:00
+----------------------------------------
+This paper implements deep reinforcement learning (DRL) for spacecraft reorientation control with a single pointing keep-out zone. The Soft Actor-Critic (SAC) algorithm is adopted to handle continuous state and action space. A new state representation is designed to explicitly include a compact representation of the attitude constraint zone. The reward function is formulated to achieve the control objective while enforcing the attitude constraint. A curriculum learning approach is used for the agent training. Simulation results demonstrate the effectiveness of the proposed DRL-based method for spacecraft pointing-constrained attitude control.

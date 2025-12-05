@@ -1,0 +1,5 @@
+Title: Fine-Tuning Vision-Language Models for Multimodal Polymer Property Prediction
+URL: http://arxiv.org/abs/2511.05577v1
+Published: 2025-11-04 22:32:53+00:00
+----------------------------------------
+Vision-Language Models (VLMs) have shown strong performance in tasks like visual question answering and multimodal text generation, but their effectiveness in scientific domains such as materials science remains limited. While some machine learning methods have addressed specific challenges in this field, there is still a lack of foundation models designed for broad tasks like polymer property prediction using multimodal data. In this work, we present a multimodal polymer dataset to fine-tune VLMs through instruction-tuning pairs and assess the impact of multimodality on prediction performance. Our fine-tuned models, using LoRA, outperform unimodal and baseline approaches, demonstrating the benefits of multimodal learning. Additionally, this approach reduces the need to train separate models for different properties, lowering deployment and maintenance costs.

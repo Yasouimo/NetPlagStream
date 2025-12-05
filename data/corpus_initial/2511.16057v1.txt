@@ -1,0 +1,5 @@
+Title: High-Throughput Exploration of Refractory High-Entropy Alloys for Strength and Plasticity
+URL: http://arxiv.org/abs/2511.16057v1
+Published: 2025-11-20 05:28:40+00:00
+----------------------------------------
+Refractory high-entropy alloys (RHEAs) are compositionally complex materials which have been demonstrated to have the potential for exceptional strength at high operating temperatures. However, their composition space is vast, and other property requirements, such as acceptable plasticity at room-temperature, must be met. Here, we leverage recently published, state-of-the-art deep learning models to predict compressive yield strength at 1,000 °C and room-temperature plasticity of >100,000 RHEAs. Multiple candidate materials were identified which exhibited exceptional balance between strength and plasticity. Upon experimental synthesis, multiple candidates were proven to outperform any previously reported RHEAs for simultaneous strength and plasticity. Our work demonstrates the power of data-driven approaches for rapid materials design, and enables continued multi-property optimization and materials discovery.

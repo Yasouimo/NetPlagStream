@@ -1,0 +1,5 @@
+Title: The Benefits of Data Storytelling in Accessible Teaching
+URL: http://arxiv.org/abs/2511.04024v1
+Published: 2025-11-06 03:46:46+00:00
+----------------------------------------
+Accessible teaching has been extensively investigated in computer science, yet its integration into other disciplines, such as data literacy, remains limited. This paper examines the potential of data storytelling, defined as the integration of data, visualizations, and narrative, as a possible strategy for making complex information accessible to diverse learners in compliance with Title II of the Americans with Disabilities Act (ADA). We propose six design principles, derived from Title II's core obligations, to guide educators in applying data storytelling within inclusive learning environments. A simulated scenario shows the operationalization of these principles, illustrating how narrative-driven data presentation can enhance comprehension, engagement, and equitable access across different educational contexts.

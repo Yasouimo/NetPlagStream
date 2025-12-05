@@ -1,0 +1,5 @@
+Title: VLM-driven Skill Selection for Robotic Assembly Tasks
+URL: http://arxiv.org/abs/2511.05680v1
+Published: 2025-11-07 19:48:42+00:00
+----------------------------------------
+This paper presents a robotic assembly framework that combines Vision-Language Models (VLMs) with imitation learning for assembly manipulation tasks. Our system employs a gripper-equipped robot that moves in 3D space to perform assembly operations. The framework integrates visual perception, natural language understanding, and learned primitive skills to enable flexible and adaptive robotic manipulation. Experimental results demonstrate the effectiveness of our approach in assembly scenarios, achieving high success rates while maintaining interpretability through the structured primitive skill decomposition.

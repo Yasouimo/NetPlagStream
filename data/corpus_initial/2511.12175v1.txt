@@ -1,0 +1,5 @@
+Title: AI-Enhanced IoT Systems for Predictive Maintenance and Affordability Optimization in Smart Microgrids: A Digital Twin Approach
+URL: http://arxiv.org/abs/2511.12175v1
+Published: 2025-11-15 12:06:47+00:00
+----------------------------------------
+This study presents an AI enhanced IoT framework for predictive maintenance and affordability optimization in smart microgrids using a Digital Twin modeling approach. The proposed system integrates real time sensor data, machine learning based fault prediction, and cost aware operational analytics to improve reliability and energy efficiency in distributed microgrid environments. By synchronizing physical microgrid components with a virtual Digital Twin, the framework enables early detection of component degradation, dynamic load management, and optimized maintenance scheduling. Experimental evaluations demonstrate improved predictive accuracy, reduced operational downtime, and measurable cost savings compared to baseline microgrid management methods. The findings highlight the potential of Digital Twin driven IoT architectures as a scalable solution for next generation intelligent and affordable energy systems.

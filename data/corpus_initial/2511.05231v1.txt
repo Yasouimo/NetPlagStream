@@ -1,0 +1,5 @@
+Title: A differentiable model of supply-chain shocks
+URL: http://arxiv.org/abs/2511.05231v1
+Published: 2025-11-07 13:27:52+00:00
+----------------------------------------
+Modelling how shocks propagate in supply chains is an increasingly important challenge in economics. Its relevance has been highlighted in recent years by events such as Covid-19 and the Russian invasion of Ukraine. Agent-based models (ABMs) are a promising approach for this problem. However, calibrating them is hard. We show empirically that it is possible to achieve speed ups of over 3 orders of magnitude when calibrating ABMs of supply networks by running them on GPUs and using automatic differentiation, compared to non-differentiable baselines. This opens the door to scaling ABMs to model the whole global supply network.

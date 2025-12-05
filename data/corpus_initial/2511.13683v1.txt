@@ -1,0 +1,5 @@
+Title: Quantum Advantage in Learning Mixed Unitary Channels
+URL: http://arxiv.org/abs/2511.13683v1
+Published: 2025-11-17 18:37:33+00:00
+----------------------------------------
+We study the task of learning mixed unitary channels using Fisher information, under different quantum resource assumptions including ancilla and concatenation. Our result shows that the asymptotic sample complexity scales as $\frac{r}{d\varepsilon^2}$, where $r$ is the rank of the channel (i.e.\ the number of different unitaries), $d$ is the dimension of the system, and $\varepsilon^2$ is the mean-square error. Thus the critical resource is the ancilla, which mirrors the result in~\cite{chen2022quantum} but in a more precise form, as we point out that $r$ is also important. Additionally, we demonstrate the practical potential of mixed unitary channels by showing that random mixed unitary channels are easy to learn.

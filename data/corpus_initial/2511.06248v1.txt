@@ -1,0 +1,5 @@
+Title: Constraint-Informed Active Learning for End-to-End ACOPF Optimization Proxies
+URL: http://arxiv.org/abs/2511.06248v1
+Published: 2025-11-09 06:18:38+00:00
+----------------------------------------
+This paper studies optimization proxies, machine learning (ML) models trained to efficiently predict optimal solutions for AC Optimal Power Flow (ACOPF) problems. While promising, optimization proxy performance heavily depends on training data quality. To address this limitation, this paper introduces a novel active sampling framework for ACOPF optimization proxies designed to generate realistic and diverse training data. The framework actively explores varied, flexible problem specifications reflecting plausible operational realities. More importantly, the approach uses optimization-specific quantities (active constraint sets) that better capture the salient features of an ACOPF that lead to the optimal solution. Numerical results show superior generalization over existing sampling methods with an equivalent training budget, significantly advancing the state-of-practice for trustworthy ACOPF optimization proxies.

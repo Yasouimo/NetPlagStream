@@ -1,0 +1,5 @@
+Title: Concentration Inequalities for Suprema of Empirical Processes with Dependent Data via Generic Chaining with Applications to Statistical Learning
+URL: http://arxiv.org/abs/2511.00597v1
+Published: 2025-11-01 15:39:29+00:00
+----------------------------------------
+This paper develops a general concentration inequality for the suprema of empirical processes with dependent data. The concentration inequality is obtained by combining generic chaining with a coupling-based strategy. Our framework accommodates high-dimensional and heavy-tailed (sub-Weibull) data. We demonstrate the usefulness of our result by deriving non-asymptotic predictive performance guarantees for empirical risk minimization in regression problems with dependent data. In particular, we establish an oracle inequality for a broad class of nonlinear regression models and, as a special case, a single-layer neural network model. Our results show that empirical risk minimzaton with dependent data attains a prediction accuracy comparable to that in the i.i.d. setting for a wide range of nonlinear regression models.

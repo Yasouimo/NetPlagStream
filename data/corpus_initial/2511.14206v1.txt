@@ -1,0 +1,5 @@
+Title: Causal Discovery on Higher-Order Interactions
+URL: http://arxiv.org/abs/2511.14206v1
+Published: 2025-11-18 07:35:00+00:00
+----------------------------------------
+Causal discovery combines data with knowledge provided by experts to learn the DAG representing the causal relationships between a given set of variables. When data are scarce, bagging is used to measure our confidence in an average DAG obtained by aggregating bootstrapped DAGs. However, the aggregation step has received little attention from the specialized literature: the average DAG is constructed using only the confidence in the individual edges of the bootstrapped DAGs, thus disregarding complex higher-order edge structures. In this paper, we introduce a novel theoretical framework based on higher-order structures and describe a new DAG aggregation algorithm. We perform a simulation study, discussing the advantages and limitations of the proposed approach. Our proposal is both computationally efficient and effective, outperforming state-of-the-art solutions, especially in low sample size regimes and under high dimensionality settings.

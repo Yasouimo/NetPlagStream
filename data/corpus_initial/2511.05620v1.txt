@@ -1,0 +1,7 @@
+Title: Fooling Algorithms in Non-Stationary Bandits using Belief Inertia
+URL: http://arxiv.org/abs/2511.05620v1
+Published: 2025-11-06 22:16:56+00:00
+----------------------------------------
+We study the problem of worst case regret in piecewise stationary multi armed bandits. While the minimax theory for stationary bandits is well established, understanding analogous limits in time-varying settings is challenging. Existing lower bounds rely on what we refer to as infrequent sampling arguments, where long intervals without exploration allow adversarial reward changes that induce large regret.
+  In this paper, we introduce a fundamentally different approach based on a belief inertia argument. Our analysis captures how an algorithm's empirical beliefs, encoded through historical reward averages, create momentum that resists new evidence after a change. We show how this inertia can be exploited to construct adversarial instances that mislead classical algorithms such as Explore Then Commit, epsilon greedy, and UCB, causing them to suffer regret that grows linearly with T and with a substantial constant factor, regardless of how their parameters are tuned, even with a single change point.
+  We extend the analysis to algorithms that periodically restart to handle non stationarity and prove that, even then, the worst case regret remains linear in T. Our results indicate that utilizing belief inertia can be a powerful method for deriving sharp lower bounds in non stationary bandits.

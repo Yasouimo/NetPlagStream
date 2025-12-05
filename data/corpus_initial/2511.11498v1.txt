@@ -1,0 +1,8 @@
+Title: Learning and Testing Convex Functions
+URL: http://arxiv.org/abs/2511.11498v1
+Published: 2025-11-14 17:19:44+00:00
+----------------------------------------
+We consider the problems of \emph{learning} and \emph{testing} real-valued convex functions over Gaussian space. Despite the extensive study of function convexity across mathematics, statistics, and computer science, its learnability and testability have largely been examined only in discrete or restricted settings -- typically with respect to the Hamming distance, which is ill-suited for real-valued functions.
+  In contrast, we study these problems in high dimensions under the standard Gaussian measure, assuming sample access to the function and a mild smoothness condition, namely Lipschitzness. A smoothness assumption is natural and, in fact, necessary even in one dimension: without it, convexity cannot be inferred from finitely many samples. As our main results, we give:
+  - Learning Convex Functions: An agnostic proper learning algorithm for Lipschitz convex functions that achieves error $\varepsilon$ using $n^{O(1/\varepsilon^2)}$ samples, together with a complementary lower bound of $n^{\mathrm{poly}(1/\varepsilon)}$ samples in the \emph{correlational statistical query (CSQ)} model.
+  - Testing Convex Functions: A tolerant (two-sided) tester for convexity of Lipschitz functions with the same sample complexity (as a corollary of our learning result), and a one-sided tester (which never rejects convex functions) using $O(\sqrt{n}/\varepsilon)^n$ samples.

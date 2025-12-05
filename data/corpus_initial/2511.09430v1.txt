@@ -1,0 +1,5 @@
+Title: A hybrid variational quantum circuit approach for stabilizer states classifiers
+URL: http://arxiv.org/abs/2511.09430v1
+Published: 2025-11-12 15:48:00+00:00
+----------------------------------------
+Entanglement classification of pure multipartite quantum states is a challenging problem in quantum information theory that can be mathematically stated as orbit classification for some given group action on the ambient Hilbert space. The group action depends on the grained classification one expects, the finer-grained one being the classification up to local unitary transformation (LU). In this article, we show how a variational quantum circuit approach can be used to learn entanglement orbits, and we apply our findings to build a classifier for four-qubit states.

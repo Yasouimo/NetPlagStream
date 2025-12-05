@@ -1,0 +1,5 @@
+Title: Usando LLMs para Programar Jogos de Tabuleiro e Variações
+URL: http://arxiv.org/abs/2511.05114v1
+Published: 2025-11-07 09:58:01+00:00
+----------------------------------------
+Creating programs to represent board games can be a time-consuming task. Large Language Models (LLMs) arise as appealing tools to expedite this process, given their capacity to efficiently generate code from simple contextual information. In this work, we propose a method to test how capable three LLMs (Claude, DeepSeek and ChatGPT) are at creating code for board games, as well as new variants of existing games.

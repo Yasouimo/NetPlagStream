@@ -1,0 +1,5 @@
+Title: LogicSparse: Enabling Engine-Free Unstructured Sparsity for Quantised Deep-learning Accelerators
+URL: http://arxiv.org/abs/2511.03079v1
+Published: 2025-11-05 00:00:50+00:00
+----------------------------------------
+FPGAs have been shown to be a promising platform for deploying Quantised Neural Networks (QNNs) with high-speed, low-latency, and energy-efficient inference. However, the complexity of modern deep-learning models limits the performance on resource-constrained edge devices. While quantisation and pruning alleviate these challenges, unstructured sparsity remains underexploited due to irregular memory access. This work introduces a framework that embeds unstructured sparsity into dataflow accelerators, eliminating the need for dedicated sparse engines and preserving parallelism. A hardware-aware pruning strategy is introduced to improve efficiency and design flow further. On LeNet-5, the framework attains 51.6 x compression and 1.23 x throughput improvement using only 5.12% of LUTs, effectively exploiting unstructured sparsity for QNN acceleration.

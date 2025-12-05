@@ -1,0 +1,5 @@
+Title: Scaling Up ROC-Optimizing Support Vector Machines
+URL: http://arxiv.org/abs/2511.04979v1
+Published: 2025-11-07 04:38:25+00:00
+----------------------------------------
+The ROC-SVM, originally proposed by Rakotomamonjy, directly maximizes the area under the ROC curve (AUC) and has become an attractive alternative of the conventional binary classification under the presence of class imbalance. However, its practical use is limited by high computational cost, as training involves evaluating all $O(n^2)$. To overcome this limitation, we develop a scalable variant of the ROC-SVM that leverages incomplete U-statistics, thereby substantially reducing computational complexity. We further extend the framework to nonlinear classification through a low-rank kernel approximation, enabling efficient training in reproducing kernel Hilbert spaces. Theoretical analysis establishes an error bound that justifies the proposed approximation, and empirical results on both synthetic and real datasets demonstrate that the proposed method achieves comparable AUC performance to the original ROC-SVM with drastically reduced training time.

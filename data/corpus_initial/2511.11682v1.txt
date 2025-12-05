@@ -1,0 +1,5 @@
+Title: Generalized Inequality-based Approach for Probabilistic WCET Estimation
+URL: http://arxiv.org/abs/2511.11682v1
+Published: 2025-11-12 06:19:31+00:00
+----------------------------------------
+Estimating the probabilistic Worst-Case Execution Time (pWCET) is essential for ensuring the timing correctness of real-time applications, such as in robot IoT systems and autonomous driving systems. While methods based on Extreme Value Theory (EVT) can provide tight bounds, they suffer from model uncertainty due to the need to decide where the upper tail of the distribution begins. Conversely, inequality-based approaches avoid this issue but can yield pessimistic results for heavy-tailed distributions. This paper proposes a method to reduce such pessimism by incorporating saturating functions (arctangent and hyperbolic tangent) into Chebyshev's inequality, which mitigates the influence of large outliers while preserving mathematical soundness. Evaluations on synthetic and real-world data from the Autoware autonomous driving stack demonstrate that the proposed method achieves safe and tighter bounds for such distributions.

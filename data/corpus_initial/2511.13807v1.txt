@@ -1,0 +1,5 @@
+Title: GAEA: Experiences and Lessons Learned from a Country-Scale Environmental Digital Twin
+URL: http://arxiv.org/abs/2511.13807v1
+Published: 2025-11-17 16:37:38+00:00
+----------------------------------------
+This paper describes the experiences and lessons learned after the deployment of a country-scale environmental digital twin on the island of Cyprus for three years. This digital twin, called GAEA, contains 27 environmental geospatial services and is suitable for urban planners, policymakers, farmers, property owners, real-estate and forestry professionals, as well as insurance companies and banks that have properties in their portfolio. This paper demonstrates the power, potential, current and future challenges of geospatial analytics and environmental digital twins on a large scale.

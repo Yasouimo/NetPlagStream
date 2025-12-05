@@ -1,0 +1,5 @@
+Title: Toward Better Generalization in Few-Shot Learning through the Meta-Component Combination
+URL: http://arxiv.org/abs/2511.11632v1
+Published: 2025-11-07 23:33:49+00:00
+----------------------------------------
+In few-shot learning, classifiers are expected to generalize to unseen classes given only a small number of instances of each new class. One of the popular solutions to few-shot learning is metric-based meta-learning. However, it highly depends on the deep metric learned on seen classes, which may overfit to seen classes and fail to generalize well on unseen classes. To improve the generalization, we explore the substructures of classifiers and propose a novel meta-learning algorithm to learn each classifier as a combination of meta-components. Meta-components are learned across meta-learning episodes on seen classes and disentangled by imposing an orthogonal regularizer to promote its diversity and capture various shared substructures among different classifiers. Extensive experiments on few-shot benchmark tasks show superior performances of the proposed method.

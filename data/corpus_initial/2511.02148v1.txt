@@ -1,0 +1,5 @@
+Title: CFL: On the Use of Characteristic Function Loss for Domain Alignment in Machine Learning
+URL: http://arxiv.org/abs/2511.02148v1
+Published: 2025-11-04 00:35:37+00:00
+----------------------------------------
+Machine Learning (ML) models are extensively used in various applications due to their significant advantages over traditional learning methods. However, the developed ML models often underperform when deployed in the real world due to the well-known distribution shift problem. This problem can lead to a catastrophic outcomes when these decision-making systems have to operate in high-risk applications. Many researchers have previously studied this problem in ML, known as distribution shift problem, using statistical techniques (such as Kullback-Leibler, Kolmogorov-Smirnov Test, Wasserstein distance, etc.) to quantify the distribution shift. In this letter, we show that using Characteristic Function (CF) as a frequency domain approach is a powerful alternative for measuring the distribution shift in high-dimensional space and for domain adaptation.

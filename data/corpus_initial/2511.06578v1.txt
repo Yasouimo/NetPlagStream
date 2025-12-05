@@ -1,0 +1,5 @@
+Title: Underactuated Biomimetic Autonomous Underwater Vehicle for Ecosystem Monitoring
+URL: http://arxiv.org/abs/2511.06578v1
+Published: 2025-11-09 23:47:19+00:00
+----------------------------------------
+In this paper, we present an underactuated biomimetic underwater robot that is suitable for ecosystem monitoring in both marine and freshwater environments. We present an updated mechanical design for a fish-like robot and propose minimal actuation behaviors learned using reinforcement learning techniques. We present our preliminary mechanical design of the tail oscillation mechanism and illustrate the swimming behaviors on FishGym simulator, where the reinforcement learning techniques will be tested on

@@ -1,0 +1,5 @@
+Title: Robust Bayesian Optimisation with Unbounded Corruptions
+URL: http://arxiv.org/abs/2511.15315v1
+Published: 2025-11-19 10:28:56+00:00
+----------------------------------------
+Bayesian Optimization is critically vulnerable to extreme outliers. Existing provably robust methods typically assume a bounded cumulative corruption budget, which makes them defenseless against even a single corruption of sufficient magnitude. To address this, we introduce a new adversary whose budget is only bounded in the frequency of corruptions, not in their magnitude. We then derive RCGP-UCB, an algorithm coupling the famous upper confidence bound (UCB) approach with a Robust Conjugate Gaussian Process (RCGP). We present stable and adaptive versions of RCGP-UCB, and prove that they achieve sublinear regret in the presence of up to $O(T^{1/2})$ and $O(T^{1/3})$ corruptions with possibly infinite magnitude. This robustness comes at near zero cost: without outliers, RCGP-UCB's regret bounds match those of the standard GP-UCB algorithm.

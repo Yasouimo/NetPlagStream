@@ -1,0 +1,5 @@
+Title: Anomaly Detection in High-Dimensional Bank Account Balances via Robust Methods
+URL: http://arxiv.org/abs/2511.11143v1
+Published: 2025-11-14 10:19:26+00:00
+----------------------------------------
+Detecting point anomalies in bank account balances is essential for financial institutions, as it enables the identification of potential fraud, operational issues, or other irregularities. Robust statistics is useful for flagging outliers and for providing estimates of the data distribution parameters that are not affected by contaminated observations. However, such a strategy is often less efficient and computationally expensive under high dimensional setting. In this paper, we propose and evaluate empirically several robust approaches that may be computationally efficient in medium and high dimensional datasets, with high breakdown points and low computational time. Our application deals with around 2.6 million daily records of anonymous users' bank account balances.

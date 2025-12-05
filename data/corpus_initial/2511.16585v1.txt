@@ -1,0 +1,5 @@
+Title: OpenQudit: Extensible and Accelerated Numerical Quantum Compilation via a JIT-Compiled DSL
+URL: http://arxiv.org/abs/2511.16585v1
+Published: 2025-11-20 17:37:42+00:00
+----------------------------------------
+High-performance numerical quantum compilers rely on classical optimization, but are limited by slow numerical evaluations and a design that makes extending them with new instructions a difficult, error-prone task for domain experts. This paper introduces OpenQudit, a compilation framework that solves these problems by allowing users to define quantum operations symbolically in the Qudit Gate Language (QGL), a mathematically natural DSL. OpenQudit's ahead-of-time compiler uses a tensor network representation and an e-graph-based pass for symbolic simplification before a runtime tensor network virtual machine (TNVM) JIT-compiles the expressions into high-performance native code. The evaluation shows that this symbolic approach is highly effective, accelerating the core instantiation task by up to $\mathtt{\sim}20\times$ on common quantum circuit synthesis problems compared to state-of-the-art tools.

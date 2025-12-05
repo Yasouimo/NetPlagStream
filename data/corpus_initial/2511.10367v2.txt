@@ -1,0 +1,5 @@
+Title: DermAI: Clinical dermatology acquisition through quality-driven image collection for AI classification in mobile
+URL: http://arxiv.org/abs/2511.10367v2
+Published: 2025-11-13 14:48:07+00:00
+----------------------------------------
+AI-based dermatology adoption remains limited by biased datasets, variable image quality, and limited validation. We introduce DermAI, a lightweight, smartphone-based application that enables real-time capture, annotation, and classification of skin lesions during routine consultations. Unlike prior dermoscopy-focused tools, DermAI performs on-device quality checks, and local model adaptation. The DermAI clinical dataset, encompasses a wide range of skin tones, ethinicity and source devices. In preliminary experiments, models trained on public datasets failed to generalize to our samples, while fine-tuning with local data improved performance. These results highlight the importance of standardized, diverse data collection aligned with healthcare needs and oriented to machine learning development.

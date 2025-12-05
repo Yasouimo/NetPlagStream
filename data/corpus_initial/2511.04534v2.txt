@@ -1,0 +1,5 @@
+Title: Uncertainty Quantification for Reduced-Order Surrogate Models Applied to Cloud Microphysics
+URL: http://arxiv.org/abs/2511.04534v2
+Published: 2025-11-06 16:47:52+00:00
+----------------------------------------
+Reduced-order models (ROMs) can efficiently simulate high-dimensional physical systems but lack robust uncertainty quantification methods. Existing approaches are frequently architecture- or training-specific, which limits flexibility and generalization. We introduce a post hoc, model-agnostic framework for predictive uncertainty quantification in latent space ROMs that requires no modification to the underlying architecture or training procedure. Using conformal prediction, our approach estimates statistical prediction intervals for multiple components of the ROM pipeline: latent dynamics, reconstruction, and end-to-end predictions. We demonstrate the method on a latent space dynamical model for cloud microphysics, where it accurately predicts the evolution of droplet-size distributions and quantifies uncertainty across the ROM pipeline.

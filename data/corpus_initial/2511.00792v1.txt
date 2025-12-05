@@ -1,0 +1,5 @@
+Title: Fast PINN Eigensolvers via Biconvex Reformulation
+URL: http://arxiv.org/abs/2511.00792v1
+Published: 2025-11-02 04:04:54+00:00
+----------------------------------------
+Eigenvalue problems have a distinctive forward-inverse structure and are fundamental to characterizing a system's thermal response, stability, and natural modes. Physics-Informed Neural Networks (PINNs) offer a mesh-free alternative for solving such problems but are often orders of magnitude slower than classical numerical schemes. In this paper, we introduce a reformulated PINN approach that casts the search for eigenpairs as a biconvex optimization problem, enabling fast and provably convergent alternating convex search (ACS) over eigenvalues and eigenfunctions using analytically optimal updates. Numerical experiments show that PINN-ACS attains high accuracy with convergence speeds up to 500$\times$ faster than gradient-based PINN training. We release our codes at https://github.com/NeurIPS-ML4PS-2025/PINN_ACS_CODES.

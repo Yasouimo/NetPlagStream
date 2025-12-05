@@ -1,0 +1,5 @@
+Title: Elastic Data Transfer Optimization with Hybrid Reinforcement Learning
+URL: http://arxiv.org/abs/2511.06159v1
+Published: 2025-11-08 22:44:54+00:00
+----------------------------------------
+Modern scientific data acquisition generates petabytes of data that must be transferred to geographically distant computing clusters. Conventional tools either rely on preconfigured sessions, which are difficult to tune for users without domain expertise, or they adaptively optimize only concurrency while ignoring other important parameters. We present \name, an adaptive data transfer method that jointly considers multiple parameters. Our solution incorporates heuristic-based parallelism, infinite pipelining, and a deep reinforcement learning based concurrency optimizer. To make agent training practical, we introduce a lightweight network simulator that reduces training time to less than four minutes and provides a $2750\times$ speedup compared to online training. Experimental evaluation shows that \name consistently outperforms existing methods across diverse datasets, achieving up to 9.5x higher throughput compared to state-of-the-art solutions.

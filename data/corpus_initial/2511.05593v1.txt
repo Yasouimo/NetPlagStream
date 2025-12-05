@@ -1,0 +1,5 @@
+Title: Gradient Projection onto Historical Descent Directions for Communication-Efficient Federated Learning
+URL: http://arxiv.org/abs/2511.05593v1
+Published: 2025-11-05 13:11:30+00:00
+----------------------------------------
+Federated Learning (FL) enables decentralized model training across multiple clients while optionally preserving data privacy. However, communication efficiency remains a critical bottleneck, particularly for large-scale models. In this work, we introduce two complementary algorithms: ProjFL, designed for unbiased compressors, and ProjFL+EF, tailored for biased compressors through an Error Feedback mechanism. Both methods rely on projecting local gradients onto a shared client-server subspace spanned by historical descent directions, enabling efficient information exchange with minimal communication overhead. We establish convergence guarantees for both algorithms under strongly convex, convex, and non-convex settings. Empirical evaluations on standard FL classification benchmarks with deep neural networks show that ProjFL and ProjFL+EF achieve accuracy comparable to existing baselines while substantially reducing communication costs.

@@ -1,0 +1,7 @@
+Title: TSB-HB: A Hierarchical Bayesian Extension of the TSB Model for Intermittent Demand Forecasting
+URL: http://arxiv.org/abs/2511.12749v1
+Published: 2025-11-16 19:24:33+00:00
+----------------------------------------
+Intermittent demand forecasting poses unique challenges due to sparse observations, cold-start items, and obsolescence. Classical models such as Croston, SBA, and the Teunter-Syntetos-Babai (TSB) method provide simple heuristics but lack a principled generative foundation. Deep learning models address these limitations but often require large datasets and sacrifice interpretability.
+  We introduce TSB-HB, a hierarchical Bayesian extension of TSB. Demand occurrence is modeled with a Beta-Binomial distribution, while nonzero demand sizes follow a Log-Normal distribution. Crucially, hierarchical priors enable partial pooling across items, stabilizing estimates for sparse or cold-start series while preserving heterogeneity. This framework yields a fully generative and interpretable model that generalizes classical exponential smoothing.
+  On the UCI Online Retail dataset, TSB-HB achieves lower RMSE and RMSSE than Croston, SBA, TSB, ADIDA, IMAPA, ARIMA and Theta, and on a subset of the M5 dataset it outperforms all classical baselines we evaluate. The model provides calibrated probabilistic forecasts and improved accuracy on intermittent and lumpy items by combining a generative formulation with hierarchical shrinkage, while remaining interpretable and scalable.

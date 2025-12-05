@@ -1,0 +1,5 @@
+Title: LLMscape
+URL: http://arxiv.org/abs/2511.07161v1
+Published: 2025-11-10 14:52:20+00:00
+----------------------------------------
+LLMscape is an interactive installation that investigates how humans and AI construct meaning under shared conditions of uncertainty. Within a mutable, projection-mapped landscape, human participants reshape the world and engage with multiple AI agents, each developing incomplete and provisional accounts of their environment. Exhibited in Shanghai and continually evolving, the work positions AI not as deterministic tools but as embodied co-witnesses to an unstable world, examining the parallels between human and artificial meaning-making and inviting reflection on our shared epistemic limits.

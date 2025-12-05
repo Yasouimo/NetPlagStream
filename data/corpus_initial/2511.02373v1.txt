@@ -1,0 +1,5 @@
+Title: A new class of Markov random fields enabling lightweight sampling
+URL: http://arxiv.org/abs/2511.02373v1
+Published: 2025-11-04 08:53:17+00:00
+----------------------------------------
+This work addresses the problem of efficient sampling of Markov random fields (MRF). The sampling of Potts or Ising MRF is most often based on Gibbs sampling, and is thus computationally expensive. We consider in this work how to circumvent this bottleneck through a link with Gaussian Markov Random fields. The latter can be sampled in several cost-effective ways, and we introduce a mapping from real-valued GMRF to discrete-valued MRF. The resulting new class of MRF benefits from a few theoretical properties that validate the new model. Numerical results show the drastic performance gain in terms of computational efficiency, as we sample at least 35x faster than Gibbs sampling using at least 37x less energy, all the while exhibiting empirical properties close to classical MRFs.

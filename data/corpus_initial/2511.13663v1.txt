@@ -1,0 +1,5 @@
+Title: Cost-Driven Synthesis of Sound Abstract Interpreters
+URL: http://arxiv.org/abs/2511.13663v1
+Published: 2025-11-17 18:16:36+00:00
+----------------------------------------
+Constructing abstract interpreters that provide global soundness guarantees remains a major obstacle in abstract interpretation. We investigate whether modern LLMs can reduce this burden by leveraging them to synthesize sound, non-trivial abstract interpreters across multiple abstract domains in the setting of neural network verification. We formulate synthesis as a constrained optimization problem and introduce a novel mathematically grounded cost function for measuring unsoundness under strict syntactic and semantic constraints. Based on this formulation, we develop a unified framework that unifies LLM-based generation with syntactic and semantic validation and a quantitative cost-guided feedback mechanism. Empirical results demonstrate that our framework not only matches the quality of handcrafted transformers, but more importantly, discovers sound, high-precision transformers for complex nonlinear operators that are absent from existing literature.

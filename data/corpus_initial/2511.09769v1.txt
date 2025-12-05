@@ -1,0 +1,5 @@
+Title: Symmetry aware Reynolds Averaged Navier Stokes turbulence models with equivariant neural networks
+URL: http://arxiv.org/abs/2511.09769v1
+Published: 2025-11-12 22:04:05+00:00
+----------------------------------------
+Accurate and generalizable Reynolds-averaged Navier-Stokes (RANS) models for turbulent flows rely on effective closures. We introduce tensor-based, symmetry aware closures using equivariant neural networks (ENNs) and present an algorithm for enforcing algebraic contraction relations among tensor components. The modeling approach builds on the structure tensor framework introduced by Kassinos and Reynolds to learn closures in the rapid distortion theory setting. Experiments show that ENNs can effectively learn relationships involving high-order tensors, meeting or exceeding the performance of existing models in tasks such as predicting the rapid pressure-strain correlation. Our results show that ENNs provide a physically consistent alternative to classical tensor basis models, enabling end-to-end learning of unclosed terms in RANS and fast exploration of model dependencies.

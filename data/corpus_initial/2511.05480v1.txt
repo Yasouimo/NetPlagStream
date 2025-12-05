@@ -1,0 +1,5 @@
+Title: On Flow Matching KL Divergence
+URL: http://arxiv.org/abs/2511.05480v1
+Published: 2025-11-07 18:47:46+00:00
+----------------------------------------
+We derive a deterministic, non-asymptotic upper bound on the Kullback-Leibler (KL) divergence of the flow-matching distribution approximation. In particular, if the $L_2$ flow-matching loss is bounded by $ε^2 > 0$, then the KL divergence between the true data distribution and the estimated distribution is bounded by $A_1 ε+ A_2 ε^2$. Here, the constants $A_1$ and $A_2$ depend only on the regularities of the data and velocity fields. Consequently, this bound implies statistical convergence rates of Flow Matching Transformers under the Total Variation (TV) distance. We show that, flow matching achieves nearly minimax-optimal efficiency in estimating smooth distributions. Our results make the statistical efficiency of flow matching comparable to that of diffusion models under the TV distance. Numerical studies on synthetic and learned velocities corroborate our theory.

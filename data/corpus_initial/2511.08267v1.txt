@@ -1,0 +1,5 @@
+Title: Fidelity sweet spot in transmon qubit rings under strong connectivity noise
+URL: http://arxiv.org/abs/2511.08267v1
+Published: 2025-11-11 13:59:54+00:00
+----------------------------------------
+We investigate the fidelity of quantum operations in transmon qubit systems, focusing on both SWAP and general gate operations. Our results reveal a distinct fidelity sweet spot that emerges even under strong noise, indicating that optimal circuit depth can enhance gate performance. We further demonstrate that specific initial states, particularly those with favorable symmetry or entanglement structure, yield higher fidelity, reaching levels compatible with quantum error-correction thresholds. Finally, we introduce a supervised machine-learning framework capable of predicting the positions of fidelity sweet spots, enabling efficient optimization of circuit durations across different device configurations.

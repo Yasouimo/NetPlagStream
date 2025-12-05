@@ -1,0 +1,5 @@
+Title: Selective Forgetting in Option Calibration: An Operator-Theoretic Gauss-Newton Framework
+URL: http://arxiv.org/abs/2511.14980v1
+Published: 2025-11-18 23:47:49+00:00
+----------------------------------------
+Calibration of option pricing models is routinely repeated as markets evolve, yet modern systems lack an operator for removing data from a calibrated model without full retraining. When quotes become stale, corrupted, or subject to deletion requirements, existing calibration pipelines must rebuild the entire nonlinear least-squares problem, even if only a small subset of data must be excluded. In this work, we introduce a principled framework for selective forgetting (machine unlearning) in parametric option calibration. We provide stability guarantees, perturbation bounds, and show that the proposed operators satisfy local exactness under standard regularity assumptions.

@@ -1,0 +1,5 @@
+Title: Machine learning intermolecular transfer integrals with compact atomic cluster representations
+URL: http://arxiv.org/abs/2511.06551v1
+Published: 2025-11-09 21:45:05+00:00
+----------------------------------------
+Calculating intermolecular charge transfer integrals in organic semiconductors requires substantial computer resource for each individual calculation. We might alternatively construct a machine learning model for transfer integrals, which model the full six-degrees of freedom for the relative position of dimer pairs, trained on representative calculations for the molecules of interest. Recent developments have produced effective machine learning force fields, which model the total energy of atomic assemblies. We extend the Atomic Cluster Expansion (ACE) with the correct symmetries for transfer (kinetic-energy) integrals. Combined with a spherical harmonic basis makes, this forms a strong inductive bias and makes for a data efficient model. We introduce coarse-grained and heavy-atom representations, and assess the methodology on representative conjugated semiconductors: ethylene, thiophene, and naphthalene.

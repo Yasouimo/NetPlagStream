@@ -1,0 +1,5 @@
+Title: Weather Maps as Tokens: Transformers for Renewable Energy Forecasting
+URL: http://arxiv.org/abs/2511.13935v2
+Published: 2025-11-17 21:38:50+00:00
+----------------------------------------
+Accurate renewable energy forecasting is essential to reduce dependence on fossil fuels and enabling grid decarbonization. However, current approaches fail to effectively integrate the rich spatial context of weather patterns with their temporal evolution. This work introduces a novel approach that treats weather maps as tokens in transformer sequences to predict renewable energy. Hourly weather maps are encoded as spatial tokens using a lightweight convolutional neural network, and then processed by a transformer to capture temporal dynamics across a 45-hour forecast horizon. Despite disadvantages in input initialization, evaluation against ENTSO-E operational forecasts shows a reduction in RMSE of about 60% and 20% for wind and solar respectively. A live dashboard showing daily forecasts is available at: https://www.sardiniaforecast.ifabfoundation.it.

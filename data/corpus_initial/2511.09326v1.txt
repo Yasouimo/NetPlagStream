@@ -1,0 +1,5 @@
+Title: GAMMA_FLOW: Guided Analysis of Multi-label spectra by MAtrix Factorization for Lightweight Operational Workflows
+URL: http://arxiv.org/abs/2511.09326v1
+Published: 2025-11-12 13:37:00+00:00
+----------------------------------------
+GAMMA_FLOW is an open-source Python package for real-time analysis of spectral data. It supports classification, denoising, decomposition, and outlier detection of both single- and multi-component spectra. Instead of relying on large, computationally intensive models, it employs a supervised approach to non-negative matrix factorization (NMF) for dimensionality reduction. This ensures a fast, efficient, and adaptable analysis while reducing computational costs. gamma_flow achieves classification accuracies above 90% and enables reliable automated spectral interpretation. Originally developed for gamma-ray spectra, it is applicable to any type of one-dimensional spectral data. As an open and flexible alternative to proprietary software, it supports various applications in research and industry.

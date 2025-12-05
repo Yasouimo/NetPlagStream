@@ -1,0 +1,5 @@
+Title: Segmentwise Pruning in Audio-Language Models
+URL: http://arxiv.org/abs/2511.14293v1
+Published: 2025-11-18 09:43:27+00:00
+----------------------------------------
+Recent audio-language models have shown impressive performance across a wide range of audio tasks and are increasingly capable of handling long audio inputs. However, the computing costs in these models heavily depend on sequence length, which can become very large given the nature of audio data. In the vision-language domain, token pruning methods have proven effective in reducing token counts while preserving strong performance on standard benchmarks. In this work, we investigate the relevance and effectiveness of such token selection strategies in the context of audio-language models. We also improve them by proposing a lightweight strategy that takes the time dimension into account. While retaining only a quarter of the initial tokens, our approach results in a relative maximum decrease of 2% in CIDEr on Clotho v2 and a relative maximum decrease of 4% in accuracy on MMAU.

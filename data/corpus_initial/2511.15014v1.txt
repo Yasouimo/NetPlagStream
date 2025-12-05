@@ -1,0 +1,5 @@
+Title: An Interpretable Federated Learning Control Framework Design for Smart Grid Resilience
+URL: http://arxiv.org/abs/2511.15014v1
+Published: 2025-11-19 01:27:14+00:00
+----------------------------------------
+Power systems remain highly vulnerable to disturbances and cyber-attacks, underscoring the need for resilient and adaptive control strategies. In this work, we investigate a data-driven Federated Learning Control (FLC) framework for transient stability resilience under cyber-physical disturbances. The FLC employs interpretable neural controllers based on the Chebyshev Kolmogorov-Arnold Network (ChebyKAN), trained on a shared centralized control policy and deployed for distributed execution. Simulation results on the IEEE 39-bus New England system show that the proposed FLC consistently achieves faster stabilization than distributed baselines at moderate control levels (10\%--60\%), highlighting its potential as a scalable, resilient, and interpretable learning-based control solution for modern power grids.

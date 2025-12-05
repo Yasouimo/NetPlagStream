@@ -1,0 +1,5 @@
+Title: Toward Unifying Group Fairness Evaluation from a Sparsity Perspective
+URL: http://arxiv.org/abs/2511.00359v1
+Published: 2025-11-01 02:02:11+00:00
+----------------------------------------
+Ensuring algorithmic fairness remains a significant challenge in machine learning, particularly as models are increasingly applied across diverse domains. While numerous fairness criteria exist, they often lack generalizability across different machine learning problems. This paper examines the connections and differences among various sparsity measures in promoting fairness and proposes a unified sparsity-based framework for evaluating algorithmic fairness. The framework aligns with existing fairness criteria and demonstrates broad applicability to a wide range of machine learning tasks. We demonstrate the effectiveness of the proposed framework as an evaluation metric through extensive experiments on a variety of datasets and bias mitigation methods. This work provides a novel perspective to algorithmic fairness by framing it through the lens of sparsity and social equity, offering potential for broader impact on fairness research and applications.

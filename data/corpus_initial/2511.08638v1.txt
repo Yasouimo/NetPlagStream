@@ -1,0 +1,6 @@
+Title: Pattern Recognition of Scrap Plastic Misclassification in Global Trade Data
+URL: http://arxiv.org/abs/2511.08638v1
+Published: 2025-11-10 07:40:56+00:00
+----------------------------------------
+We propose an interpretable machine learning framework to help identify trade data discrepancies that are challenging to detect with traditional methods. Our system analyzes trade data to find a novel inverse price-volume signature, a pattern where reported volumes increase as average unit prices decrease.
+  The model achieves 0.9375 accuracy and was validated by comparing large-scale UN data with detailed firm-level data, confirming that the risk signatures are consistent. This scalable tool provides customs authorities with a transparent, data-driven method to shift from conventional to priority-based inspection protocols, translating complex data into actionable intelligence to support international environmental policies.

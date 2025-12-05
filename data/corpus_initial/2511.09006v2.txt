@@ -1,0 +1,5 @@
+Title: Hierarchical Reinforcement Learning for Integrated Cloud-Fog-Edge Computing in IoT Systems
+URL: http://arxiv.org/abs/2511.09006v2
+Published: 2025-11-12 05:54:38+00:00
+----------------------------------------
+The Internet of Things (IoT) is transforming industries by connecting billions of devices to collect, process, and share data. However, the massive data volumes and real-time demands of IoT applications strain traditional cloud computing architectures. This paper explores the complementary roles of cloud, fog, and edge computing in enhancing IoT performance, focusing on their ability to reduce latency, improve scalability, and ensure data privacy. We propose a novel framework, the Hierarchical IoT Processing Architecture (HIPA), which dynamically allocates computational tasks across cloud, fog, and edge layers using machine learning. By synthesizing current research and introducing HIPA, this paper highlights how these paradigms can create efficient, secure, and scalable IoT ecosystems.

@@ -1,0 +1,5 @@
+Title: FMMI: Flow Matching Mutual Information Estimation
+URL: http://arxiv.org/abs/2511.08552v1
+Published: 2025-11-11 18:34:33+00:00
+----------------------------------------
+We introduce a novel Mutual Information (MI) estimator that fundamentally reframes the discriminative approach. Instead of training a classifier to discriminate between joint and marginal distributions, we learn a normalizing flow that transforms one into the other. This technique produces a computationally efficient and precise MI estimate that scales well to high dimensions and across a wide range of ground-truth MI values.

@@ -1,0 +1,5 @@
+Title: On the Dimension-Free Approximation of Deep Neural Networks for Symmetric Korobov Functions
+URL: http://arxiv.org/abs/2511.12398v1
+Published: 2025-11-16 00:26:05+00:00
+----------------------------------------
+Deep neural networks have been widely used as universal approximators for functions with inherent physical structures, including permutation symmetry. In this paper, we construct symmetric deep neural networks to approximate symmetric Korobov functions and prove that both the convergence rate and the constant prefactor scale at most polynomially with respect to the ambient dimension. This represents a substantial improvement over prior approximation guarantees that suffer from the curse of dimensionality. Building on these approximation bounds, we further derive a generalization-error rate for learning symmetric Korobov functions whose leading factors likewise avoid the curse of dimensionality.

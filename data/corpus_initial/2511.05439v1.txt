@@ -1,0 +1,5 @@
+Title: Unsupervised Discovery of High-Redshift Galaxy Populations with Variational Autoencoders
+URL: http://arxiv.org/abs/2511.05439v1
+Published: 2025-11-07 17:16:44+00:00
+----------------------------------------
+We apply variational autoencoders to automatically discover galaxy populations using publicly available high-redshift \textit{JWST} spectra without prior classification knowledge. Our unsupervised method identifies distinct astrophysical classes of unique and exciting galaxy types, demonstrating automated discovery capabilities for large spectroscopic surveys.

@@ -1,0 +1,5 @@
+Title: Generalized Swing Control Framework for Inverter-based Resources
+URL: http://arxiv.org/abs/2511.02482v1
+Published: 2025-11-04 11:13:39+00:00
+----------------------------------------
+This paper proposes a novel control framework designed for Inverter-Based Resources (IBRs), denoted as Generalized Swing Control (GSC). The proposed GSC framework generalizes the definition of Grid-Forming (GFM) control schemes and exploits the coupling between active and reactive power dynamics. To validate the proposed scheme, we conduct extensive time-domain simulations and small-signal analysis using a modified version of the WSCC 9-bus system and a 1479-bus dynamic model of the all-island Irish transmission system. The case studies focus on evaluating the dynamic performance of the proposed framework under different configurations, including Virtual Synchronous Machine (VSM), coupled-VSM and dual-VSM schemes. To address the nonlinear nature of power system dynamics, sensitivity analysis based on Monte Carlo methods are employed to improve parameter tuning and assess the stability of GSC configurations in the studied systems.

@@ -1,0 +1,5 @@
+Title: Probabilities Are All You Need: A Probability-Only Approach to Uncertainty Estimation in Large Language Models
+URL: http://arxiv.org/abs/2511.07694v1
+Published: 2025-11-10 23:31:43+00:00
+----------------------------------------
+Large Language Models (LLMs) exhibit strong performance across various natural language processing (NLP) tasks but remain vulnerable to hallucinations, generating factually incorrect or misleading outputs. Uncertainty estimation, often using predictive entropy estimation, is key to addressing this issue. However, existing methods often require multiple samples or extra computation to assess semantic entropy. This paper proposes an efficient, training-free uncertainty estimation method that approximates predictive entropy using the responses' top-$K$ probabilities. Moreover, we employ an adaptive mechanism to determine $K$ to enhance flexibility and filter out low-confidence probabilities. Experimental results on three free-form question-answering datasets across several LLMs demonstrate that our method outperforms expensive state-of-the-art baselines, contributing to the broader goal of enhancing LLM trustworthiness.

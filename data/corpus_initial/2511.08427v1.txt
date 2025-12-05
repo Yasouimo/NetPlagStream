@@ -1,0 +1,6 @@
+Title: An update to PYRO-NN: A Python Library for Differentiable CT Operators
+URL: http://arxiv.org/abs/2511.08427v1
+Published: 2025-11-11 16:34:40+00:00
+----------------------------------------
+Deep learning has brought significant advancements to X-ray Computed Tomography (CT) reconstruction, offering solutions to challenges arising from modern imaging technologies. These developments benefit from methods that combine classical reconstruction techniques with data-driven approaches. Differentiable operators play a key role in this integration by enabling end-to-end optimization and the incorporation of physical modeling within neural networks.
+  In this work, we present an updated version of PYRO-NN, a Python-based library for differentiable CT reconstruction. The updated framework extends compatibility to PyTorch and introduces native CUDA kernel support for efficient projection and back-projection operations across parallel, fan, and cone-beam geometries. Additionally, it includes tools for simulating imaging artifacts, modeling arbitrary acquisition trajectories, and creating flexible, end-to-end trainable pipelines through a high-level Python API. Code is available at: https://github.com/csyben/PYRO-NN

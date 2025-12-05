@@ -1,0 +1,5 @@
+Title: The Probably Approximately Correct Learning Model in Computational Learning Theory
+URL: http://arxiv.org/abs/2511.08791v1
+Published: 2025-11-11 21:23:39+00:00
+----------------------------------------
+This survey paper gives an overview of various known results on learning classes of Boolean functions in Valiant's Probably Approximately Correct (PAC) learning model and its commonly studied variants.

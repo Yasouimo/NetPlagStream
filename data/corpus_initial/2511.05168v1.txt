@@ -1,0 +1,5 @@
+Title: Another BRIXEL in the Wall: Towards Cheaper Dense Features
+URL: http://arxiv.org/abs/2511.05168v1
+Published: 2025-11-07 11:38:40+00:00
+----------------------------------------
+Vision foundation models achieve strong performance on both global and locally dense downstream tasks. Pretrained on large images, the recent DINOv3 model family is able to produce very fine-grained dense feature maps, enabling state-of-the-art performance. However, computing these feature maps requires the input image to be available at very high resolution, as well as large amounts of compute due to the squared complexity of the transformer architecture. To address these issues, we propose BRIXEL, a simple knowledge distillation approach that has the student learn to reproduce its own feature maps at higher resolution. Despite its simplicity, BRIXEL outperforms the baseline DINOv3 models by large margins on downstream tasks when the resolution is kept fixed. Moreover, it is able to produce feature maps that are very similar to those of the teacher at a fraction of the computational cost. Code and model weights are available at https://github.com/alexanderlappe/BRIXEL.

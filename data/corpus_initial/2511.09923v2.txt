@@ -1,0 +1,5 @@
+Title: Harnessing Bounded-Support Evolution Strategies for Policy Refinement
+URL: http://arxiv.org/abs/2511.09923v2
+Published: 2025-11-13 03:35:52+00:00
+----------------------------------------
+Improving competent robot policies with on-policy RL is often hampered by noisy, low-signal gradients. We revisit Evolution Strategies (ES) as a policy-gradient proxy and localize exploration with bounded, antithetic triangular perturbations, suitable for policy refinement. We propose Triangular-Distribution ES (TD-ES) which pairs bounded triangular noise with a centered-rank finite-difference estimator to deliver stable, parallelizable, gradient-free updates. In a two-stage pipeline - PPO pretraining followed by TD-ES refinement - this preserves early sample efficiency while enabling robust late-stage gains. Across a suite of robotic manipulation tasks, TD-ES raises success rates by 26.5% relative to PPO and greatly reduces variance, offering a simple, compute-light path to reliable refinement.

@@ -1,0 +1,5 @@
+Title: Towards Learning and Verifying Maximal Lyapunov-Barrier Functions with a Zubov PDE Formulation
+URL: http://arxiv.org/abs/2511.09523v1
+Published: 2025-11-12 18:17:57+00:00
+----------------------------------------
+Verifying stability and safety guarantees for nonlinear systems has received considerable attention in recent years. This property serves as a fundamental building block for specifying more complex system behaviors and control objectives. However, estimating the domain of attraction under safety constraints and constructing a Lyapunov-barrier function remain challenging tasks for nonlinear systems. To address this problem, we propose a Zubov PDE formulation with a Dirichlet boundary condition for autonomous nonlinear systems and show that a physics-informed neural network solution, once formally verified, can serve as a Lyapunov-barrier function that jointly certifies stability and safety. This approach extends existing converse Lyapunov-barrier theorems by introducing a PDE-based framework with boundary conditions defined on the safe set, yielding a near-optimal certified under-approximation of the true safe domain of attraction.

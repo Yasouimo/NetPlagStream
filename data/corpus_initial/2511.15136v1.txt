@@ -1,0 +1,5 @@
+Title: Novel sparse matrix algorithm expands the feasible size of a self-organizing map of the knowledge indexed by a database of peer-reviewed medical literature
+URL: http://arxiv.org/abs/2511.15136v1
+Published: 2025-11-19 05:26:04+00:00
+----------------------------------------
+Past efforts to map the Medline database have been limited to small subsets of the available data because of the exponentially increasing memory and processing demands of existing algorithms. We designed a novel algorithm for sparse matrix multiplication that allowed us to apply a self-organizing map to the entire Medline dataset, allowing for a more complete map of existing medical knowledge. The algorithm also increases the feasibility of refining the self-organizing map to account for changes in the dataset over time.

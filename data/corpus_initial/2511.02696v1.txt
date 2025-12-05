@@ -1,0 +1,5 @@
+Title: Resource-efficient variational quantum solver for the travelling salesman problem and its silicon photonics implementation
+URL: http://arxiv.org/abs/2511.02696v1
+Published: 2025-11-04 16:18:48+00:00
+----------------------------------------
+The travelling salesman problem is a well-known example of computationally-hard combinatorial problem for classical machines. Here, we propose a novel variational quantum algorithm to solve it. The method is based on the preparation of two maximally entangled quantum registers whose correlations are assigned to different paths between pairs of cities. For $N$ cities, this encoding requires $2 \lceil\log_2 N\rceil$ qubits and the solution to the problem is directly found in the correlation matrix of the two registers composing the overall trial state. As a proof-of-concept experiment, we implement this algorithm for generic problems with four cities on a reconfigurable room-temperature silicon photonic circuit with integrated photon-pair sources, used to initialize maximally entangled path-encoded single-photon states.

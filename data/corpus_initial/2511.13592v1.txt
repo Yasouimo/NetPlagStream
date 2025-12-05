@@ -1,0 +1,5 @@
+Title: Power Homotopy for Zeroth-Order Non-Convex Optimizations
+URL: http://arxiv.org/abs/2511.13592v1
+Published: 2025-11-17 16:54:30+00:00
+----------------------------------------
+We introduce GS-PowerHP, a novel zeroth-order method for non-convex optimization problems of the form $\max_{x \in \mathbb{R}^d} f(x)$. Our approach leverages two key components: a power-transformed Gaussian-smoothed surrogate $F_{N,σ}(μ) = \mathbb{E}_{x\sim\mathcal{N}(μ,σ^2 I_d)}[e^{N f(x)}]$ whose stationary points cluster near the global maximizer $x^*$ of $f$ for sufficiently large $N$, and an incrementally decaying $σ$ for enhanced data efficiency. Under mild assumptions, we prove convergence in expectation to a small neighborhood of $x^*$ with the iteration complexity of $O(d^2 \varepsilon^{-2})$. Empirical results show our approach consistently ranks among the top three across a suite of competing algorithms. Its robustness is underscored by the final experiment on a substantially high-dimensional problem ($d=150,528$), where it achieved first place on least-likely targeted black-box attacks against images from ImageNet, surpassing all competing methods.

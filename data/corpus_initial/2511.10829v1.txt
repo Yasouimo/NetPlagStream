@@ -1,0 +1,5 @@
+Title: Towards Universal Neural Operators through Multiphysics Pretraining
+URL: http://arxiv.org/abs/2511.10829v1
+Published: 2025-11-13 22:04:38+00:00
+----------------------------------------
+Although neural operators are widely used in data-driven physical simulations, their training remains computationally expensive. Recent advances address this issue via downstream learning, where a model pretrained on simpler problems is fine-tuned on more complex ones. In this research, we investigate transformer-based neural operators, which have previously been applied only to specific problems, in a more general transfer learning setting. We evaluate their performance across diverse PDE problems, including extrapolation to unseen parameters, incorporation of new variables, and transfer from multi-equation datasets. Our results demonstrate that advanced neural operator architectures can effectively transfer knowledge across PDE problems.

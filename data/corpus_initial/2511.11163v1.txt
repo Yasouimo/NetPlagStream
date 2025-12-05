@@ -1,0 +1,5 @@
+Title: Training Neural Networks at Any Scale
+URL: http://arxiv.org/abs/2511.11163v1
+Published: 2025-11-14 10:58:07+00:00
+----------------------------------------
+This article reviews modern optimization methods for training neural networks with an emphasis on efficiency and scale. We present state-of-the-art optimization algorithms under a unified algorithmic template that highlights the importance of adapting to the structures in the problem. We then cover how to make these algorithms agnostic to the scale of the problem. Our exposition is intended as an introduction for both practitioners and researchers who wish to be involved in these exciting new developments.

@@ -1,0 +1,5 @@
+Title: Towards Reliable Pediatric Brain Tumor Segmentation: Task-Specific nnU-Net Enhancements
+URL: http://arxiv.org/abs/2511.00449v1
+Published: 2025-11-01 08:33:21+00:00
+----------------------------------------
+Accurate segmentation of pediatric brain tumors in multi-parametric magnetic resonance imaging (mpMRI) is critical for diagnosis, treatment planning, and monitoring, yet faces unique challenges due to limited data, high anatomical variability, and heterogeneous imaging across institutions. In this work, we present an advanced nnU-Net framework tailored for BraTS 2025 Task-6 (PED), the largest public dataset of pre-treatment pediatric high-grade gliomas. Our contributions include: (1) a widened residual encoder with squeeze-and-excitation (SE) attention; (2) 3D depthwise separable convolutions; (3) a specificity-driven regularization term; and (4) small-scale Gaussian weight initialization. We further refine predictions with two postprocessing steps. Our models achieved first place on the Task-6 validation leaderboard, attaining lesion-wise Dice scores of 0.759 (CC), 0.967 (ED), 0.826 (ET), 0.910 (NET), 0.928 (TC) and 0.928 (WT).

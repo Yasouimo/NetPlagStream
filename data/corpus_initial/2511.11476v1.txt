@@ -1,0 +1,5 @@
+Title: Context-aware Adaptive Visualizations for Critical Decision Making
+URL: http://arxiv.org/abs/2511.11476v1
+Published: 2025-11-14 16:53:15+00:00
+----------------------------------------
+Effective decision-making often relies on timely insights from complex visual data. While Information Visualization (InfoVis) dashboards can support this process, they rarely adapt to users' cognitive state, and less so in real time. We present Symbiotik, an intelligent, context-aware adaptive visualization system that leverages neurophysiological signals to estimate mental workload (MWL) and dynamically adapt visual dashboards using reinforcement learning (RL). Through a user study with 120 participants and three visualization types, we demonstrate that our approach improves task performance and engagement. Symbiotik offers a scalable, real-time adaptation architecture, and a validated methodology for neuroadaptive user interfaces.

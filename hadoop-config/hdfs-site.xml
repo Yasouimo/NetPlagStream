@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <!-- DataNode binding addresses - bind to all interfaces -->
+  <property>
+    <name>dfs.datanode.address</name>
+    <value>0.0.0.0:9866</value>
+  </property>
+  <property>
+    <name>dfs.datanode.http.address</name>
+    <value>0.0.0.0:9864</value>
+  </property>
+  
+  <!-- Enable WebHDFS (HTTP REST API) -->
+  <property>
+    <name>dfs.webhdfs.enabled</name>
+    <value>true</value>
+  </property>
+  
+  <!-- NameNode HTTP address for WebHDFS -->
+  <property>
+    <name>dfs.namenode.http-address</name>
+    <value>0.0.0.0:9870</value>
+  </property>
+  
+  <!-- For Windows host access: Use hostname but client will resolve via hosts file -->
+  <!-- DataNode will advertise its hostname, client should use hostname to connect -->
+  <property>
+    <name>dfs.client.use.datanode.hostname</name>
+    <value>true</value>
+  </property>
+  <property>
+    <name>dfs.datanode.use.datanode.hostname</name>
+    <value>true</value>
+  </property>
+</configuration>

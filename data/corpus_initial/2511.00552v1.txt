@@ -1,0 +1,5 @@
+Title: Temporal Fusion Transformer for Multi-Horizon Probabilistic Forecasting of Weekly Retail Sales
+URL: http://arxiv.org/abs/2511.00552v1
+Published: 2025-11-01 13:34:29+00:00
+----------------------------------------
+Accurate multi-horizon retail forecasts are critical for inventory and promotions. We present a novel study of weekly Walmart sales (45 stores, 2010--2012) using a Temporal Fusion Transformer (TFT) that fuses static store identifiers with time-varying exogenous signals (holidays, CPI, fuel price, temperature). The pipeline produces 1--5-week-ahead probabilistic forecasts via Quantile Loss, yielding calibrated 90\% prediction intervals and interpretability through variable-selection networks, static enrichment, and temporal attention. On a fixed 2012 hold-out dataset, TFT achieves an RMSE of \$57.9k USD per store-week and an $R^2$ of 0.9875. Across a 5-fold chronological cross-validation, the averages are RMSE = \$64.6k USD and $R^2$ = 0.9844, outperforming the XGB, CNN, LSTM, and CNN-LSTM baseline models. These results demonstrate practical value for inventory planning and holiday-period optimization, while maintaining model transparency.

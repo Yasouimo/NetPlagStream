@@ -1,0 +1,12 @@
+Title: Reinforcement learning based data assimilation for unknown state model
+URL: http://arxiv.org/abs/2511.02286v1
+Published: 2025-11-04 05:58:37+00:00
+----------------------------------------
+Data assimilation (DA) has increasingly emerged as a critical tool for state estimation
+  across a wide range of applications. It is signiffcantly challenging when the governing equations of the underlying dynamics are unknown. To this end, various machine learning approaches have been employed to construct a surrogate state transition
+  model in a supervised learning framework, which relies on pre-computed training
+  datasets. However, it is often infeasible to obtain noise-free ground-truth state sequences in practice. To address this challenge, we propose a novel method that integrates reinforcement learning with ensemble-based Bayesian ffltering methods, enabling
+  the learning of surrogate state transition model for unknown dynamics directly from noisy observations, without using true state trajectories. Speciffcally, we treat the process for computing maximum likelihood estimation of surrogate model parameters
+  as a sequential decision-making problem, which can be formulated as a discretetime
+  Markov decision process (MDP). Under this formulation, learning the surrogate transition model is equivalent to ffnding an optimal policy of the MDP, which can be effectively addressed using reinforcement learning techniques. Once the model is trained offfine, state estimation can be performed in the online stage using ffltering methods based on the learned dynamics. The proposed framework accommodates a wide range of observation scenarios, including nonlinear and partially observed measurement
+  models. A few numerical examples demonstrate that the proposed method achieves superior accuracy and robustness in high-dimensional settings.

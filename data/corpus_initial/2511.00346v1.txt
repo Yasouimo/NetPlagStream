@@ -1,0 +1,5 @@
+Title: Exploiting Latent Space Discontinuities for Building Universal LLM Jailbreaks and Data Extraction Attacks
+URL: http://arxiv.org/abs/2511.00346v1
+Published: 2025-11-01 01:19:12+00:00
+----------------------------------------
+The rapid proliferation of Large Language Models (LLMs) has raised significant concerns about their security against adversarial attacks. In this work, we propose a novel approach to crafting universal jailbreaks and data extraction attacks by exploiting latent space discontinuities, an architectural vulnerability related to the sparsity of training data. Unlike previous methods, our technique generalizes across various models and interfaces, proving highly effective in seven state-of-the-art LLMs and one image generation model. Initial results indicate that when these discontinuities are exploited, they can consistently and profoundly compromise model behavior, even in the presence of layered defenses. The findings suggest that this strategy has substantial potential as a systemic attack vector.

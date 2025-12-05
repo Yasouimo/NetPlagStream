@@ -1,0 +1,5 @@
+Title: Are Time-Indexed Foundation Models the Future of Time Series Imputation?
+URL: http://arxiv.org/abs/2511.05980v1
+Published: 2025-11-08 11:57:33+00:00
+----------------------------------------
+Foundation models for time series imputation remain largely unexplored. Recently, two such models, TabPFN-TS and MoTM, have emerged. These models share a common philosophy that places them within the family of time-indexed foundation models. This paper presents the first large-scale empirical study of these models for zero-shot imputation, which enables missing value recovery without retraining across a wide range of scenarios. We conduct extensive univariate experiments across 33 out-of-domain datasets (approximately 1.3M imputation windows) and evaluate their ability to integrate covariates at inference time to improve accuracy without fine-tuning. Our results demonstrate that time-indexed foundation models are a powerful and practical step toward achieving general-purpose, zero-shot imputation for real-world time series.

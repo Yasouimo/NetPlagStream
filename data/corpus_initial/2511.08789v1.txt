@@ -1,0 +1,5 @@
+Title: A Generalized Bias-Variance Decomposition for Bregman Divergences
+URL: http://arxiv.org/abs/2511.08789v1
+Published: 2025-11-11 21:22:01+00:00
+----------------------------------------
+The bias-variance decomposition is a central result in statistics and machine learning, but is typically presented only for the squared error. We present a generalization of the bias-variance decomposition where the prediction error is a Bregman divergence, which is relevant to maximum likelihood estimation with exponential families. While the result is already known, there was not previously a clear, standalone derivation, so we provide one for pedagogical purposes. A version of this note previously appeared on the author's personal website without context. Here we provide additional discussion and references to the relevant prior literature.

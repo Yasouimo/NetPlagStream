@@ -1,0 +1,5 @@
+Title: The Good, The Bad, and The Hybrid: A Reward Structure Showdown in Reasoning Models Training
+URL: http://arxiv.org/abs/2511.13016v1
+Published: 2025-11-17 06:15:26+00:00
+----------------------------------------
+Reward design is central to reinforcement learning from human feedback (RLHF) and alignment research. In this work, we propose a unified framework to study hard, continuous, and hybrid reward structures for fine-tuning large language models (LLMs) on mathematical reasoning tasks. Using Qwen3-4B with LoRA fine-tuning on the GSM8K dataset, we formalize and empirically evaluate reward formulations that incorporate correctness, perplexity, reasoning quality, and consistency. We introduce an adaptive hybrid reward scheduler that transitions between discrete and continuous signals, balancing exploration and stability. Our results show that hybrid reward structures improve convergence speed and training stability over purely hard or continuous approaches, offering insights for alignment via adaptive reward modeling.

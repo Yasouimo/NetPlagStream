@@ -1,0 +1,5 @@
+Title: Policy-Guided MCTS for near Maximum-Likelihood Decoding of Short Codes
+URL: http://arxiv.org/abs/2511.09054v1
+Published: 2025-11-12 07:15:18+00:00
+----------------------------------------
+In this paper, we propose a policy-guided Monte Carlo Tree Search (MCTS) decoder that achieves near maximum-likelihood decoding (MLD) performance for short block codes. The MCTS decoder searches for test error patterns (TEPs) in the received information bits and obtains codeword candidates through re-encoding. The TEP search is executed on a tree structure, guided by a neural network policy trained via MCTS-based learning. The trained policy guides the decoder to find the correct TEPs with minimal steps from the root node (all-zero TEP). The decoder outputs the codeword with maximum likelihood when the early stopping criterion is satisfied. The proposed method requires no Gaussian elimination (GE) compared to ordered statistics decoding (OSD) and can reduce search complexity by 95\% compared to non-GE OSD. It achieves lower decoding latency than both OSD and non-GE OSD at high SNRs.

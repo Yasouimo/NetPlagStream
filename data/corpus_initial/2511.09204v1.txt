@@ -1,0 +1,5 @@
+Title: Resource-Efficient Variational Quantum Classifier
+URL: http://arxiv.org/abs/2511.09204v1
+Published: 2025-11-12 11:09:10+00:00
+----------------------------------------
+Quantum computing promises a revolution in information processing, with significant potential for machine learning and classification tasks. However, achieving this potential requires overcoming several fundamental challenges. One key limitation arises at the prediction stage, where the intrinsic randomness of quantum model outputs necessitates repeated executions, resulting in substantial overhead. To overcome this, we propose a novel measurement strategy for a variational quantum classifier that allows us to define the unambiguous quantum classifier. This strategy achieves near-deterministic predictions while maintaining competitive classification accuracy in noisy environments, all with significantly fewer quantum circuit executions. Although this approach entails a slight reduction in performance, it represents a favorable trade-off for improved resource efficiency. We further validate our theoretical model with supporting experimental results.

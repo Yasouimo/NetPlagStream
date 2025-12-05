@@ -1,0 +1,5 @@
+Title: Efficient probabilistic surrogate modeling techniques for partially-observed large-scale dynamical systems
+URL: http://arxiv.org/abs/2511.04641v1
+Published: 2025-11-06 18:35:01+00:00
+----------------------------------------
+This paper is concerned with probabilistic techniques for forecasting dynamical systems described by partial differential equations (such as, for example, the Navier-Stokes equations). In particular, it is investigating and comparing various extensions to the flow matching paradigm that reduce the number of sampling steps. In this regard, it compares direct distillation, progressive distillation, adversarial diffusion distillation, Wasserstein GANs and rectified flows. Moreover, experiments are conducted on a set of challenging systems. In particular, we also address the challenge of directly predicting 2D slices of large-scale 3D simulations, paving the way for efficient inflow generation for solvers.

@@ -1,0 +1,21 @@
+Title: From Global to Local Correlation: Geometric Decomposition of Statistical Inference
+URL: http://arxiv.org/abs/2511.04599v4
+Published: 2025-11-06 17:51:32+00:00
+----------------------------------------
+Understanding feature-outcome associations in high-dimensional data remains
+  challenging when relationships vary across subpopulations, yet standard
+  methods assuming global associations miss context-dependent patterns, reducing
+  statistical power and interpretability. We develop a geometric decomposition
+  framework offering two strategies for partitioning inference problems into
+  regional analyses on data-derived Riemannian graphs. Gradient flow
+  decomposition uses path-monotonicity-validated discrete Morse theory to
+  partition samples into gradient flow cells where outcomes exhibit monotonic
+  behavior. Co-monotonicity decomposition utilizes vertex-level coefficients
+  that provide context-dependent versions of the classical Pearson correlation:
+  these coefficients measure edge-based directional concordance between outcome
+  and features, or between feature pairs, defining embeddings of samples into
+  association space. These embeddings induce Riemannian k-NN graphs on which
+  biclustering identifies co-monotonicity cells (coherent regions) and feature
+  modules. This extends naturally to multi-modal integration across multiple
+  feature sets. Both strategies apply independently or jointly, with Bayesian
+  posterior sampling providing credible intervals.

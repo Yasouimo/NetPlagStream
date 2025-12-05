@@ -1,0 +1,5 @@
+Title: Function Based Isolation Forest (FuBIF): A Unifying Framework for Interpretable Isolation-Based Anomaly Detection
+URL: http://arxiv.org/abs/2511.06054v1
+Published: 2025-11-08 15:52:35+00:00
+----------------------------------------
+Anomaly Detection (AD) is evolving through algorithms capable of identifying outliers in complex datasets. The Isolation Forest (IF), a pivotal AD technique, exhibits adaptability limitations and biases. This paper introduces the Function-based Isolation Forest (FuBIF), a generalization of IF that enables the use of real-valued functions for dataset branching, significantly enhancing the flexibility of evaluation tree construction. Complementing this, the FuBIF Feature Importance (FuBIFFI) algorithm extends the interpretability in IF-based approaches by providing feature importance scores across possible FuBIF models. This paper details the operational framework of FuBIF, evaluates its performance against established methods, and explores its theoretical contributions. An open-source implementation is provided to encourage further research and ensure reproducibility.

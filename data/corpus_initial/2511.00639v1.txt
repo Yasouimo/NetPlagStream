@@ -1,0 +1,5 @@
+Title: Frequency Quality Assessment of GFM and GFL Converters and Synchronous Condensers
+URL: http://arxiv.org/abs/2511.00639v1
+Published: 2025-11-01 17:39:33+00:00
+----------------------------------------
+This paper compares the impact of different conventional and emerging technologies and control strategies on frequency quality. We study, in particular, the long-term dynamic performance of grid-forming (GFM) and grid-following (GFL) inverter-based resources (IBRs) as well as conventional synchronous machines. Extensive simulations and several realistic scenarios consider both short-term and long-term aspects of frequency quality. It is shown that, while overall GFM IBRs significantly improve frequency quality, a combination of GFL IBRs providing frequency support such as wind and batteries, and synchronous condensers, might be enough to meet similar frequency quality standards. Another result of the paper is that the need for automatic generation control (AGC) becomes less clear in GFM IBR-dominated grids from a frequency quality perspective.

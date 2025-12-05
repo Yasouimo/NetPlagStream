@@ -1,0 +1,5 @@
+Title: Multimodal Physical Learning in Brain-Inspired Iontronic Networks
+URL: http://arxiv.org/abs/2511.04209v1
+Published: 2025-11-06 09:13:46+00:00
+----------------------------------------
+Inspired by the brain, we present a physical alternative to traditional digital neural networks -- a microfluidic network in which nodes are connected by conical, electrolyte-filled channels acting as memristive iontronic synapses. Their electrical conductance responds not only to electrical signals, but also to chemical, mechanical, and geometric changes. Leveraging this multimodal responsiveness, we develop a training algorithm where learning is achieved by altering either the channel geometry or the applied stimuli. The network performs forward passes physically via ionic relaxation, while learning combines this physical evolution with numerical gradient descent. We theoretically demonstrate that this system can perform tasks like input-output mapping and linear regression with bias, paving the way for soft, adaptive materials that compute and learn without conventional electronics.

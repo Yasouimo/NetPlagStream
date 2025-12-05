@@ -1,0 +1,5 @@
+Title: Protecting the Neural Networks against FGSM Attack Using Machine Unlearning
+URL: http://arxiv.org/abs/2511.01377v1
+Published: 2025-11-03 09:21:49+00:00
+----------------------------------------
+Machine learning is a powerful tool for building predictive models. However, it is vulnerable to adversarial attacks. Fast Gradient Sign Method (FGSM) attacks are a common type of adversarial attack that adds small perturbations to input data to trick a model into misclassifying it. In response to these attacks, researchers have developed methods for "unlearning" these attacks, which involves retraining a model on the original data without the added perturbations. Machine unlearning is a technique that tries to "forget" specific data points from the training dataset, to improve the robustness of a machine learning model against adversarial attacks like FGSM. In this paper, we focus on applying unlearning techniques to the LeNet neural network, a popular architecture for image classification. We evaluate the efficacy of unlearning FGSM attacks on the LeNet network and find that it can significantly improve its robustness against these types of attacks.

@@ -1,0 +1,5 @@
+Title: VinDr-CXR-VQA: A Visual Question Answering Dataset for Explainable Chest X-Ray Analysis with Multi-Task Learning
+URL: http://arxiv.org/abs/2511.00504v2
+Published: 2025-11-01 11:17:44+00:00
+----------------------------------------
+We present VinDr-CXR-VQA, a large-scale chest X-ray dataset for explainable Medical Visual Question Answering (Med-VQA) with spatial grounding. The dataset contains 17,597 question-answer pairs across 4,394 images, each annotated with radiologist-verified bounding boxes and clinical reasoning explanations. Our question taxonomy spans six diagnostic types-Where, What, Is there, How many, Which, and Yes/No-capturing diverse clinical intents. To improve reliability, we construct a balanced distribution of 41.7% positive and 58.3% negative samples, mitigating hallucinations in normal cases. Benchmarking with MedGemma-4B-it demonstrates improved performance (F1 = 0.624, +11.8% over baseline) while enabling lesion localization. VinDr-CXR-VQA aims to advance reproducible and clinically grounded Med-VQA research. The dataset and evaluation tools are publicly available at huggingface.co/datasets/Dangindev/VinDR-CXR-VQA.

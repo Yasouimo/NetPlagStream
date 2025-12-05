@@ -1,0 +1,5 @@
+Title: Hardware optimization on Android for inference of AI models
+URL: http://arxiv.org/abs/2511.13453v1
+Published: 2025-11-17 14:58:15+00:00
+----------------------------------------
+The pervasive integration of Artificial Intelligence models into contemporary mobile computing is notable across numerous use cases, from virtual assistants to advanced image processing. Optimizing the mobile user experience involves minimal latency and high responsiveness from deployed AI models with challenges from execution strategies that fully leverage real time constraints to the exploitation of heterogeneous hardware architecture. In this paper, we research and propose the optimal execution configurations for AI models on an Android system, focusing on two critical tasks: object detection (YOLO family) and image classification (ResNet). These configurations evaluate various model quantization schemes and the utilization of on device accelerators, specifically the GPU and NPU. Our core objective is to empirically determine the combination that achieves the best trade-off between minimal accuracy degradation and maximal inference speed-up.

@@ -1,0 +1,5 @@
+Title: Thermodynamic uncertainty relations for relativistic quantum thermal machines
+URL: http://arxiv.org/abs/2511.09369v1
+Published: 2025-11-12 14:32:24+00:00
+----------------------------------------
+We investigate a two-qubit SWAP thermal machine -- a streamlined analogue of the four-stroke Otto cycle -- whose working medium comprises inertially moving Unruh-DeWitt qubit detectors, each coupled to a thermal quantum field bath prepared at a different temperature. In the presence of relative motion between the working medium and the thermal baths, we derive thermodynamic uncertainty relations (TURs) that quantify the trade-off between performance, entropy production, and power fluctuations. Our analysis identifies regimes where relativistic motion leads to stronger violation of classical TURs, previously observed in static quantum setups. In addition, we establish generalized performance bounds for the thermal machine operating as either a heat engine or a refrigerator, and discuss how relativistic motion can enhance their performances beyond the standard Carnot limits defined by rest-frame temperatures.

@@ -1,0 +1,5 @@
+Title: Warm-starting active-set solvers using graph neural networks
+URL: http://arxiv.org/abs/2511.13174v1
+Published: 2025-11-17 09:22:45+00:00
+----------------------------------------
+Quadratic programming (QP) solvers are widely used in real-time control and optimization, but their computational cost often limits applicability in time-critical settings. We propose a learning-to-optimize approach using graph neural networks (GNNs) to predict active sets in the dual active-set solver DAQP. The method exploits the structural properties of QPs by representing them as bipartite graphs and learning to identify the optimal active set for efficiently warm-starting the solver. Across varying problem sizes, the GNN consistently reduces the number of solver iterations compared to cold-starting, while performance is comparable to a multilayer perceptron (MLP) baseline. Furthermore, a GNN trained on varying problem sizes generalizes effectively to unseen dimensions, demonstrating flexibility and scalability. These results highlight the potential of structure-aware learning to accelerate optimization in real-time applications such as model predictive control.

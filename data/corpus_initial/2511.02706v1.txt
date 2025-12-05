@@ -1,0 +1,5 @@
+Title: Optimizing Kernel Discrepancies via Subset Selection
+URL: http://arxiv.org/abs/2511.02706v1
+Published: 2025-11-04 16:25:08+00:00
+----------------------------------------
+Kernel discrepancies are a powerful tool for analyzing worst-case errors in quasi-Monte Carlo (QMC) methods. Building on recent advances in optimizing such discrepancy measures, we extend the subset selection problem to the setting of kernel discrepancies, selecting an m-element subset from a large population of size $n \gg m$. We introduce a novel subset selection algorithm applicable to general kernel discrepancies to efficiently generate low-discrepancy samples from both the uniform distribution on the unit hypercube, the traditional setting of classical QMC, and from more general distributions $F$ with known density functions by employing the kernel Stein discrepancy. We also explore the relationship between the classical $L_2$ star discrepancy and its $L_\infty$ counterpart.

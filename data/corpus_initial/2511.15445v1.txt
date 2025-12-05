@@ -1,0 +1,5 @@
+Title: Neural network-driven domain decomposition for efficient solutions to the Helmholtz equation
+URL: http://arxiv.org/abs/2511.15445v1
+Published: 2025-11-19 13:58:32+00:00
+----------------------------------------
+Accurately simulating wave propagation is crucial in fields such as acoustics, electromagnetism, and seismic analysis. Traditional numerical methods, like finite difference and finite element approaches, are widely used to solve governing partial differential equations (PDEs) such as the Helmholtz equation. However, these methods face significant computational challenges when applied to high-frequency wave problems in complex two-dimensional domains. This work investigates Finite Basis Physics-Informed Neural Networks (FBPINNs) and their multilevel extensions as a promising alternative. These methods leverage domain decomposition, partitioning the computational domain into overlapping sub-domains, each governed by a local neural network. We assess their accuracy and computational efficiency in solving the Helmholtz equation for the homogeneous case, demonstrating their potential to mitigate the limitations of traditional approaches.

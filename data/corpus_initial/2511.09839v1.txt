@@ -1,0 +1,5 @@
+Title: Evolving Rules: Imitation and Best Response Learning in Cournot Oligopoly
+URL: http://arxiv.org/abs/2511.09839v1
+Published: 2025-11-13 00:44:29+00:00
+----------------------------------------
+We study evolutionary dynamics in which firms endogenously revise the behavioral rules that govern strategy revisions in symmetric Cournot oligopoly. Specifically, we consider two principles that guide rule revision, No-Birth and Survival-of-the-Fittest, both grounded in imitation-based heuristics. We show that, under these principles, all firms eventually adopt the same behavioral rule. Focusing on two classical rules, myopic best response and imitation, we demonstrate that rule revision plays a crucial role in determining long-run equilibria in Cournot oligopoly. The set of long-run equilibria includes the state where all players use best response learning and choose the Nash equilibrium quantities and states where all firms use imitation learning and choose specific symmetric quantities which include (but are not necessarily restricted to) Walrasian quantities. Our results extend to more general aggregative games.

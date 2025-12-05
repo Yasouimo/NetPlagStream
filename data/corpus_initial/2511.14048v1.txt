@@ -1,0 +1,5 @@
+Title: Wasserstein Distributionally Robust Nash Equilibrium Seeking with Heterogeneous Data: A Lagrangian Approach
+URL: http://arxiv.org/abs/2511.14048v1
+Published: 2025-11-18 01:56:33+00:00
+----------------------------------------
+We study a class of distributionally robust games where agents are allowed to heterogeneously choose their risk aversion with respect to distributional shifts of the uncertainty. In our formulation, heterogeneous Wasserstein ball constraints on each distribution are enforced through a penalty function leveraging a Lagrangian formulation. We then formulate the distributionally robust Nash equilibrium problem and show that under certain assumptions it is equivalent to a finite-dimensional variational inequality problem with a strongly monotone mapping. We then design an approximate Nash equilibrium seeking algorithm and prove convergence of the average regret to a quantity that diminishes with the number of iterations, thus learning the desired equilibrium up to an a priori specified accuracy. Numerical simulations corroborate our theoretical findings.

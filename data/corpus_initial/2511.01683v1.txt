@@ -1,0 +1,5 @@
+Title: Student Engagement in AI Assisted Complex Problem Solving: A Pilot Study of Human AI Rubik's Cube Collaboration
+URL: http://arxiv.org/abs/2511.01683v1
+Published: 2025-11-03 15:46:54+00:00
+----------------------------------------
+Games and puzzles play important pedagogical roles in STEM learning. New AI algorithms that can solve complex problems offer opportunities for scaffolded instruction in puzzle solving. This paper presents the ALLURE system, which uses an AI algorithm (DeepCubeA) to guide students in solving a common first step of the Rubik's Cube (i.e., the white cross). Using data from a pilot study we present preliminary findings about students' behaviors in the system, how these behaviors are associated with STEM skills - including spatial reasoning, critical thinking and algorithmic thinking. We discuss how data from ALLURE can be used in future educational data mining to understand how students benefit from AI assistance and collaboration when solving complex problems.

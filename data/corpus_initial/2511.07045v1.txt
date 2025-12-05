@@ -1,0 +1,5 @@
+Title: Machine-learning a family of solutions to an optimal pension investment problem
+URL: http://arxiv.org/abs/2511.07045v1
+Published: 2025-11-10 12:38:32+00:00
+----------------------------------------
+We use a neural network to identify the optimal solution to a family of optimal investment problems, where the parameters determining an investor's risk and consumption preferences are given as inputs to the neural network in addition to economic variables. This is used to develop a practical tool that can be used to explore how pension outcomes vary with preference parameters. We use a Black-Scholes economic model so that we may validate the accuracy of network using a classical and provably convergent numerical method developed using the duality approach.

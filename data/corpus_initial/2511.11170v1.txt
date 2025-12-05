@@ -1,0 +1,5 @@
+Title: Power Ensemble Aggregation for Improved Extreme Event AI Prediction
+URL: http://arxiv.org/abs/2511.11170v1
+Published: 2025-11-14 11:11:02+00:00
+----------------------------------------
+This paper addresses the critical challenge of improving predictions of climate extreme events, specifically heat waves, using machine learning methods. Our work is framed as a classification problem in which we try to predict whether surface air temperature will exceed its q-th local quantile within a specified timeframe. Our key finding is that aggregating ensemble predictions using a power mean significantly enhances the classifier's performance. By making a machine-learning based weather forecasting model generative and applying this non-linear aggregation method, we achieve better accuracy in predicting extreme heat events than with the typical mean prediction from the same model. Our power aggregation method shows promise and adaptability, as its optimal performance varies with the quantile threshold chosen, demonstrating increased effectiveness for higher extremes prediction.

@@ -1,0 +1,5 @@
+Title: Variational Geometry-aware Neural Network based Method for Solving High-dimensional Diffeomorphic Mapping Problems
+URL: http://arxiv.org/abs/2511.01911v1
+Published: 2025-10-31 20:39:08+00:00
+----------------------------------------
+Traditional methods for high-dimensional diffeomorphic mapping often struggle with the curse of dimensionality. We propose a mesh-free learning framework designed for $n$-dimensional mapping problems, seamlessly combining variational principles with quasi-conformal theory. Our approach ensures accurate, bijective mappings by regulating conformality distortion and volume distortion, enabling robust control over deformation quality. The framework is inherently compatible with gradient-based optimization and neural network architectures, making it highly flexible and scalable to higher-dimensional settings. Numerical experiments on both synthetic and real-world medical image data validate the accuracy, robustness, and effectiveness of the proposed method in complex registration scenarios.

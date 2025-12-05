@@ -1,0 +1,5 @@
+Title: Oh That Looks Familiar: A Novel Similarity Measure for Spreadsheet Template Discovery
+URL: http://arxiv.org/abs/2511.06973v2
+Published: 2025-11-10 11:25:55+00:00
+----------------------------------------
+Traditional methods for identifying structurally similar spreadsheets fail to capture the spatial layouts and type patterns defining templates. To quantify spreadsheet similarity, we introduce a hybrid distance metric that combines semantic embeddings, data type information, and spatial positioning. In order to calculate spreadsheet similarity, our method converts spreadsheets into cell-level embeddings and then uses aggregation techniques like Chamfer and Hausdorff distances. Experiments across template families demonstrate superior unsupervised clustering performance compared to the graph-based Mondrian baseline, achieving perfect template reconstruction (Adjusted Rand Index of 1.00 versus 0.90) on the FUSTE dataset. Our approach facilitates large-scale automated template discovery, which in turn enables downstream applications such as retrieval-augmented generation over tabular collections, model training, and bulk data cleaning.

@@ -1,0 +1,5 @@
+Title: Autoencoding Dynamics: Topological Limitations and Capabilities
+URL: http://arxiv.org/abs/2511.04807v2
+Published: 2025-11-06 20:53:37+00:00
+----------------------------------------
+Given a "data manifold" $M\subset \mathbb{R}^n$ and "latent space" $\mathbb{R}^\ell$, an autoencoder is a pair of continuous maps consisting of an "encoder" $E\colon \mathbb{R}^n\to \mathbb{R}^\ell$ and "decoder" $D\colon \mathbb{R}^\ell\to \mathbb{R}^n$ such that the "round trip" map $D\circ E$ is as close as possible to the identity map $\mbox{id}_M$ on $M$. We present various topological limitations and capabilites inherent to the search for an autoencoder, and describe capabilities for autoencoding dynamical systems having $M$ as an invariant manifold.

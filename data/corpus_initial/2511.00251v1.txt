@@ -1,0 +1,5 @@
+Title: Learning and Leveraging Anisotropy Parameters in ANOVA Approximation
+URL: http://arxiv.org/abs/2511.00251v1
+Published: 2025-10-31 20:51:09+00:00
+----------------------------------------
+We present a Fourier-based approach for high-dimensional function approximation. To this end, we analyze the truncated ANOVA (analysis of variance) decomposition and learn the anisotropic smoothness properties of the target function from scattered data. This smoothness information is then incorporated into our approximation algorithm to improve the accuracy. Specifically, we employ least squares approximation using trigonometric polynomials in combination with frequency boxes of optimized aspect ratios. These frequency boxes allow for the application of the Nonequispaced Fast Fourier Transform (NFFT), which significantly accelerates the computation of the method. Our approach enables the efficient optimization of dozens of parameters to achieve high approximation accuracy with minimal overhead. Numerical experiments demonstrate the practical effectiveness of the proposed method.

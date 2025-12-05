@@ -1,0 +1,5 @@
+Title: Asymptotic confidence bands for centered purely random forests
+URL: http://arxiv.org/abs/2511.13199v1
+Published: 2025-11-17 10:09:01+00:00
+----------------------------------------
+In a multivariate nonparametric regression setting we construct explicit asymptotic uniform confidence bands for centered purely random forests. Since the most popular example in this class of random forests, namely the uniformly centered purely random forests, is well known to suffer from suboptimal rates, we propose a new type of purely random forests, called the Ehrenfest centered purely random forests, which achieve minimax optimal rates. Our main confidence band theorem applies to both random forests. The proof is based on an interpretation of random forests as generalized U-Statistics together with a Gaussian approximation of the supremum of empirical processes. Our theoretical findings are illustrated in simulation examples.

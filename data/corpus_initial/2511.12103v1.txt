@@ -1,0 +1,5 @@
+Title: BdSL-SPOTER: A Transformer-Based Framework for Bengali Sign Language Recognition with Cultural Adaptation
+URL: http://arxiv.org/abs/2511.12103v1
+Published: 2025-11-15 08:45:21+00:00
+----------------------------------------
+We introduce BdSL-SPOTER, a pose-based transformer framework for accurate and efficient recognition of Bengali Sign Language (BdSL). BdSL-SPOTER extends the SPOTER paradigm with cultural specific preprocessing and a compact four-layer transformer encoder featuring optimized learnable positional encodings, while employing curriculum learning to enhance generalization on limited data and accelerate convergence. On the BdSLW60 benchmark, it achieves 97.92% Top-1 validation accuracy, representing a 22.82% improvement over the Bi-LSTM baseline, all while keeping computational costs low. With its reduced number of parameters, lower FLOPs, and higher FPS, BdSL-SPOTER provides a practical framework for real-world accessibility applications and serves as a scalable model for other low-resource regional sign languages.

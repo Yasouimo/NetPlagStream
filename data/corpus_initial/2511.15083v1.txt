@@ -1,0 +1,6 @@
+Title: Fourier-KAN-Mamba: A Novel State-Space Equation Approach for Time-Series Anomaly Detection
+URL: http://arxiv.org/abs/2511.15083v1
+Published: 2025-11-19 03:45:06+00:00
+----------------------------------------
+Time-series anomaly detection plays a critical role in numerous real-world applications, including industrial monitoring and fault diagnosis. Recently, Mamba-based state-space models have shown remarkable efficiency in long-sequence modeling. However, directly applying Mamba to anomaly detection tasks still faces challenges in capturing complex temporal patterns and nonlinear dynamics. In this paper, we propose Fourier-KAN-Mamba, a novel hybrid architecture that integrates Fourier layer, Kolmogorov-Arnold Networks (KAN), and Mamba selective state-space model. The Fourier layer extracts multi-scale frequency features, KAN enhances nonlinear representation capability, and a temporal gating control mechanism further improves the model's ability to distinguish normal and anomalous patterns. Extensive experiments on MSL, SMAP, and SWaT datasets demonstrate that our method significantly outperforms existing state-of-the-art approaches.
+  Keywords: time-series anomaly detection, state-space model, Mamba, Fourier transform, Kolmogorov-Arnold Network

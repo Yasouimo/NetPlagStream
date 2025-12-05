@@ -1,0 +1,5 @@
+Title: Multimodal ML: Quantifying the Improvement of Calorie Estimation Through Image-Text Pairs
+URL: http://arxiv.org/abs/2511.11705v1
+Published: 2025-11-12 15:29:18+00:00
+----------------------------------------
+This paper determines the extent to which short textual inputs (in this case, names of dishes) can improve calorie estimation compared to an image-only baseline model and whether any improvements are statistically significant. Utilizes the TensorFlow library and the Nutrition5k dataset (curated by Google) to train both an image-only CNN and multimodal CNN that accepts both text and an image as input. The MAE of calorie estimations was reduced by 1.06 kcal from 84.76 kcal to 83.70 kcal (1.25% improvement) when using the multimodal model.

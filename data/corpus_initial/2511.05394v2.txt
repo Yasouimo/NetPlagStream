@@ -1,0 +1,5 @@
+Title: AI Assisted AR Assembly: Object Recognition and Computer Vision for Augmented Reality Assisted Assembly
+URL: http://arxiv.org/abs/2511.05394v2
+Published: 2025-11-07 16:20:53+00:00
+----------------------------------------
+We present an AI-assisted Augmented Reality assembly workflow that uses deep learning-based object recognition to identify different assembly components and display step-by-step instructions. For each assembly step, the system displays a bounding box around the corresponding components in the physical space, and where the component should be placed. By connecting assembly instructions with the real-time location of relevant components, the system eliminates the need for manual searching, sorting, or labeling of different components before each assembly. To demonstrate the feasibility of using object recognition for AR-assisted assembly, we highlight a case study involving the assembly of LEGO sculptures.

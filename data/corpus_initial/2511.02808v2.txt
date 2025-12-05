@@ -1,0 +1,5 @@
+Title: Reliable Parameter Inference for the Epoch of Reionization using Balanced Neural Ratio Estimation
+URL: http://arxiv.org/abs/2511.02808v2
+Published: 2025-11-04 18:30:09+00:00
+----------------------------------------
+We present an application of the Balanced Neural Ratio Estimation (BNRE) algorithm to improve the statistical validity of parameter estimates used to characterize the Epoch of Reionization, where the common assumption of a multivariate Gaussian likelihood leads to overconfident and biased posterior distributions. Using a two-parameter model of the Ly$α$ forest autocorrelation function, we show that BNRE yields posterior distributions that are significantly better calibrated than those obtained under the Gaussian likelihood assumption, as verified through the Test of Accuracy with Random Points (TARP) and Simulation-Based Calibration (SBC) diagnostics. These results demonstrate the potential of Simulation-Based Inference (SBI) methods, and in particular BNRE, to provide statistically robust parameter constraints within existing astrophysical modeling frameworks.

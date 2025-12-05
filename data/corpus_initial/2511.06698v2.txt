@@ -1,0 +1,5 @@
+Title: Lassoed Forests: Random Forests with Adaptive Lasso Post-selection
+URL: http://arxiv.org/abs/2511.06698v2
+Published: 2025-11-10 04:39:09+00:00
+----------------------------------------
+Random forests are a statistical learning technique that use bootstrap aggregation to average high-variance and low-bias trees. Improvements to random forests, such as applying Lasso regression to the tree predictions, have been proposed in order to reduce model bias. However, these changes can sometimes degrade performance (e.g., an increase in mean squared error). In this paper, we show in theory that the relative performance of these two methods, standard and Lasso-weighted random forests, depends on the signal-to-noise ratio. We further propose a unified framework to combine random forests and Lasso selection by applying adaptive weighting and show mathematically that it can strictly outperform the other two methods. We compare the three methods through simulation, including bias-variance decomposition, error estimates evaluation, and variable importance analysis. We also show the versatility of our method by applications to a variety of real-world datasets.

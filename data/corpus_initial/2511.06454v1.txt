@@ -1,0 +1,5 @@
+Title: Feature weighting for data analysis via evolutionary simulation
+URL: http://arxiv.org/abs/2511.06454v1
+Published: 2025-11-09 16:40:47+00:00
+----------------------------------------
+We analyze an algorithm for assigning weights prior to scalarization in discrete multi-objective problems arising from data analysis. The algorithm evolves the weights (the relevance of features) by a replicator-type dynamic on the standard simplex, with update indices computed from a normalized data matrix. We prove that the resulting sequence converges globally to a unique interior equilibrium, yielding non-degenerate limiting weights. The method, originally inspired by evolutionary game theory, differs from standard weighting schemes in that it is analytically tractable with provable convergence.

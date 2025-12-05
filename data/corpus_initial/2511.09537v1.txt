@@ -1,0 +1,5 @@
+Title: NSL-MT: Linguistically Informed Negative Samples for Efficient Machine Translation in Low-Resource Languages
+URL: http://arxiv.org/abs/2511.09537v1
+Published: 2025-11-12 18:36:01+00:00
+----------------------------------------
+We introduce Negative Space Learning MT (NSL-MT), a training method that teaches models what not to generate by encoding linguistic constraints as severity-weighted penalties in the loss function. NSL-MT increases limited parallel data with synthetically generated violations of target language grammar, explicitly penalizing the model when it assigns high probability to these linguistically invalid outputs. We demonstrate that NSL-MT delivers improvements across all architectures: 3-12\% BLEU gains for well-performing models and 56-89\% gains for models lacking descent initial support. Furthermore, NSL-MT provides a 5x data efficiency multiplier -- training with 1,000 examples matches or exceeds normal training with 5,000 examples. Thus, NSL-MT provides a data-efficient alternative training method for settings where there is limited annotated parallel corporas.

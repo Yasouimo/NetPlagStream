@@ -1,0 +1,5 @@
+Title: Audio Question Answering with GRPO-Based Fine-Tuning and Calibrated Segment-Level Predictions
+URL: http://arxiv.org/abs/2511.14307v1
+Published: 2025-11-18 10:05:36+00:00
+----------------------------------------
+In this report, we describe our submission to Track 5 of the DCASE 2025 Challenge for the task of Audio Question Answering(AQA). Our system leverages the SSL backbone BEATs to extract frame-level audio features, which are then processed by a classification head to generate segment-level predictions of acoustic events, following the Audioset ontology. These segment-level predictions are subsequently calibrated before producing event-level predictions. Finally, these predictions are incorporated into a structured prompt, along with the question and candidate answers. This prompt is then fed to a fine-tuned version of Qwen2.5-7B-Instruct, trained using the GRPO algorithm with a simple reward function. Our method achieves an accuracy of 62.6 % on the development set, demonstrating the effectiveness of combining acoustic event reasoning with instruction-tuned large language models for AQA.

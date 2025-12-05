@@ -1,0 +1,5 @@
+Title: Conformal Prediction-Driven Adaptive Sampling for Digital Twins of Water Distribution Networks
+URL: http://arxiv.org/abs/2511.05610v1
+Published: 2025-11-06 09:43:34+00:00
+----------------------------------------
+Digital Twins (DTs) for Water Distribution Networks (WDNs) require accurate state estimation with limited sensors. Uniform sampling often wastes resources across nodes with different uncertainty. We propose an adaptive framework combining LSTM forecasting and Conformal Prediction (CP) to estimate node-wise uncertainty and focus sensing on the most uncertain points. Marginal CP is used for its low computational cost, suitable for real-time DTs. Experiments on Hanoi, Net3, and CTOWN show 33-34% lower demand error than uniform sampling at 40% coverage and maintain 89.4-90.2% empirical coverage with only 5-10% extra computation.

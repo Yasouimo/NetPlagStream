@@ -1,0 +1,7 @@
+Title: AI-Enabled Orchestration of Event-Driven Business Processes in Workday ERP for Healthcare Enterprises
+URL: http://arxiv.org/abs/2511.15852v1
+Published: 2025-11-19 20:18:10+00:00
+----------------------------------------
+The adoption of cloud-based Enterprise Resource Planning (ERP) platforms such as Workday has transformed healthcare operations by integrating financial, supply-chain, and workforce processes into a unified ecosystem. However, traditional workflow logic in ERP systems often lacks the adaptability required to manage event-driven and data-intensive healthcare environments.
+  This study proposes an AI-enabled event-driven orchestration framework within Workday ERP that intelligently synchronizes financial and supply-chain workflows across distributed healthcare entities. The framework employs machine-learning triggers, anomaly detection, and process mining analytics to anticipate and automate responses to operational events such as inventory depletion, payment delays, or patient demand fluctuations. A multi-organization case analysis demonstrates measurable gains in process efficiency, cost visibility, and decision accuracy.
+  Results confirm that embedding AI capabilities into Workday's event-based architecture enhances operational resilience, governance, and scalability. The proposed model contributes to the broader understanding of intelligent ERP integration and establishes a reference for next-generation automation strategies in healthcare enterprises.

@@ -1,0 +1,5 @@
+Title: Evaluation of LLM-based Explanations for a Learning Analytics Dashboard
+URL: http://arxiv.org/abs/2511.11671v1
+Published: 2025-11-11 19:36:40+00:00
+----------------------------------------
+Learning Analytics Dashboards can be a powerful tool to support self-regulated learning in Digital Learning Environments and promote development of meta-cognitive skills, such as reflection. However, their effectiveness can be affected by the interpretability of the data they provide. To assist in the interpretation, we employ a large language model to generate verbal explanations of the data in the dashboard and evaluate it against a standalone dashboard and explanations provided by human teachers in an expert study with university level educators (N=12). We find that the LLM-based explanations of the skill state presented in the dashboard, as well as general recommendations on how to proceed with learning within the course are significantly more favored compared to the other conditions. This indicates that using LLMs for interpretation purposes can enhance the learning experience for learners while maintaining the pedagogical standards approved by teachers.

@@ -1,0 +1,5 @@
+Title: Data-Efficient Realized Volatility Forecasting with Vision Transformers
+URL: http://arxiv.org/abs/2511.03046v1
+Published: 2025-11-04 22:43:17+00:00
+----------------------------------------
+Recent work in financial machine learning has shown the virtue of complexity: the phenomenon by which deep learning methods capable of learning highly nonlinear relationships outperform simpler approaches in financial forecasting. While transformer architectures like Informer have shown promise for financial time series forecasting, the application of transformer models for options data remains largely unexplored. We conduct preliminary studies towards the development of a transformer model for options data by training the Vision Transformer (ViT) architecture, typically used in modern image recognition and classification systems, to predict the realized volatility of an asset over the next 30 days from its implied volatility surface (augmented with date information) for a single day. We show that the ViT can learn seasonal patterns and nonlinear features from the IV surface, suggesting a promising direction for model development.

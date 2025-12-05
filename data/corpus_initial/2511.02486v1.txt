@@ -1,0 +1,5 @@
+Title: Coherency among Power System Devices
+URL: http://arxiv.org/abs/2511.02486v1
+Published: 2025-11-04 11:19:51+00:00
+----------------------------------------
+The paper proposes a novel general definition of coherency among power system devices of any type. The proposed approach is thus not limited to synchronous machines. With this aim, the paper shows that coherency can be formally based on the difference in the complex frequency of the current injections of any two devices electrically connected to the same grid. The proposed definition is model-agnostic, making it general and suitable for modern power systems composed of a heterogeneous mix of technologies. The paper also provides a systematic analytical procedure to study the properties that specific device models must satisfy to be coherent. Time-domain simulations are conducted in three case studies whose results illustrate the ability of our definition to evaluate coherency among any type of device.

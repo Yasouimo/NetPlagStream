@@ -1,0 +1,5 @@
+Title: When to Stop Federated Learning: Zero-Shot Generation of Synthetic Validation Data with Generative AI for Early Stopping
+URL: http://arxiv.org/abs/2511.11208v1
+Published: 2025-11-14 12:07:32+00:00
+----------------------------------------
+Federated Learning (FL) enables collaborative model training across decentralized devices while preserving data privacy. However, FL methods typically run for a predefined number of global rounds, often leading to unnecessary computation when optimal performance is reached earlier. In addition, training may continue even when the model fails to achieve meaningful performance. To address this inefficiency, we introduce a zero-shot synthetic validation framework that leverages generative AI to monitor model performance and determine early stopping points. Our approach adaptively stops training near the optimal round, thereby conserving computational resources and enabling rapid hyperparameter adjustments. Numerical results on multi-label chest X-ray classification demonstrate that our method reduces training rounds by up to 74% while maintaining accuracy within 1% of the optimal.

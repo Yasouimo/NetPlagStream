@@ -1,0 +1,5 @@
+Title: Supervised Multilabel Image Classification Using Residual Networks with Probabilistic Reasoning
+URL: http://arxiv.org/abs/2511.12082v1
+Published: 2025-11-15 07:56:15+00:00
+----------------------------------------
+Multilabel image categorization has drawn interest recently because of its numerous computer vision applications. The proposed work introduces a novel method for classifying multilabel images using the COCO-2014 dataset and a modified ResNet-101 architecture. By simulating label dependencies and uncertainties, the approach uses probabilistic reasoning to improve prediction accuracy. Extensive tests show that the model outperforms earlier techniques and approaches to state-of-the-art outcomes in multilabel categorization. The work also thoroughly assesses the model's performance using metrics like precision-recall score and achieves 0.794 mAP on COCO-2014, outperforming ResNet-SRN (0.771) and Vision Transformer baselines (0.785). The novelty of the work lies in integrating probabilistic reasoning into deep learning models to effectively address the challenges presented by multilabel scenarios.

@@ -1,0 +1,5 @@
+Title: Investigating the Robustness of Knowledge Tracing Models in the Presence of Student Concept Drift
+URL: http://arxiv.org/abs/2511.00704v2
+Published: 2025-11-01 20:56:16+00:00
+----------------------------------------
+Knowledge Tracing (KT) has been an established problem in the educational data mining field for decades, and it is commonly assumed that the underlying learning process being modeled remains static. Given the ever-changing landscape of online learning platforms (OLPs), we investigate how concept drift and changing student populations can impact student behavior within an OLP through testing model performance both within a single academic year and across multiple academic years. Four well-studied KT models were applied to five academic years of data to assess how susceptible KT models are to concept drift. Through our analysis, we find that all four families of KT models can exhibit degraded performance, Bayesian Knowledge Tracing (BKT) remains the most stable KT model when applied to newer data, while more complex, attention based models lose predictive power significantly faster.

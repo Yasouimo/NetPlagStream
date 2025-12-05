@@ -1,0 +1,5 @@
+Title: QUESTER: Query Specification for Generative Retrieval
+URL: http://arxiv.org/abs/2511.05301v1
+Published: 2025-11-07 15:01:38+00:00
+----------------------------------------
+Generative Retrieval (GR) differs from the traditional index-then-retrieve pipeline by storing relevance in model parameters and directly generating document identifiers. However, GR often struggles to generalize and is costly to scale. We introduce QUESTER (QUEry SpecificaTion gEnerative Retrieval), which reframes GR as query specification generation - in this work, a simple keyword query handled by BM25 - using a (small) LLM. The policy is trained using reinforcement learning techniques (GRPO). Across in- and out-of-domain evaluations, we show that our model is more effective than BM25, and competitive with neural IR models, while maintaining a good efficiency

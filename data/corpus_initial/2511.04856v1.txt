@@ -1,0 +1,5 @@
+Title: Quantum Boltzmann Machines for Sample-Efficient Reinforcement Learning
+URL: http://arxiv.org/abs/2511.04856v1
+Published: 2025-11-06 22:40:18+00:00
+----------------------------------------
+We introduce theoretically grounded Continuous Semi-Quantum Boltzmann Machines (CSQBMs) that supports continuous-action reinforcement learning. By combining exponential-family priors over visible units with quantum Boltzmann distributions over hidden units, CSQBMs yield a hybrid quantum-classical model that reduces qubit requirements while retaining strong expressiveness. Crucially, gradients with respect to continuous variables can be computed analytically, enabling direct integration into Actor-Critic algorithms. Building on this, we propose a continuous Q-learning framework that replaces global maximization by efficient sampling from the CSQBM distribution, thereby overcoming instability issues in continuous control.

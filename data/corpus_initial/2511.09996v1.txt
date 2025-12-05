@@ -1,0 +1,5 @@
+Title: A Novel Data-Dependent Learning Paradigm for Large Hypothesis Classes
+URL: http://arxiv.org/abs/2511.09996v1
+Published: 2025-11-13 06:02:55+00:00
+----------------------------------------
+We address the general task of learning with a set of candidate models that is too large to have a uniform convergence of empirical estimates to true losses. While the common approach to such challenges is SRM (or regularization) based learning algorithms, we propose a novel learning paradigm that relies on stronger incorporation of empirical data and requires less algorithmic decisions to be based on prior assumptions. We analyze the generalization capabilities of our approach and demonstrate its merits in several common learning assumptions, including similarity of close points, clustering of the domain into highly label-homogeneous regions, Lipschitzness assumptions of the labeling rule, and contrastive learning assumptions. Our approach allows utilizing such assumptions without the need to know their true parameters a priori.

@@ -1,0 +1,5 @@
+Title: BIG5-TPoT: Predicting BIG Five Personality Traits, Facets, and Items Through Targeted Preselection of Texts
+URL: http://arxiv.org/abs/2511.09426v1
+Published: 2025-11-12 15:39:54+00:00
+----------------------------------------
+Predicting an individual's personalities from their generated texts is a challenging task, especially when the text volume is large. In this paper, we introduce a straightforward yet effective novel strategy called targeted preselection of texts (TPoT). This method semantically filters the texts as input to a deep learning model, specifically designed to predict a Big Five personality trait, facet, or item, referred to as the BIG5-TPoT model. By selecting texts that are semantically relevant to a particular trait, facet, or item, this strategy not only addresses the issue of input text limits in large language models but also improves the Mean Absolute Error and accuracy metrics in predictions for the Stream of Consciousness Essays dataset.

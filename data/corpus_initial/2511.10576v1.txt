@@ -1,0 +1,5 @@
+Title: Tight Robustness Certification through the Convex Hull of $\ell_0$ Attacks
+URL: http://arxiv.org/abs/2511.10576v1
+Published: 2025-11-13 18:15:37+00:00
+----------------------------------------
+Few-pixel attacks mislead a classifier by modifying a few pixels of an image. Their perturbation space is an $\ell_0$-ball, which is not convex, unlike $\ell_p$-balls for $p\geq1$. However, existing local robustness verifiers typically scale by relying on linear bound propagation, which captures convex perturbation spaces. We show that the convex hull of an $\ell_0$-ball is the intersection of its bounding box and an asymmetrically scaled $\ell_1$-like polytope. The volumes of the convex hull and this polytope are nearly equal as the input dimension increases. We then show a linear bound propagation that precisely computes bounds over the convex hull and is significantly tighter than bound propagations over the bounding box or our $\ell_1$-like polytope. This bound propagation scales the state-of-the-art $\ell_0$ verifier on its most challenging robustness benchmarks by 1.24x-7.07x, with a geometric mean of 3.16.

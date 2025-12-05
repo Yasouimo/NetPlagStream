@@ -1,0 +1,5 @@
+Title: SemanticStitch: Enhancing Image Coherence through Foreground-Aware Seam Carving
+URL: http://arxiv.org/abs/2511.12084v1
+Published: 2025-11-15 08:05:29+00:00
+----------------------------------------
+Image stitching often faces challenges due to varying capture angles, positional differences, and object movements, leading to misalignments and visual discrepancies. Traditional seam carving methods neglect semantic information, causing disruptions in foreground continuity. We introduce SemanticStitch, a deep learning-based framework that incorporates semantic priors of foreground objects to preserve their integrity and enhance visual coherence. Our approach includes a novel loss function that emphasizes the semantic integrity of salient objects, significantly improving stitching quality. We also present two specialized real-world datasets to evaluate our method's effectiveness. Experimental results demonstrate substantial improvements over traditional techniques, providing robust support for practical applications.

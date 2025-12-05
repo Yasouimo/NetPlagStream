@@ -1,0 +1,8 @@
+Title: Training Instabilities Induce Flatness Bias in Gradient Descent
+URL: http://arxiv.org/abs/2511.12558v1
+Published: 2025-11-16 11:26:25+00:00
+----------------------------------------
+Classical analyses of gradient descent (GD) define a stability threshold based on the largest eigenvalue of the loss Hessian, often termed sharpness. When the learning rate lies below this threshold, training is stable and the loss decreases monotonically. Yet, modern deep networks often achieve their best performance beyond this regime.
+  We demonstrate that such instabilities induce an implicit bias in GD, driving parameters toward flatter regions of the loss landscape and thereby improving generalization. The key mechanism is the Rotational Polarity of Eigenvectors (RPE), a geometric phenomenon in which the leading eigenvectors of the Hessian rotate during training instabilities. These rotations, which increase with learning rates, promote exploration and provably lead to flatter minima.
+  This theoretical framework extends to stochastic GD, where instability-driven flattening persists and its empirical effects outweigh minibatch noise. Finally, we show that restoring instabilities in Adam further improves generalization.
+  Together, these results establish and understand the constructive role of training instabilities in deep learning.

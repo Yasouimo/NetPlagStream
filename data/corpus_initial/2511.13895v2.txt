@@ -1,0 +1,5 @@
+Title: On robust Bayesian causal inference
+URL: http://arxiv.org/abs/2511.13895v2
+Published: 2025-11-17 20:40:59+00:00
+----------------------------------------
+This paper develops a Bayesian framework for robust causal inference from longitudinal observational data. Many contemporary methods rely on structural assumptions, such as factor models, to adjust for unobserved confounding, but they can lead to biased causal estimands when mis-specified. We focus on directly estimating time--unit--specific causal effects and use generalised Bayesian inference to quantify model mis-specification and adjust for it, while retaining interpretable posterior inference. We select the learning rate~$ω$ based on a proper scoring rule that jointly evaluates point and interval accuracy of the causal estimand, thus providing a coherent, decision-theoretic foundation for tuning~$ω$. Simulation studies and applications to real data demonstrate improved calibration, sharpness, and robustness in estimating causal effects.

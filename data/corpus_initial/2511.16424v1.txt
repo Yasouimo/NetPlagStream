@@ -1,0 +1,5 @@
+Title: Second-Order MPC-Based Distributed Q-Learning
+URL: http://arxiv.org/abs/2511.16424v1
+Published: 2025-11-20 14:46:54+00:00
+----------------------------------------
+The state of the art for model predictive control (MPC)-based distributed Q-learning is limited to first-order gradient updates of the MPC parameterization. In general, using secondorder information can significantly improve the speed of convergence for learning, allowing the use of higher learning rates without introducing instability. This work presents a second-order extension to MPC-based Q-learning with updates distributed across local agents, relying only on locally available information and neighbor-to-neighbor communication. In simulation the approach is demonstrated to significantly outperform first-order distributed Q-learning.

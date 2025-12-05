@@ -1,0 +1,5 @@
+Title: AI Literacy in UAE Libraries: Assessing Competencies, Training Needs, and Ethical Considerations for the Digital Age
+URL: http://arxiv.org/abs/2511.01353v1
+Published: 2025-11-03 09:00:15+00:00
+----------------------------------------
+The study explores the current state of artificial intelligence (AI) literacy levels among library professionals employing a quantitative approach consisting of 92 surveys of LIS professionals in the United Arab Emirates (UAE). Findings of the study revealed the presence of strong cognitive competencies, while there were gaps observed in behavioral and normative competencies, especially related to AI biases, AI-powered learning, and ethical considerations. There was a disconnect observed between the perceived importance of AI skills and the effectiveness of the current training programs.

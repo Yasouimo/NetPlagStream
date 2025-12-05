@@ -1,0 +1,5 @@
+Title: A Semantic Encoding of Object Centric Event Data
+URL: http://arxiv.org/abs/2511.03351v1
+Published: 2025-11-05 10:44:02+00:00
+----------------------------------------
+The Object-Centric Event Data (OCED) is a novel meta-model aimed at providing a common ground for process data records centered around events and objects. One of its objectives is to foster interoperability and process information exchange. In this context, the integration of data from different providers, the combination of multiple processes, and the enhancement of knowledge inference are novel challenges. Semantic Web technologies can enable the creation of a machine-readable OCED description enriched through ontology-based relationships and entity categorization. In this paper, we introduce an approach built upon Semantic Web technologies for the realization of semantic-enhanced OCED, with the aim to strengthen process data reasoning, interconnect information sources, and boost expressiveness.

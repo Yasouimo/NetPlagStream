@@ -1,0 +1,5 @@
+Title: Algorithm-Relative Trajectory Valuation in Policy Gradient Control
+URL: http://arxiv.org/abs/2511.07878v1
+Published: 2025-11-11 06:25:52+00:00
+----------------------------------------
+We study how trajectory value depends on the learning algorithm in policy-gradient control. Using Trajectory Shapley in an uncertain LQR, we find a negative correlation between Persistence of Excitation (PE) and marginal value under vanilla REINFORCE ($r\approx-0.38$). We prove a variance-mediated mechanism: (i) for fixed energy, higher PE yields lower gradient variance; (ii) near saddles, higher variance increases escape probability, raising marginal contribution. When stabilized (state whitening or Fisher preconditioning), this variance channel is neutralized and information content dominates, flipping the correlation positive ($r\approx+0.29$). Hence, trajectory value is algorithm-relative. Experiments validate the mechanism and show decision-aligned scores (Leave-One-Out) complement Shapley for pruning, while Shapley identifies toxic subsets.

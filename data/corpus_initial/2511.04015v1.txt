@@ -1,0 +1,5 @@
+Title: Tiny-WiFo: A Lightweight Wireless Foundation Model for Channel Prediction via Multi-Component Adaptive Knowledge Distillation
+URL: http://arxiv.org/abs/2511.04015v1
+Published: 2025-11-06 03:27:25+00:00
+----------------------------------------
+The massive scale of Wireless Foundation Models (FMs) hinders their real-time deployment on edge devices. This letter moves beyond standard knowledge distillation by introducing a novel Multi-Component Adaptive Knowledge Distillation (MCAKD) framework. Key innovations include a Cross-Attention-Based Knowledge Selection (CA-KS) module that selectively identifies critical features from the teacher model, and an Autonomous Learning-Passive Learning (AL-PL) strategy that balances knowledge transfer with independent learning to achieve high training efficiency at a manageable computational cost. When applied to the WiFo FM, the distilled Tiny-WiFo model, with only 5.5M parameters, achieves a 1.6 ms inference time on edge hardware while retaining over 98% of WiFo's performance and its crucial zero-shot generalization capability, making real-time FM deployment viable.

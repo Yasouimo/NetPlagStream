@@ -1,0 +1,5 @@
+Title: IonCast: A Deep Learning Framework for Forecasting Ionospheric Dynamics
+URL: http://arxiv.org/abs/2511.15004v1
+Published: 2025-11-19 00:58:17+00:00
+----------------------------------------
+The ionosphere is a critical component of near-Earth space, shaping GNSS accuracy, high-frequency communications, and aviation operations. For these reasons, accurate forecasting and modeling of ionospheric variability has become increasingly relevant. To address this gap, we present IonCast, a suite of deep learning models that include a GraphCast-inspired model tailored for ionospheric dynamics. IonCast leverages spatiotemporal learning to forecast global Total Electron Content (TEC), integrating diverse physical drivers and observational datasets. Validating on held-out storm-time and quiet conditions highlights improved skill compared to persistence. By unifying heterogeneous data with scalable graph-based spatiotemporal learning, IonCast demonstrates how machine learning can augment physical understanding of ionospheric variability and advance operational space weather resilience.

@@ -1,0 +1,5 @@
+Title: Augmenting Open-Vocabulary Dysarthric Speech Assessment with Human Perceptual Supervision
+URL: http://arxiv.org/abs/2511.02270v1
+Published: 2025-11-04 05:23:21+00:00
+----------------------------------------
+Dysarthria is a speech disorder characterized by impaired intelligibility and reduced communicative effectiveness. Automatic dysarthria assessment provides a scalable, cost-effective approach for supporting the diagnosis and treatment of neurological conditions such as Parkinson's disease, Alzheimer's disease, and stroke. This study investigates leveraging human perceptual annotations from speech synthesis assessment as reliable out-of-domain knowledge for dysarthric speech assessment. Experimental results suggest that such supervision can yield consistent and substantial performance improvements in self-supervised learning pre-trained models. These findings suggest that perceptual ratings aligned with human judgments from speech synthesis evaluations represent valuable resources for dysarthric speech modeling, enabling effective cross-domain knowledge transfer.

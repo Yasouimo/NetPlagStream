@@ -1,0 +1,5 @@
+Title: The Variable Universe with the Gaia mission and AI methods
+URL: http://arxiv.org/abs/2511.00147v1
+Published: 2025-10-31 18:00:01+00:00
+----------------------------------------
+The Gaia mission has observed over 2 billion stars repeatedly across the entire sky over 10 years, revealing the many astronomical objects that vary on human timescales from seconds to years. Its repeated astrometric, photometric, spectrophotometric and spectroscopic measurements create an unprecedented dataset to probe the variable celestial sources down to G ~ 21 mag. To extract meaningful results from these many time series for so many sources, we have used machine learning techniques for crossmatching, variability detection, and variability classification. This approach has now led to the largest catalogue of classified variable sources ever produced over the entire celestial sphere.

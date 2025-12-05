@@ -1,0 +1,5 @@
+Title: Optical Network Digital Twin -- Commercialization Barriers, Value Proposition, Early Use Cases, and Challenges
+URL: http://arxiv.org/abs/2511.06368v1
+Published: 2025-11-09 13:12:26+00:00
+----------------------------------------
+With the widespread adoption of AI, machine-to-machine communications are rapidly increasing, reshaping the requirements for optical networks. Recent advances in Gaussian noise modeling for digital coherent transmission have raised expectations for digital-twin-based operation. However, unlike digital twins in wireless communication, which are already well established, significant barriers remain for commercialization in optical networks. This paper discusses the evolving requirements of optical networks in the AI era and proposes an Optical Network Digital Twin architecture that enables flexible end-to-end light path operation beyond conventional management. The value propositions of the proposed architecture, its evolutionary steps toward commercialization, and key research challenges for practical deployment are presented.

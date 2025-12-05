@@ -1,0 +1,5 @@
+Title: Coherence Fraction in Grover Search Algorithm
+URL: http://arxiv.org/abs/2511.06835v1
+Published: 2025-11-10 08:29:05+00:00
+----------------------------------------
+The question of which resources drive the advantages in quantum algorithms has long been a fundamental challenge. While entanglement and coherence are critical to many quantum algorithms, our results indicate that they do not fully explain the quantum advantage achieved by the Grover search algorithm. By introducing a generalized Grover search algorithm, we demonstrate that the success probability depends not only on the querying number of oracles but also on the coherence fraction, which quantifies the fidelity between an arbitrary initial quantum state and the equal superposition state. Additionally, we explore the role of the coherence fraction in the quantum minimization algorithm, which offers a framework for solving complex problems in quantum machine learning. These findings offer insights into the origins of quantum advantage and open pathways for the development of new quantum algorithms.

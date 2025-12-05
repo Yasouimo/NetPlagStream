@@ -1,0 +1,6 @@
+Title: Diffusion annealed Langevin dynamics: a theoretical study
+URL: http://arxiv.org/abs/2511.10406v1
+Published: 2025-11-13 15:26:42+00:00
+----------------------------------------
+In this work we study the diffusion annealed Langevin dynamics, a score-based diffusion process recently introduced in the theory of generative models and which is an alternative to the classical overdamped Langevin diffusion. Our goal is to provide a rigorous construction and to study the theoretical efficiency of these models for general base distribution as well as target distribution. As a matter of fact these diffusion processes are a particular case of Nelson processes i.e. diffusion processes with a given flow of time marginals.
+  Providing existence and uniqueness of the solution to the annealed Langevin diffusion leads to proving a Poincaré inequality for the conditional distribution of $X$ knowing $X+Z=y$ uniformly in $y$, as recently observed by one of us and her coauthors. Part of this work is thus devoted to the study of such Poincaré inequalities. Additionally we show that strengthening the Poincaré inequality into a logarithmic Sobolev inequality improves the efficiency of the model.

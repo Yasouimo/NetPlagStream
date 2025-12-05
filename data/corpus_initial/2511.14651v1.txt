@@ -1,0 +1,5 @@
+Title: Derivative of the truncated singular value and eigen decomposition
+URL: http://arxiv.org/abs/2511.14651v1
+Published: 2025-11-18 16:45:46+00:00
+----------------------------------------
+Recently developed applications in the field of machine learning and computational physics rely on automatic differentiation techniques, that require stable and efficient linear algebra gradient computations. This technical note provides a comprehensive and detailed discussion of the derivative of the truncated singular and eigenvalue decomposition. It summarizes previous work and builds on them with an extensive description of how to derive the relevant terms. A main focus is correctly expressing the derivative in terms of the truncated part, despite lacking knowledge of the full decomposition.

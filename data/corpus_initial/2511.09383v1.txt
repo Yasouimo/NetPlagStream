@@ -1,0 +1,5 @@
+Title: Diffusion-based Sinogram Interpolation for Limited Angle PET
+URL: http://arxiv.org/abs/2511.09383v1
+Published: 2025-11-12 14:50:42+00:00
+----------------------------------------
+Accurate PET imaging increasingly requires methods that support unconstrained detector layouts from walk-through designs to long-axial rings where gaps and open sides lead to severely undersampled sinograms. Instead of constraining the hardware to form complete cylinders, we propose treating the missing lines-of-responses as a learnable prior. Data-driven approaches, particularly generative models, offer a promising pathway to recover this missing information. In this work, we explore the use of conditional diffusion models to interpolate sparsely sampled sinograms, paving the way for novel, cost-efficient, and patient-friendly PET geometries in real clinical settings.

@@ -1,0 +1,5 @@
+Title: From Solving to Verifying: A Unified Objective for Robust Reasoning in LLMs
+URL: http://arxiv.org/abs/2511.15137v1
+Published: 2025-11-19 05:27:06+00:00
+----------------------------------------
+The reasoning capabilities of large language models (LLMs) have been significantly improved through reinforcement learning (RL). Nevertheless, LLMs still struggle to consistently verify their own reasoning traces. This raises the research question of how to enhance the self-verification ability of LLMs and whether such an ability can further improve reasoning performance. In this work, we propose GRPO-Verif, an algorithm that jointly optimizes solution generation and self-verification within a unified loss function, with an adjustable hyperparameter controlling the weight of the verification signal. Experimental results demonstrate that our method enhances self-verification capability while maintaining comparable performance in reasoning.

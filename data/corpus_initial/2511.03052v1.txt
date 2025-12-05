@@ -1,0 +1,5 @@
+Title: Min-Max Optimization Is Strictly Easier Than Variational Inequalities
+URL: http://arxiv.org/abs/2511.03052v1
+Published: 2025-11-04 22:49:39+00:00
+----------------------------------------
+Classically, a mainstream approach for solving a convex-concave min-max problem is to instead solve the variational inequality problem arising from its first-order optimality conditions. Is it possible to solve min-max problems faster by bypassing this reduction? This paper initiates this investigation. We show that the answer is yes in the textbook setting of unconstrained quadratic objectives: the optimal convergence rate for first-order algorithms is strictly better for min-max problems than for the corresponding variational inequalities. The key reason that min-max algorithms can be faster is that they can exploit the asymmetry of the min and max variables--a property that is lost in the reduction to variational inequalities. Central to our analyses are sharp characterizations of optimal convergence rates in terms of extremal polynomials which we compute using Green's functions and conformal mappings.

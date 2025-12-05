@@ -1,0 +1,5 @@
+Title: Failure to Mix: Large language models struggle to answer according to desired probability distributions
+URL: http://arxiv.org/abs/2511.14630v1
+Published: 2025-11-18 16:22:26+00:00
+----------------------------------------
+Scientific idea generation and selection requires exploration following a target probability distribution. In contrast, current AI benchmarks have objectively correct answers, and training large language models (LLMs) via reinforcement learning against these benchmarks discourages probabilistic exploration. Here, we conducted systematic experiments requesting LLMs to produce outputs following simple probabilistic distributions, and found that all modern LLMs tested grossly fail to follow the distributions. For example, requesting a binary output of "1" 49% of the time produces an answer of "0" nearly 100% of the time. This step function-like behavior of near-exclusively generating the output with marginally highest probability even overrules even strong in-built LLM biases.

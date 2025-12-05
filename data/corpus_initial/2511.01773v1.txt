@@ -1,0 +1,5 @@
+Title: ADNAC: Audio Denoiser using Neural Audio Codec
+URL: http://arxiv.org/abs/2511.01773v1
+Published: 2025-11-03 17:28:28+00:00
+----------------------------------------
+Audio denoising is critical in signal processing, enhancing intelligibility and fidelity for applications like restoring musical recordings. This paper presents a proof-of-concept for adapting a state-of-the-art neural audio codec, the Descript Audio Codec (DAC), for music denoising. This work overcomes the limitations of traditional architectures like U-Nets by training the model on a large-scale, custom-synthesized dataset built from diverse sources. Training is guided by a multi objective loss function that combines time-domain, spectral, and signal-level fidelity metrics. Ultimately, this paper aims to present a PoC for high-fidelity, generative audio restoration.

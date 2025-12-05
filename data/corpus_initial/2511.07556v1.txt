@@ -1,0 +1,6 @@
+Title: Equivariant Algebraic K-Theories
+URL: http://arxiv.org/abs/2511.07556v1
+Published: 2025-11-10 19:06:34+00:00
+----------------------------------------
+A cornerstone of algebraic K-theory is the equivalence between the K-theory machines of May, Segal, and Elmendorf and Mandell. Equivariant algebraic K-theory enriches the theory with group actions, making it more powerful and complex. There are a number of equivariant K-theory machines that turn equivariant categorical data into equivariant spectra, the main objects of study in equivariant stable homotopy theory.
+  This work proves that the following four equivariant K-theory machines are appropriately equivalent: Shimakawa equivariant K-theory; the author's enriched multifunctorial equivariant K-theory; the equivariant K-theory of Guillou, May, Merling, and Osorno; and Schwede global equivariant K-theory. Parts 1 and 2 prove the topological equivalence between Shimakawa and multifunctorial equivariant K-theories. Part 3 proves that their categorical parts are equivalent. Part 4 proves that the equivariant K-theory of Guillou, May, Merling, and Osorno is equivalent to Shimakawa K-theory and Schwede global K-theory for each finite group.

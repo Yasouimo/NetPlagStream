@@ -1,0 +1,5 @@
+Title: MH-1M: A 1.34 Million-Sample Comprehensive Multi-Feature Android Malware Dataset for Machine Learning, Deep Learning, Large Language Models, and Threat Intelligence Research
+URL: http://arxiv.org/abs/2511.00342v1
+Published: 2025-11-01 00:54:08+00:00
+----------------------------------------
+We present MH-1M, one of the most comprehensive and up-to-date datasets for advanced Android malware research. The dataset comprises 1,340,515 applications, encompassing a wide range of features and extensive metadata. To ensure accurate malware classification, we employ the VirusTotal API, integrating multiple detection engines for comprehensive and reliable assessment. Our GitHub, Figshare, and Harvard Dataverse repositories provide open access to the processed dataset and its extensive supplementary metadata, totaling more than 400 GB of data and including the outputs of the feature extraction pipeline as well as the corresponding VirusTotal reports. Our findings underscore the MH-1M dataset's invaluable role in understanding the evolving landscape of malware.

@@ -1,0 +1,5 @@
+Title: Quantifying Skill and Chance: A Unified Framework for the Geometry of Games
+URL: http://arxiv.org/abs/2511.11611v1
+Published: 2025-11-03 17:05:52+00:00
+----------------------------------------
+We introduce a quantitative framework for separating skill and chance in games by modeling them as complementary sources of control over stochastic decision trees. We define the Skill-Luck Index S(G) in [-1, 1] by decomposing game outcomes into skill leverage K and luck leverage L. Applying this to 30 games reveals a continuum from pure chance (coin toss, S = -1) through mixed domains such as backgammon (S = 0, Sigma = 1.20) to pure skill (chess, S = +1, Sigma = 0). Poker exhibits moderate skill dominance (S = 0.33) with K = 0.40 +/- 0.03 and Sigma = 0.80. We further introduce volatility Sigma to quantify outcome uncertainty over successive turns. The framework extends to general stochastic decision systems, enabling principled comparisons of player influence, game balance, and predictive stability, with applications to game design, AI evaluation, and risk assessment.

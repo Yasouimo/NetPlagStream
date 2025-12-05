@@ -1,0 +1,5 @@
+Title: CRRM: A 5G system-level simulator
+URL: http://arxiv.org/abs/2511.02692v1
+Published: 2025-11-04 16:17:03+00:00
+----------------------------------------
+System-level simulation is indispensable for developing and testing novel algorithms for 5G and future wireless networks, yet a gap persists between the needs of the machine learning re- search community and the available tooling. To address this, we introduce the Cellular Radio Reference Model (CRRM), an open-source, pure Python simulator we designed specifically for speed, usability, and direct integration with modern AI frameworks. The core scientific contribution of CRRM lies in its architecture, which departs from traditional discrete-event simulation. We model the system as a set of inter-dependent computational blocks which form nodes in a directed graph. This enables a compute-on-demand mechanism we term smart update.

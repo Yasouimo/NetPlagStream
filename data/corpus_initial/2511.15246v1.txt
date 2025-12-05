@@ -1,0 +1,5 @@
+Title: D2D Power Allocation via Quantum Graph Neural Network
+URL: http://arxiv.org/abs/2511.15246v1
+Published: 2025-11-19 09:05:29+00:00
+----------------------------------------
+Increasing wireless network complexity demands scalable resource management. Classical GNNs excel at graph learning but incur high computational costs in large-scale settings. We present a fully quantum Graph Neural Network (QGNN) that implements message passing via Parameterized Quantum Circuits (PQCs). Our Quantum Graph Convolutional Layers (QGCLs) encode features into quantum states, process graphs with NISQ-compatible unitaries, and retrieve embeddings through measurement. Applied to D2D power control for SINR maximization, our QGNN matches classical performance with fewer parameters and inherent parallelism. This end-to-end PQC-based GNN marks a step toward quantum-accelerated wireless optimization.

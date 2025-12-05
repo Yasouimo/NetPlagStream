@@ -1,0 +1,5 @@
+Title: Improving Iterative Gaussian Processes via Warm Starting Sequential Posteriors
+URL: http://arxiv.org/abs/2511.16340v1
+Published: 2025-11-20 13:20:51+00:00
+----------------------------------------
+Scalable Gaussian process (GP) inference is essential for sequential decision-making tasks, yet improving GP scalability remains a challenging problem with many open avenues of research. This paper focuses on iterative GPs, where iterative linear solvers, such as conjugate gradients, stochastic gradient descent or alternative projections, are used to approximate the GP posterior. We propose a new method which improves solver convergence of a large linear system by leveraging the known solution to a smaller system contained within. This is significant for tasks with incremental data additions, and we show that our technique achieves speed-ups when solving to tolerance, as well as improved Bayesian optimisation performance under a fixed compute budget.

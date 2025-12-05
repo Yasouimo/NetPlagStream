@@ -1,0 +1,5 @@
+Title: Decomposing Inequalities using Machine Learning and Overcoming Common Support Issues
+URL: http://arxiv.org/abs/2511.13433v1
+Published: 2025-11-17 14:45:13+00:00
+----------------------------------------
+The Kitagawa-Oaxaca-Blinder decomposition splits the difference in means between two groups into an explained part, due to observable factors, and an unexplained part. In this paper, we reformulate this framework using potential outcomes, highlighting the critical role of the reference outcome. To address limitations like common support and model misspecification, we extend Neumark's (1988) weighted reference approach with a doubly robust estimator. Using Neyman orthogonality and double machine learning, our method avoids trimming and extrapolation. This improves flexibility and robustness, as illustrated by two empirical applications. Nevertheless, we also highlight that the decomposition based on the Neumark reference outcome is particularly sensitive to the inclusion of irrelevant explanatory variables.

@@ -1,0 +1,5 @@
+Title: FEval-TTC: Fair Evaluation Protocol for Test-Time Compute
+URL: http://arxiv.org/abs/2511.01203v1
+Published: 2025-11-03 03:58:21+00:00
+----------------------------------------
+The performance of Large Language Models (LLMs) and the associated dollar costs of API calls can fluctuate over time, potentially invalidating conclusions drawn in prior research. To address this, we propose a Fair Evaluation protocol for Test-Time Compute (FEval-TTC), designed to ensure consistent assessment of test-time compute (TTC) methods, regardless of such fluctuations. FEval-TTC focuses on the evaluation of TTC methods that utilize underlying Chains-of-Thought (CoT). It supports evaluations across multiple LLMs on a diverse set of mathematical and commonsense reasoning datasets. The few-shot prompting and answer extraction processes are standardized across datasets, reducing both time and monetary overhead for researchers. Furthermore, we provide a cost modelling procedure that estimates both the token and dollar cost per query, facilitating equitable comparisons of prevalent TTC methods. We open-source FEval-TTC for public use at https://github.com/networkslab/feval_ttc .

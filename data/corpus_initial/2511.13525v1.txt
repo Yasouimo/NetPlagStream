@@ -1,0 +1,5 @@
+Title: AI Fairness Beyond Complete Demographics: Current Achievements and Future Directions
+URL: http://arxiv.org/abs/2511.13525v1
+Published: 2025-11-17 15:59:25+00:00
+----------------------------------------
+Fairness in artificial intelligence (AI) has become a growing concern due to discriminatory outcomes in AI-based decision-making systems. While various methods have been proposed to mitigate bias, most rely on complete demographic information, an assumption often impractical due to legal constraints and the risk of reinforcing discrimination. This survey examines fairness in AI when demographics are incomplete, addressing the gap between traditional approaches and real-world challenges. We introduce a novel taxonomy of fairness notions in this setting, clarifying their relationships and distinctions. Additionally, we summarize existing techniques that promote fairness beyond complete demographics and highlight open research questions to encourage further progress in the field.

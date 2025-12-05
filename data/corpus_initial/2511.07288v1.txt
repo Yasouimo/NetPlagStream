@@ -1,0 +1,5 @@
+Title: Enabling Off-Policy Imitation Learning with Deep Actor Critic Stabilization
+URL: http://arxiv.org/abs/2511.07288v1
+Published: 2025-11-10 16:35:50+00:00
+----------------------------------------
+Learning complex policies with Reinforcement Learning (RL) is often hindered by instability and slow convergence, a problem exacerbated by the difficulty of reward engineering. Imitation Learning (IL) from expert demonstrations bypasses this reliance on rewards. However, state-of-the-art IL methods, exemplified by Generative Adversarial Imitation Learning (GAIL)Ho et. al, suffer from severe sample inefficiency. This is a direct consequence of their foundational on-policy algorithms, such as TRPO Schulman et.al. In this work, we introduce an adversarial imitation learning algorithm that incorporates off-policy learning to improve sample efficiency. By combining an off-policy framework with auxiliary techniques specifically, double Q network based stabilization and value learning without reward function inference we demonstrate a reduction in the samples required to robustly match expert behavior.

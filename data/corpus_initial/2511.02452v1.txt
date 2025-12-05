@@ -1,0 +1,5 @@
+Title: An Adaptive Sampling Framework for Detecting Localized Concept Drift under Label Scarcity
+URL: http://arxiv.org/abs/2511.02452v1
+Published: 2025-11-04 10:30:20+00:00
+----------------------------------------
+Concept drift and label scarcity are two critical challenges limiting the robustness of predictive models in dynamic industrial environments. Existing drift detection methods often assume global shifts and rely on dense supervision, making them ill-suited for regression tasks with local drifts and limited labels. This paper proposes an adaptive sampling framework that combines residual-based exploration and exploitation with EWMA monitoring to efficiently detect local concept drift under labeling budget constraints. Empirical results on synthetic benchmarks and a case study on electricity market demonstrate superior performance in label efficiency and drift detection accuracy.

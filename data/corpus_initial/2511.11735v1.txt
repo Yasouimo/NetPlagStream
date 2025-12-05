@@ -1,0 +1,6 @@
+Title: Toward bilipshiz geometric models
+URL: http://arxiv.org/abs/2511.11735v1
+Published: 2025-11-13 08:18:22+00:00
+----------------------------------------
+Many neural networks for point clouds are, by design, invariant to the symmetries of this datatype: permutations and rigid motions. The purpose of this paper is to examine whether such networks preserve natural symmetry aware distances on the point cloud spaces, through the notion of bi-Lipschitz equivalence. This inquiry is motivated by recent work in the Equivariant learning literature which highlights the advantages of bi-Lipschitz models in other scenarios.
+  We consider two symmetry aware metrics on point clouds: (a) The Procrustes Matching (PM) metric and (b) Hard Gromov Wasserstien distances. We show that these two distances themselves are not bi-Lipschitz equivalent, and as a corollary deduce that popular invariant networks for point clouds are not bi-Lipschitz with respect to the PM metric. We then show how these networks can be modified so that they do obtain bi-Lipschitz guarantees. Finally, we provide initial experiments showing the advantage of the proposed bi-Lipschitz model over standard invariant models, for the tasks of finding correspondences between 3D point clouds.

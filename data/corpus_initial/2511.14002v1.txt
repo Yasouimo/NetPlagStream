@@ -1,0 +1,5 @@
+Title: FlakyGuard: Automatically Fixing Flaky Tests at Industry Scale
+URL: http://arxiv.org/abs/2511.14002v1
+Published: 2025-11-18 00:10:51+00:00
+----------------------------------------
+Flaky tests that non-deterministically pass or fail waste developer time and slow release cycles. While large language models (LLMs) show promise for automatically repairing flaky tests, existing approaches like FlakyDoctor fail in industrial settings due to the context problem: providing either too little context (missing critical production code) or too much context (overwhelming the LLM with irrelevant information). We present FlakyGuard, which addresses this problem by treating code as a graph structure and using selective graph exploration to find only the most relevant context. Evaluation on real-world flaky tests from industrial repositories shows that FlakyGuard repairs 47.6 % of reproducible flaky tests with 51.8 % of the fixes accepted by developers. Besides it outperforms state-of-the-art approaches by at least 22 % in repair success rate. Developer surveys confirm that 100 % find FlakyGuard's root cause explanations useful.

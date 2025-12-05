@@ -1,0 +1,7 @@
+Title: Unlocking Advanced Graph Machine Learning Insights through Knowledge Completion on Neo4j Graph Database
+URL: http://arxiv.org/abs/2511.11399v1
+Published: 2025-11-14 15:27:31+00:00
+----------------------------------------
+Graph Machine Learning (GML) with Graph Databases (GDBs) has gained significant relevance in recent years, due to its ability to handle complex interconnected data and apply ML techniques using Graph Data Science (GDS). However, a critical gap exists in the current way GDB-GML applications analyze data, especially in terms of Knowledge Completion (KC) in Knowledge Graphs (KGs). In particular, current architectures ignore KC, working on datasets that appear incomplete or fragmented, despite they actually contain valuable hidden knowledge. This limitation may cause wrong interpretations when these data are used as input for GML models.
+  This paper proposes an innovative architecture that integrates a KC phase into GDB-GML applications, demonstrating how revealing hidden knowledge can heavily impact datasets' behavior and metrics. For this purpose, we introduce scalable transitive relationships, which are links that propagate information over the network and modelled by a decay function, allowing a deterministic knowledge flows across multiple nodes.
+  Experimental results demonstrate that our intuition radically reshapes both topology and overall dataset dynamics, underscoring the need for this new GDB-GML architecture to produce better models and unlock the full potential of graph-based data analysis.

@@ -1,0 +1,5 @@
+Title: Saving Foundation Flow-Matching Priors for Inverse Problems
+URL: http://arxiv.org/abs/2511.16520v1
+Published: 2025-11-20 16:35:57+00:00
+----------------------------------------
+Foundation flow-matching (FM) models promise a universal prior for solving inverse problems (IPs), yet today they trail behind domain-specific or even untrained priors. How can we unlock their potential? We introduce FMPlug, a plug-in framework that redefines how foundation FMs are used in IPs. FMPlug combines an instance-guided, time-dependent warm-start strategy with a sharp Gaussianity regularization, adding problem-specific guidance while preserving the Gaussian structures. This leads to a significant performance boost across image restoration and scientific IPs. Our results point to a path for making foundation FM models practical, reusable priors for IP solving.

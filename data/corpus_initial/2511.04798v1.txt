@@ -1,0 +1,8 @@
+Title: MDM: Manhattan Distance Mapping of DNN Weights for Parasitic-Resistance-Resilient Memristive Crossbars
+URL: http://arxiv.org/abs/2511.04798v1
+Published: 2025-11-06 20:34:10+00:00
+----------------------------------------
+Manhattan Distance Mapping (MDM) is a post-training deep neural network (DNN) weight mapping technique for memristive bit-sliced compute-in-memory (CIM) crossbars that reduces parasitic resistance (PR) nonidealities.
+  PR limits crossbar efficiency by mapping DNN matrices into small crossbar tiles, reducing CIM-based speedup. Each crossbar executes one tile, requiring digital synchronization before the next layer. At this granularity, designers either deploy many small crossbars in parallel or reuse a few sequentially-both increasing analog-to-digital conversions, latency, I/O pressure, and chip area.
+  MDM alleviates PR effects by optimizing active-memristor placement. Exploiting bit-level structured sparsity, it feeds activations from the denser low-order side and reorders rows according to the Manhattan distance, relocating active cells toward regions less affected by PR and thus lowering the nonideality factor (NF).
+  Applied to DNN models on ImageNet-1k, MDM reduces NF by up to 46% and improves accuracy under analog distortion by an average of 3.6% in ResNets. Overall, it provides a lightweight, spatially informed method for scaling CIM DNN accelerators.

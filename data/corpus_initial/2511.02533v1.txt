@@ -1,0 +1,5 @@
+Title: Rawlsian many-to-one matching with non-linear utility
+URL: http://arxiv.org/abs/2511.02533v1
+Published: 2025-11-04 12:36:55+00:00
+----------------------------------------
+We study a many-to-one matching problem, such as the college admission problem, where each college can admit multiple students. Unlike classical models, colleges evaluate sets of students through non-linear utility functions that capture diversity between them. In this setting, we show that classical stable matchings may fail to exist. To address this, we propose alternative solution concepts based on Rawlsian fairness, aiming to maximize the minimum utility across colleges. We design both deterministic and stochastic algorithms that iteratively improve the outcome of the worst-off college, offering a practical approach to fair allocation when stability cannot be guaranteed.

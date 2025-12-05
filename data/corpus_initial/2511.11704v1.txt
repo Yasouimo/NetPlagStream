@@ -1,0 +1,5 @@
+Title: Simple Vision-Language Math Reasoning via Rendered Text
+URL: http://arxiv.org/abs/2511.11704v1
+Published: 2025-11-12 15:04:44+00:00
+----------------------------------------
+We present a lightweight yet effective pipeline for training vision-language models to solve math problems by rendering LaTeX encoded equations into images and pairing them with structured chain-of-thought prompts. This simple text-to-vision augmentation enables compact multimodal architectures to achieve state-of-the-art reasoning accuracy. Through systematic ablations, we find that rendering fidelity and prompt design are the primary drivers of performance. Despite its simplicity, our approach consistently matches or surpasses both open-source and proprietary math-focused vision-language solvers on widely used benchmarks, while preserving broad general-domain competence - showing gains on tasks such as MMMU, ChartQA, and DocVQA of up to 20%.

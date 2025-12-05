@@ -1,0 +1,5 @@
+Title: A Best-of-Both-Worlds Proof for Tsallis-INF without Fenchel Conjugates
+URL: http://arxiv.org/abs/2511.11211v1
+Published: 2025-11-14 12:10:23+00:00
+----------------------------------------
+In this short note, we present a simple derivation of the best-of-both-world guarantee for the Tsallis-INF multi-armed bandit algorithm from J. Zimmert and Y. Seldin. Tsallis-INF: An optimal algorithm for stochastic and adversarial bandits. Journal of Machine Learning Research, 22(28):1-49, 2021. URL https://jmlr.csail.mit.edu/papers/volume22/19-753/19-753.pdf. In particular, the proof uses modern tools from online convex optimization and avoid the use of conjugate functions. Also, we do not optimize the constants in the bounds in favor of a slimmer proof.

@@ -1,0 +1,5 @@
+Title: Neural Field Transformations for Hybrid Monte Carlo: Architectural Design and Scaling
+URL: http://arxiv.org/abs/2511.02018v1
+Published: 2025-11-03 19:43:22+00:00
+----------------------------------------
+Critical slowing down, where autocorrelation grows rapidly near the continuum limit due to Hybrid Monte Carlo (HMC) moving through configuration space inefficiently, still challenges lattice gauge theory simulations. Combining neural field transformations with HMC (NTHMC) can reshape the energy landscape and accelerate sampling, but the choice of neural architectures has yet to be studied systematically. We evaluate NTHMC on a two-dimensional U(1) gauge theory, analyzing how it scales and transfers to larger volumes and smaller lattice spacing. Controlled comparisons let us isolate architectural contributions to sampling efficiency. Good designs can reduce autocorrelation and boost topological tunneling while maintaining favorable scaling. More broadly, our study highlights emerging design guides, such as wider receptive fields and channel-dependent activations, paving the way for systematic extensions to four-dimensional SU(3) gauge theory.

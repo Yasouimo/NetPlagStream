@@ -1,0 +1,5 @@
+Title: Feedback dynamics in Politics: The interplay between sentiment and engagement
+URL: http://arxiv.org/abs/2511.02663v1
+Published: 2025-11-04 15:41:04+00:00
+----------------------------------------
+We investigate feedback mechanisms in political communication by testing whether politicians adapt the sentiment of their messages in response to public engagement. Using over 1.5 million tweets from Members of Parliament in the United Kingdom, Spain, and Greece during 2021, we identify sentiment dynamics through a simple yet interpretable linear model. The analysis reveals a closed-loop behavior: engagement with positive and negative messages influences the sentiment of subsequent posts. Moreover, the learned coefficients highlight systematic differences across political roles: opposition members are more reactive to negative engagement, whereas government officials respond more to positive signals. These results provide a quantitative, control-oriented view of behavioral adaptation in online politics, showing how feedback principles can explain the self-reinforcing dynamics that emerge in social media discourse.

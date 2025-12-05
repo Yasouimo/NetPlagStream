@@ -1,0 +1,5 @@
+Title: Simulation-Based Fitting of Intractable Models via Sequential Sampling and Local Smoothing
+URL: http://arxiv.org/abs/2511.08180v1
+Published: 2025-11-11 12:43:18+00:00
+----------------------------------------
+This paper presents a comprehensive algorithm for fitting generative models whose likelihood, moments, and other quantities typically used for inference are not analytically or numerically tractable. The proposed method aims to provide a general solution that requires only limited prior information on the model parameters. The algorithm combines a global search phase, aimed at identifying the region of the solution, with a local search phase that mimics a trust region version of the Fisher scoring algorithm for computing a quasi-likelihood estimator. Comparisons with alternative methods demonstrate the strong performance of the proposed approach. An R package implementing the algorithm is available on CRAN.

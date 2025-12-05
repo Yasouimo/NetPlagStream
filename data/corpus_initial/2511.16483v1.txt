@@ -1,0 +1,5 @@
+Title: Large Language Model-Based Reward Design for Deep Reinforcement Learning-Driven Autonomous Cyber Defense
+URL: http://arxiv.org/abs/2511.16483v1
+Published: 2025-11-20 15:54:08+00:00
+----------------------------------------
+Designing rewards for autonomous cyber attack and defense learning agents in a complex, dynamic environment is a challenging task for subject matter experts. We propose a large language model (LLM)-based reward design approach to generate autonomous cyber defense policies in a deep reinforcement learning (DRL)-driven experimental simulation environment. Multiple attack and defense agent personas were crafted, reflecting heterogeneity in agent actions, to generate LLM-guided reward designs where the LLM was first provided with contextual cyber simulation environment information. These reward structures were then utilized within a DRL-driven attack-defense simulation environment to learn an ensemble of cyber defense policies. Our results suggest that LLM-guided reward designs can lead to effective defense strategies against diverse adversarial behaviors.

@@ -1,0 +1,5 @@
+Title: Effects of label noise on the classification of outlier observations
+URL: http://arxiv.org/abs/2511.08808v1
+Published: 2025-11-11 22:22:54+00:00
+----------------------------------------
+This study investigates the impact of adding noise to the training set classes in classification tasks using the BCOPS algorithm (Balanced and Conformal Optimized Prediction Sets), proposed by Guan & Tibshirani (2022). The BCOPS algorithm is an application of conformal prediction combined with a machine learning method to construct prediction sets such that the probability of the true class being included in the prediction set for a test observation meets a specified coverage guarantee. An observation is considered an outlier if its true class is not present in the training set. The study employs both synthetic and real datasets and conducts experiments to evaluate the prediction abstention rate for outlier observations and the model's robustness in this previously untested scenario. The results indicate that the addition of noise, even in small amounts, can have a significant effect on model performance.

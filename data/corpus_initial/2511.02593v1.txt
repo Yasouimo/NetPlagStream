@@ -1,0 +1,5 @@
+Title: A Large Language Model for Corporate Credit Scoring
+URL: http://arxiv.org/abs/2511.02593v1
+Published: 2025-11-04 14:15:39+00:00
+----------------------------------------
+We introduce Omega^2, a Large Language Model-driven framework for corporate credit scoring that combines structured financial data with advanced machine learning to improve predictive reliability and interpretability. Our study evaluates Omega^2 on a multi-agency dataset of 7,800 corporate credit ratings drawn from Moody's, Standard & Poor's, Fitch, and Egan-Jones, each containing detailed firm-level financial indicators such as leverage, profitability, and liquidity ratios. The system integrates CatBoost, LightGBM, and XGBoost models optimized through Bayesian search under temporal validation to ensure forward-looking and reproducible results. Omega^2 achieved a mean test AUC above 0.93 across agencies, confirming its ability to generalize across rating systems and maintain temporal consistency. These results show that combining language-based reasoning with quantitative learning creates a transparent and institution-grade foundation for reliable corporate credit-risk assessment.

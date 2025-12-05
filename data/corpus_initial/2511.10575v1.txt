@@ -1,0 +1,6 @@
+Title: Semi-Unified Sparse Dictionary Learning with Learnable Top-K LISTA and FISTA Encoders
+URL: http://arxiv.org/abs/2511.10575v1
+Published: 2025-11-13 18:12:34+00:00
+----------------------------------------
+We present a semi-unified sparse dictionary learning framework that bridges the gap between classical sparse models and modern deep architectures. Specifically, the method integrates strict Top-$K$ LISTA and its convex FISTA-based variant (LISTAConv) into the discriminative LC-KSVD2 model, enabling co-evolution between the sparse encoder and the dictionary under supervised or unsupervised regimes. This unified design retains the interpretability of traditional sparse coding while benefiting from efficient, differentiable training.
+  We further establish a PALM-style convergence analysis for the convex variant, ensuring theoretical stability under block alternation. Experimentally, our method achieves 95.6\% on CIFAR-10, 86.3\% on CIFAR-100, and 88.5\% on TinyImageNet with faster convergence and lower memory cost ($<$4GB GPU). The results confirm that the proposed LC-KSVD2 + LISTA/LISTAConv pipeline offers an interpretable and computationally efficient alternative for modern deep architectures.

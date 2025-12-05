@@ -1,0 +1,5 @@
+Title: Demystifying QUIC from the Specifications
+URL: http://arxiv.org/abs/2511.08375v1
+Published: 2025-11-11 15:52:43+00:00
+----------------------------------------
+QUIC is an advanced transport layer protocol whose ubiquity on the Internet is now very apparent. Importantly, QUIC fuels the next generation of web browsing: HTTP/3. QUIC is a stateful and connection oriented protocol which offers similar features (and more) to the combination of TCP and TLS. There are several difficulties which readers may encounter when learning about QUIC: i.) its rapid evolution (particularly, differentiation between the QUIC standard and the now deprecated Google QUIC), ii.) numerous RFCs whose organization, language, and detail may be challenging to the casual reader, and iii.) the nature of QUIC's cross-layer and privacy-centric implementation, making it impossible to understand or debug by looking at packets alone. For these reasons, the aim of this paper is to present QUIC in a complete yet approachable fashion, thereby demystifying the protocol from its specifications.

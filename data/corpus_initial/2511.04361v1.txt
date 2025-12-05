@@ -1,0 +1,5 @@
+Title: Causal Regime Detection in Energy Markets With Augmented Time Series Structural Causal Models
+URL: http://arxiv.org/abs/2511.04361v1
+Published: 2025-11-06 13:45:15+00:00
+----------------------------------------
+Energy markets exhibit complex causal relationships between weather patterns, generation technologies, and price formation, with regime changes occurring continuously rather than at discrete break points. Current approaches model electricity prices without explicit causal interpretation or counterfactual reasoning capabilities. We introduce Augmented Time Series Causal Models (ATSCM) for energy markets, extending counterfactual reasoning frameworks to multivariate temporal data with learned causal structure. Our approach models energy systems through interpretable factors (weather, generation mix, demand patterns), rich grid dynamics, and observable market variables. We integrate neural causal discovery to learn time-varying causal graphs without requiring ground truth DAGs. Applied to real-world electricity price data, ATSCM enables novel counterfactual queries such as "What would prices be under different renewable generation scenarios?".

@@ -1,0 +1,5 @@
+Title: Memory-Efficient Training with In-Place FFT Implementation
+URL: http://arxiv.org/abs/2511.01385v1
+Published: 2025-11-03 09:36:11+00:00
+----------------------------------------
+Fast Fourier Transforms (FFT) are widely used to reduce memory and computational costs in deep learning. However, existing implementations, including standard FFT and real FFT (rFFT), cannot achieve true in-place computation. In particular, rFFT maps an input of size n to a complex output of size n/2+1, causing dimensional mismatch and requiring additional memory allocation. We propose the first real-domain, fully in-place FFT framework (rdFFT) that preserves input-output memory space consistency. By leveraging butterfly operation symmetry and conjugate properties in the frequency domain, we design an implicit complex encoding scheme that eliminates intermediate cache usage entirely. Experiments on multiple natural language understanding tasks demonstrate the method effectiveness in reducing training memory cost, offering a promising direction for frequency-domain lightweight adaptation.

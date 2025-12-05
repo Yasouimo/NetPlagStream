@@ -1,0 +1,5 @@
+Title: Interpretable Recognition of Cognitive Distortions in Natural Language Texts
+URL: http://arxiv.org/abs/2511.05969v1
+Published: 2025-11-08 11:13:29+00:00
+----------------------------------------
+We propose a new approach to multi-factor classification of natural language texts based on weighted structured patterns such as N-grams, taking into account the heterarchical relationships between them, applied to solve such a socially impactful problem as the automation of detection of specific cognitive distortions in psychological care, relying on an interpretable, robust and transparent artificial intelligence model. The proposed recognition and learning algorithms improve the current state of the art in this field. The improvement is tested on two publicly available datasets, with significant improvements over literature-known F1 scores for the task, with optimal hyper-parameters determined, having code and models available for future use by the community.

@@ -1,0 +1,5 @@
+Title: Limit Theorems for Stochastic Gradient Descent in High-Dimensional Single-Layer Networks
+URL: http://arxiv.org/abs/2511.02258v1
+Published: 2025-11-04 04:52:19+00:00
+----------------------------------------
+This paper studies the high-dimensional scaling limits of online stochastic gradient descent (SGD) for single-layer networks. Building on the seminal work of Saad and Solla, which analyzed the deterministic (ballistic) scaling limits of SGD corresponding to the gradient flow of the population loss, we focus on the critical scaling regime of the step size. Below this critical scale, the effective dynamics are governed by ballistic (ODE) limits, but at the critical scale, new correction term appears that changes the phase diagram. In this regime, near the fixed points, the corresponding diffusive (SDE) limits of the effective dynamics reduces to an Ornstein-Uhlenbeck process under certain conditions. These results highlight how the information exponent controls sample complexity and illustrates the limitations of deterministic scaling limit in capturing the stochastic fluctuations of high-dimensional learning dynamics.

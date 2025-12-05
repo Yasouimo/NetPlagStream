@@ -1,0 +1,5 @@
+Title: Improving Unlearning with Model Updates Probably Aligned with Gradients
+URL: http://arxiv.org/abs/2511.02435v1
+Published: 2025-11-04 10:07:35+00:00
+----------------------------------------
+We formulate the machine unlearning problem as a general constrained optimization problem. It unifies the first-order methods from the approximate machine unlearning literature. This paper then introduces the concept of feasible updates as the model's parameter update directions that help with unlearning while not degrading the utility of the initial model. Our design of feasible updates is based on masking, \ie\ a careful selection of the model's parameters worth updating. It also takes into account the estimation noise of the gradients when processing each batch of data to offer a statistical guarantee to derive locally feasible updates. The technique can be plugged in, as an add-on, to any first-order approximate unlearning methods. Experiments with computer vision classifiers validate this approach.

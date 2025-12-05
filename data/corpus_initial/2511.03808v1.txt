@@ -1,0 +1,5 @@
+Title: Optimizing Reasoning Efficiency through Prompt Difficulty Prediction
+URL: http://arxiv.org/abs/2511.03808v1
+Published: 2025-11-05 19:14:53+00:00
+----------------------------------------
+Reasoning language models perform well on complex tasks but are costly to deploy due to their size and long reasoning traces. We propose a routing approach that assigns each problem to the smallest model likely to solve it, reducing compute without sacrificing accuracy. Using intermediate representations from s1.1-32B, we train lightweight predictors of problem difficulty or model correctness to guide routing across a pool of reasoning models. On diverse math benchmarks, routing improves efficiency over random assignment and matches s1.1-32B's performance while using significantly less compute. Our results demonstrate that difficulty-aware routing is effective for cost-efficient deployment of reasoning models.

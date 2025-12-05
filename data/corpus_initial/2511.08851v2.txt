@@ -1,0 +1,5 @@
+Title: Learning-based Radio Link Failure Prediction Based on Measurement Dataset in Railway Environments
+URL: http://arxiv.org/abs/2511.08851v2
+Published: 2025-11-12 00:13:37+00:00
+----------------------------------------
+In this paper, a measurement-driven framework is proposed for early radio link failure (RLF) prediction in 5G non-standalone (NSA) railway environments. Using 10 Hz metro-train traces with serving and neighbor-cell indicators, we benchmark six models, namely CNN, LSTM, XGBoost, Anomaly Transformer, PatchTST, and TimesNet, under varied observation windows and prediction horizons. When the observation window is three seconds, TimesNet attains the highest F1 score with a three-second prediction horizon, while CNN provides a favorable accuracy-latency tradeoff with a two-second horizon, enabling proactive actions such as redundancy and adaptive handovers. The results indicate that deep temporal models can anticipate reliability degradations several seconds in advance using lightweight features available on commercial devices, offering a practical path to early-warning control in 5G-based railway systems.

@@ -1,0 +1,18 @@
+Title: Rate-optimal community detection near the KS threshold via node-robust algorithms
+URL: http://arxiv.org/abs/2511.16613v1
+Published: 2025-11-20 18:11:01+00:00
+----------------------------------------
+We study community detection in the \emph{symmetric $k$-stochastic block model}, where $n$ nodes are evenly partitioned into $k$ clusters with intra- and inter-cluster connection probabilities $p$ and $q$, respectively.
+  Our main result is a polynomial-time algorithm that achieves the minimax-optimal misclassification rate
+  \begin{equation*}
+  \exp \Bigl(-\bigl(1 \pm o(1)\bigr) \tfrac{C}{k}\Bigr),
+  \quad \text{where } C = (\sqrt{pn} - \sqrt{qn})^2,
+  \end{equation*}
+  whenever $C \ge K\,k^2\,\log k$ for some universal constant $K$, matching the Kesten--Stigum (KS) threshold up to a $\log k$ factor.
+  Notably, this rate holds even when an adversary corrupts an $η\le \exp\bigl(- (1 \pm o(1)) \tfrac{C}{k}\bigr)$ fraction of the nodes.
+  To the best of our knowledge, the minimax rate was previously only attainable either via computationally inefficient procedures [ZZ15] or via polynomial-time algorithms that require strictly stronger assumptions such as $C \ge K k^3$ [GMZZ17].
+  In the node-robust setting, the best known algorithm requires the substantially stronger condition $C \ge K k^{102}$ [LM22].
+  Our results close this gap by providing the first polynomial-time algorithm that achieves the minimax rate near the KS threshold in both settings.
+  Our work has two key technical contributions:
+  (1) we robustify majority voting via the Sum-of-Squares framework,
+  (2) we develop a novel graph bisection algorithm via robust majority voting, which allows us to significantly improve the misclassification rate to $1/\mathrm{poly}(k)$ for the initial estimation near the KS threshold.

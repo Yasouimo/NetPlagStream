@@ -1,0 +1,5 @@
+Title: Topological Dynamics via Learned Hybrid Systems
+URL: http://arxiv.org/abs/2511.08737v1
+Published: 2025-11-11 19:50:53+00:00
+----------------------------------------
+The analysis of global dynamics, particularly the identification and characterization of attractors and their regions of attraction, is essential for complex nonlinear and hybrid systems. Combinatorial methods based on Conley's index theory have provided a rigorous framework for this analysis. However, the computation relies on rigorous outer approximations of the dynamics over a discretized state space, which is challenging to obtain from scattered trajectory data. We propose a methodology that integrates recent advances in switching system identification via convex optimization to bridge this gap between data and topological analysis. We leverage the identified switching system to construct combinatorial outer approximations. This paper outlines the integration of these methods and evaluates the efficacy of computing Morse graphs versus data-driven and statistical approaches.

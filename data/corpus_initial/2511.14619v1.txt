@@ -1,0 +1,5 @@
+Title: Expert-Guided POMDP Learning for Data-Efficient Modeling in Healthcare
+URL: http://arxiv.org/abs/2511.14619v1
+Published: 2025-11-18 16:12:44+00:00
+----------------------------------------
+Learning the parameters of Partially Observable Markov Decision Processes (POMDPs) from limited data is a significant challenge. We introduce the Fuzzy MAP EM algorithm, a novel approach that incorporates expert knowledge into the parameter estimation process by enriching the Expectation Maximization (EM) framework with fuzzy pseudo-counts derived from an expert-defined fuzzy model. This integration naturally reformulates the problem as a Maximum A Posteriori (MAP) estimation, effectively guiding learning in environments with limited data. In synthetic medical simulations, our method consistently outperforms the standard EM algorithm under both low-data and high-noise conditions. Furthermore, a case study on Myasthenia Gravis illustrates the ability of the Fuzzy MAP EM algorithm to recover a clinically coherent POMDP, demonstrating its potential as a practical tool for data-efficient modeling in healthcare.

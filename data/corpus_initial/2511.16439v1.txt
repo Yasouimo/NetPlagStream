@@ -1,0 +1,5 @@
+Title: Black-Box Uncertainty Estimation for Deep Learning Models in Atomistic Simulations
+URL: http://arxiv.org/abs/2511.16439v1
+Published: 2025-11-20 15:08:02+00:00
+----------------------------------------
+We analyze an ensemble-based approach for uncertainty quantification (UQ) in atomistic neural networks. This method generates an epistemic uncertainty signal without requiring changes to the underlying multi-headed regression neural network architecture, making it suitable for sealed or black-box models. We apply this method to molecular systems, specifically sodium (Na) and aluminum (Al), under various temperature conditions. By scaling the uncertainty signal, we account for heteroscedasticity in the data. We demonstrate the robustness of the scaled UQ signal for detecting out-of-distribution (OOD) behavior in several scenarios. This UQ signal also correlates with model convergence during training, providing an additional tool for optimizing the training process.

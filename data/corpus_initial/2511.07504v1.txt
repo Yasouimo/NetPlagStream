@@ -1,0 +1,5 @@
+Title: Tractable Instances of Bilinear Maximization: Implementing LinUCB on Ellipsoids
+URL: http://arxiv.org/abs/2511.07504v1
+Published: 2025-11-10 17:22:34+00:00
+----------------------------------------
+We consider the maximization of $x^\top θ$ over $(x,θ) \in \mathcal{X} \times Θ$, with $\mathcal{X} \subset \mathbb{R}^d$ convex and $Θ\subset \mathbb{R}^d$ an ellipsoid. This problem is fundamental in linear bandits, as the learner must solve it at every time step using optimistic algorithms. We first show that for some sets $\mathcal{X}$ e.g. $\ell_p$ balls with $p>2$, no efficient algorithms exist unless $\mathcal{P} = \mathcal{NP}$. We then provide two novel algorithms solving this problem efficiently when $\mathcal{X}$ is a centered ellipsoid. Our findings provide the first known method to implement optimistic algorithms for linear bandits in high dimensions.

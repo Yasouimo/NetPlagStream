@@ -1,0 +1,5 @@
+Title: Window-Based Feature Engineering for Cognitive Workload Detection
+URL: http://arxiv.org/abs/2511.01060v1
+Published: 2025-11-02 19:46:10+00:00
+----------------------------------------
+Cognitive workload is a topic of increasing interest across various fields such as health, psychology, and defense applications. In this research, we focus on classifying cognitive workload using the COLET dataset, employing a window-based approach for feature generation and machine/deep learning techniques for classification. We apply window-based temporal partitioning to enhance features used in existing research, followed by machine learning and deep learning models to classify different levels of cognitive workload. The results demonstrate that deep learning models, particularly tabular architectures, outperformed traditional machine learning methods in precision, F1-score, accuracy, and classification precision. This study highlights the effectiveness of window-based temporal feature extraction and the potential of deep learning techniques for real-time cognitive workload assessment in complex and dynamic tasks.

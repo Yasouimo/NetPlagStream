@@ -1,0 +1,5 @@
+Title: Generative Machine Learning Models for the Deconvolution of Charge Carrier Dynamics in Organic Photovoltaic Cells
+URL: http://arxiv.org/abs/2511.01118v1
+Published: 2025-11-02 23:32:05+00:00
+----------------------------------------
+Charge carrier dynamics critically affect the efficiency and stability of organic photovoltaic devices, but they are challenging to model with traditional analytical methods. We introduce \b{eta}-Linearly Decoded Latent Ordinary Differential Equations (\b{eta}-LLODE), a machine learning framework that disentangles and reconstructs extraction dynamics from time-resolved charge extraction measurements of P3HT:PCBM cells. This model enables the isolated analysis of the underlying charge carrier behaviour, which was found to be well described by a compressed exponential decay. Furthermore, the learnt interpretable latent space enables simulation, including both interpolation and extrapolation of experimental measurement conditions, offering a predictive tool for solar cell research to support device study and optimisation.

@@ -1,0 +1,5 @@
+Title: Information Efficiency of Scientific Automation
+URL: http://arxiv.org/abs/2511.15671v1
+Published: 2025-11-19 18:11:02+00:00
+----------------------------------------
+Scientific discovery can be framed as a thermodynamic process in which an agent invests physical work to acquire information about an environment under a finite work budget. Using established results about the thermodynamics of computing, we derive finite-budget bounds on information gain over rounds of sequential Bayesian learning. We also propose a metric of information-work efficiency, and compare unpartitioned and federated learning strategies under matched work budgets. The presented results offer guidance in the form of bounds and an information efficiency metric for efforts in scientific automation at large.

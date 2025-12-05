@@ -1,0 +1,5 @@
+Title: On consistency conditions for strong SRRT inflation in two-field cosmological models
+URL: http://arxiv.org/abs/2511.06013v1
+Published: 2025-11-08 13:51:32+00:00
+----------------------------------------
+We discuss the strong version of the consistency conditions for SRRT inflation in general two-field cosmological models. In the fiducial case, this condition is a geometric PDE which relates the scalar field metric and scalar potential of such models. When supplemented by appropriate boundary conditions, this equation determines the scalar field metric in terms of the scalar potential or the other way around, thereby selecting "fiducial" models for strong SRRT inflation. When the scalar potential is given, the equation can be simplified by fixing the conformal class of the scalar field metric, in which case it locally becomes an equation for the conformal factor of that metric when written in isothermal coordinates. We analyze this equation with standard methods of PDE theory, discuss its quasilinearization near a non-degenerate critical point of the scalar potential and extract natural asymptotic conditions for its solutions near such points.

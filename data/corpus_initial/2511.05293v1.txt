@@ -1,0 +1,5 @@
+Title: Cross-domain EEG-based Emotion Recognition with Contrastive Learning
+URL: http://arxiv.org/abs/2511.05293v1
+Published: 2025-11-07 14:55:10+00:00
+----------------------------------------
+Electroencephalogram (EEG)-based emotion recognition is vital for affective computing but faces challenges in feature utilization and cross-domain generalization. This work introduces EmotionCLIP, which reformulates recognition as an EEG-text matching task within the CLIP framework. A tailored backbone, SST-LegoViT, captures spatial, spectral, and temporal features using multi-scale convolution and Transformer modules. Experiments on SEED and SEED-IV datasets show superior cross-subject accuracies of 88.69% and 73.50%, and cross-time accuracies of 88.46% and 77.54%, outperforming existing models. Results demonstrate the effectiveness of multimodal contrastive learning for robust EEG emotion recognition.

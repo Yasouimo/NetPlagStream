@@ -1,0 +1,5 @@
+Title: QASER: Breaking the Depth vs. Accuracy Trade-Off for Quantum Architecture Search
+URL: http://arxiv.org/abs/2511.16272v1
+Published: 2025-11-20 11:53:38+00:00
+----------------------------------------
+Quantum computing faces a key challenge: balancing the need for low circuit depth (crucial for fault tolerance) with the high accuracy required for complex computations like quantum chemistry and error correction, which typically require deeper circuits. We overcome this trade-off by introducing a novel reinforcement learning approach featuring engineered reward functions, called \textbf{QASER}, that take into account seemingly contradictory optimization goals. This reward enables the compilation of circuits with lower depth and higher accuracy, significantly outperforming state-of-the-art techniques. Benchmarks on quantum chemistry state preparation circuits demonstrate stable compilations. We achieve up to 50\% improved accuracy, while reducing 2-qubit gate counts and depths by 20\%. This advancement enables more efficient and reliable quantum compilation.

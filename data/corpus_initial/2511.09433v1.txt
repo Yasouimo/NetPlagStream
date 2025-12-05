@@ -1,0 +1,5 @@
+Title: What We Don't C: Representations for scientific discovery beyond VAEs
+URL: http://arxiv.org/abs/2511.09433v1
+Published: 2025-11-12 15:48:50+00:00
+----------------------------------------
+Accessing information in learned representations is critical for scientific discovery in high-dimensional domains. We introduce a novel method based on latent flow matching with classifier-free guidance that disentangles latent subspaces by explicitly separating information included in conditioning from information that remains in the residual representation. Across three experiments -- a synthetic 2D Gaussian toy problem, colored MNIST, and the Galaxy10 astronomy dataset -- we show that our method enables access to meaningful features of high dimensional data. Our results highlight a simple yet powerful mechanism for analyzing, controlling, and repurposing latent representations, providing a pathway toward using generative models for scientific exploration of what we don't capture, consider, or catalog.

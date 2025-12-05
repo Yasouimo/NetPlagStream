@@ -1,0 +1,5 @@
+Title: Learning Paths for Dynamic Measure Transport: A Control Perspective
+URL: http://arxiv.org/abs/2511.03797v1
+Published: 2025-11-05 19:02:23+00:00
+----------------------------------------
+We bring a control perspective to the problem of identifying paths of measures for sampling via dynamic measure transport (DMT). We highlight the fact that commonly used paths may be poor choices for DMT and connect existing methods for learning alternate paths to mean-field games. Based on these connections we pose a flexible family of optimization problems for identifying tilted paths of measures for DMT and advocate for the use of objective terms which encourage smoothness of the corresponding velocities. We present a numerical algorithm for solving these problems based on recent Gaussian process methods for solution of partial differential equations and demonstrate the ability of our method to recover more efficient and smooth transport models compared to those which use an untilted reference path.

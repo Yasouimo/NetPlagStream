@@ -1,0 +1,5 @@
+Title: Context informs pragmatic interpretation in vision-language models
+URL: http://arxiv.org/abs/2511.03908v1
+Published: 2025-11-05 23:14:59+00:00
+----------------------------------------
+Iterated reference games - in which players repeatedly pick out novel referents using language - present a test case for agents' ability to perform context-sensitive pragmatic reasoning in multi-turn linguistic environments. We tested humans and vision-language models on trials from iterated reference games, varying the given context in terms of amount, order, and relevance. Without relevant context, models were above chance but substantially worse than humans. However, with relevant context, model performance increased dramatically over trials. Few-shot reference games with abstract referents remain a difficult task for machine learning models.

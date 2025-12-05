@@ -1,0 +1,5 @@
+Title: Nonasymptotic Convergence Rates for Plug-and-Play Methods With MMSE Denoisers
+URL: http://arxiv.org/abs/2510.27211v3
+Published: 2025-10-31 06:12:49+00:00
+----------------------------------------
+It is known that the minimum-mean-squared-error (MMSE) denoiser under Gaussian noise can be written as a proximal operator, which suffices for asymptotic convergence of plug-and-play (PnP) methods but does not reveal the structure of the induced regularizer or give convergence rates. We show that the MMSE denoiser corresponds to a regularizer that can be written explicitly as an upper Moreau envelope of the negative log-marginal density, which in turn implies that the regularizer is 1-weakly convex. Using this property, we derive (to the best of our knowledge) the first sublinear convergence guarantee for PnP proximal gradient descent with an MMSE denoiser. We validate the theory with a one-dimensional synthetic study that recovers the implicit regularizer. We also validate the theory with imaging experiments (deblurring and computed tomography), which exhibit the predicted sublinear behavior.

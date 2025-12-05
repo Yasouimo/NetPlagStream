@@ -1,0 +1,5 @@
+Title: A Computational Method for Solving the Stochastic Joint Replenishment Problem in High Dimensions
+URL: http://arxiv.org/abs/2511.11830v1
+Published: 2025-11-14 19:45:23+00:00
+----------------------------------------
+We consider a discrete-time formulation for a class of high-dimensional stochastic joint replenishment problems. First, we approximate the problem by a continuous-time impulse control problem. Exploiting connections among the impulse control problem, backward stochastic differential equations (BSDEs) with jumps, and the stochastic target problem, we develop a novel, simulation-based computational method that relies on deep neural networks to solve the impulse control problem. Based on that solution, we propose an implementable inventory control policy for the original (discrete-time) stochastic joint replenishment problem, and test it against the best available benchmarks in a series of test problems. For the problems studied thus far, our method matches or beats the best benchmark we could find, and it is computationally feasible up to at least 50 dimensions -- that is, 50 stock-keeping units (SKUs).

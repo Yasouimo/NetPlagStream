@@ -1,0 +1,5 @@
+Title: A Multi-Agent Psychological Simulation System for Human Behavior Modeling
+URL: http://arxiv.org/abs/2511.02606v1
+Published: 2025-11-04 14:28:03+00:00
+----------------------------------------
+Training and education in human-centered fields require authentic practice, yet realistic simulations of human behavior have remained limited. We present a multi-agent psychological simulation system that models internal cognitive-affective processes to generate believable human behaviors. In contrast to black-box neural models, this system is grounded in established psychological theories (e.g., self-efficacy, mindset, social constructivism) and explicitly simulates an ``inner parliament'' of agents corresponding to key psychological factors. These agents deliberate and interact to determine the system's output behavior, enabling unprecedented transparency and alignment with human psychology. We describe the system's architecture and theoretical foundations, illustrate its use in teacher training and research, and discuss how it embodies principles of social learning, cognitive apprenticeship, deliberate practice, and meta-cognition.

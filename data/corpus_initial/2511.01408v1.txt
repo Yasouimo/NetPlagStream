@@ -1,0 +1,5 @@
+Title: Leveraging Compact Satellite Embeddings and Graph Neural Networks for Large-Scale Poverty Mapping
+URL: http://arxiv.org/abs/2511.01408v1
+Published: 2025-11-03 10:00:31+00:00
+----------------------------------------
+Accurate, fine-grained poverty maps remain scarce across much of the Global South. While Demographic and Health Surveys (DHS) provide high-quality socioeconomic data, their spatial coverage is limited and reported coordinates are randomly displaced for privacy, further reducing their quality. We propose a graph-based approach leveraging low-dimensional AlphaEarth satellite embeddings to predict cluster-level wealth indices across Sub-Saharan Africa. By modeling spatial relations between surveyed and unlabeled locations, and by introducing a probabilistic "fuzzy label" loss to account for coordinate displacement, we improve the generalization of wealth predictions beyond existing surveys. Our experiments on 37 DHS datasets (2017-2023) show that incorporating graph structure slightly improves accuracy compared to "image-only" baselines, demonstrating the potential of compact EO embeddings for large-scale socioeconomic mapping.

@@ -1,0 +1,5 @@
+Title: A Spatially Informed Gaussian Process UCB Method for Decentralized Coverage Control
+URL: http://arxiv.org/abs/2511.02398v1
+Published: 2025-11-04 09:23:19+00:00
+----------------------------------------
+We present a novel decentralized algorithm for coverage control in unknown spatial environments modeled by Gaussian Processes (GPs). To trade-off between exploration and exploitation, each agent autonomously determines its trajectory by minimizing a local cost function. Inspired by the GP-UCB (Upper Confidence Bound for GPs) acquisition function, the proposed cost combines the expected locational cost with a variance-based exploration term, guiding agents toward regions that are both high in predicted density and model uncertainty. Compared to previous work, our algorithm operates in a fully decentralized fashion, relying only on local observations and communication with neighboring agents. In particular, agents periodically update their inducing points using a greedy selection strategy, enabling scalable online GP updates. We demonstrate the effectiveness of our algorithm in simulation.

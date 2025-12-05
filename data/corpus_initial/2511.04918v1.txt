@@ -1,0 +1,5 @@
+Title: Machine Learning Algorithms in Statistical Modelling Bridging Theory and Application
+URL: http://arxiv.org/abs/2511.04918v1
+Published: 2025-11-07 01:47:07+00:00
+----------------------------------------
+It involves the completely novel ways of integrating ML algorithms with traditional statistical modelling that has changed the way we analyze data, do predictive analytics or make decisions in the fields of the data. In this paper, we study some ML and statistical model connections to understand ways in which some modern ML algorithms help 'enrich' conventional models; we demonstrate how new algorithms improve performance, scale, flexibility and robustness of the traditional models. It shows that the hybrid models are of great improvement in predictive accuracy, robustness, and interpretability

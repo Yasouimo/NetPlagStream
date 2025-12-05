@@ -1,0 +1,5 @@
+Title: Splat Regression Models
+URL: http://arxiv.org/abs/2511.14042v1
+Published: 2025-11-18 01:49:33+00:00
+----------------------------------------
+We introduce a highly expressive class of function approximators called Splat Regression Models. Model outputs are mixtures of heterogeneous and anisotropic bump functions, termed splats, each weighted by an output vector. The power of splat modeling lies in its ability to locally adjust the scale and direction of each splat, achieving both high interpretability and accuracy. Fitting splat models reduces to optimization over the space of mixing measures, which can be implemented using Wasserstein-Fisher-Rao gradient flows. As a byproduct, we recover the popular Gaussian Splatting methodology as a special case, providing a unified theoretical framework for this state-of-the-art technique that clearly disambiguates the inverse problem, the model, and the optimization algorithm. Through numerical experiments, we demonstrate that the resulting models and algorithms constitute a flexible and promising approach for solving diverse approximation, estimation, and inverse problems involving low-dimensional data.

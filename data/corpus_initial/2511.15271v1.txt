@@ -1,0 +1,5 @@
+Title: Graph Query Networks for Object Detection with Automotive Radar
+URL: http://arxiv.org/abs/2511.15271v1
+Published: 2025-11-19 09:36:49+00:00
+----------------------------------------
+Object detection with 3D radar is essential for 360-degree automotive perception, but radar's long wavelengths produce sparse and irregular reflections that challenge traditional grid and sequence-based convolutional and transformer detectors. This paper introduces Graph Query Networks (GQN), an attention-based framework that models objects sensed by radar as graphs, to extract individualized relational and contextual features. GQN employs a novel concept of graph queries to dynamically attend over the bird's-eye view (BEV) space, constructing object-specific graphs processed by two novel modules: EdgeFocus for relational reasoning and DeepContext Pooling for contextual aggregation. On the NuScenes dataset, GQN improves relative mAP by up to +53%, including a +8.2% gain over the strongest prior radar method, while reducing peak graph construction overhead by 80% with moderate FLOPs cost.

@@ -1,0 +1,5 @@
+Title: Android Malware Detection: A Machine Leaning Approach
+URL: http://arxiv.org/abs/2511.00894v1
+Published: 2025-11-02 11:26:31+00:00
+----------------------------------------
+This study examines machine learning techniques like Decision Trees, Support Vector Machines, Logistic Regression, Neural Networks, and ensemble methods to detect Android malware. The study evaluates these models on a dataset of Android applications and analyzes their accuracy, efficiency, and real-world applicability. Key findings show that ensemble methods demonstrate superior performance, but there are trade-offs between model interpretability, efficiency, and accuracy. Given its increasing threat, the insights guide future research and practical use of ML to combat Android malware.

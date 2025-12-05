@@ -1,0 +1,5 @@
+Title: Automata-Based Steering of Large Language Models for Diverse Structured Generation
+URL: http://arxiv.org/abs/2511.11018v1
+Published: 2025-11-14 07:10:23+00:00
+----------------------------------------
+Large language models (LLMs) are increasingly tasked with generating structured outputs. While structured generation methods ensure validity, they often lack output diversity, a critical limitation that we confirm in our preliminary study. We propose a novel method to enhance diversity in automaton-based structured generation. Our approach utilizes automata traversal history to steer LLMs towards novel structural patterns. Evaluations show our method significantly improves structural and content diversity while maintaining comparable generation efficiency. Furthermore, we conduct a case study showcasing the effectiveness of our method in generating diverse test cases for testing open-source libraries.

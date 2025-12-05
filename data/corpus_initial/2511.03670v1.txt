@@ -1,0 +1,5 @@
+Title: DQN Performance with Epsilon Greedy Policies and Prioritized Experience Replay
+URL: http://arxiv.org/abs/2511.03670v1
+Published: 2025-11-05 17:36:30+00:00
+----------------------------------------
+We present a detailed study of Deep Q-Networks in finite environments, emphasizing the impact of epsilon-greedy exploration schedules and prioritized experience replay. Through systematic experimentation, we evaluate how variations in epsilon decay schedules affect learning efficiency, convergence behavior, and reward optimization. We investigate how prioritized experience replay leads to faster convergence and higher returns and show empirical results comparing uniform, no replay, and prioritized strategies across multiple simulations. Our findings illuminate the trade-offs and interactions between exploration strategies and memory management in DQN training, offering practical recommendations for robust reinforcement learning in resource-constrained settings.

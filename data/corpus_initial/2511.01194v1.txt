@@ -1,0 +1,5 @@
+Title: A Topology-Aware Graph Convolutional Network for Human Pose Similarity and Action Quality Assessment
+URL: http://arxiv.org/abs/2511.01194v1
+Published: 2025-11-03 03:38:24+00:00
+----------------------------------------
+Action Quality Assessment (AQA) requires fine-grained understanding of human motion and precise evaluation of pose similarity. This paper proposes a topology-aware Graph Convolutional Network (GCN) framework, termed GCN-PSN, which models the human skeleton as a graph to learn discriminative, topology-sensitive pose embeddings. Using a Siamese architecture trained with a contrastive regression objective, our method outperforms coordinate-based baselines and achieves competitive performance on AQA-7 and FineDiving benchmarks. Experimental results and ablation studies validate the effectiveness of leveraging skeletal topology for pose similarity and action quality assessment.

@@ -1,0 +1,5 @@
+Title: Accelerating Automatic Differentiation of Direct Form Digital Filters
+URL: http://arxiv.org/abs/2511.14390v1
+Published: 2025-11-18 11:51:01+00:00
+----------------------------------------
+We introduce a general formulation for automatic differentiation through direct form filters, yielding a closed-form backpropagation that includes initial condition gradients. The result is a single expression that can represent both the filter and its gradients computation while supporting parallelism. C++/CUDA implementations in PyTorch achieve at least 1000x speedup over naive Python implementations and consistently run fastest on the GPU. For the low-order filters commonly used in practice, exact time-domain filtering with analytical gradients outperforms the frequency-domain method in terms of speed. The source code is available at https://github.com/yoyolicoris/philtorch.

@@ -1,0 +1,5 @@
+Title: Data-Driven Parameter Identification for Tumor Growth Models
+URL: http://arxiv.org/abs/2511.15940v1
+Published: 2025-11-20 00:11:32+00:00
+----------------------------------------
+Modeling tumor growth accurately is essential for understanding cancer progression and informing treatment strategies. To estimate the parameters in the tumor growth model described by a nonlinear PDE, we adopt Physics-Informed Neural Networks (PINNs), which show advantages especially when the observation data is scarce and contains noise. With the help of real-life lab data, we have demonstrated the potential of applying deep learning tools to address data-driven modeling for tumor growth in biology.

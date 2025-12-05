@@ -1,0 +1,5 @@
+Title: On polynomial explicit partial estimator design for nonlinear systems with parametric uncertainties
+URL: http://arxiv.org/abs/2511.01638v1
+Published: 2025-11-03 14:48:30+00:00
+----------------------------------------
+This paper investigates the idea of designing data-driven partial estimators for nonlinear systems showing parametric uncertainties using sparse multivariate polynomial relationships. A general framework is first presented and then validated on two illustrative examples with comparison to different possible Machine/Deep-Learning based alternatives. The results suggests the superiority of the proposed sparse identification scheme, at least when the learning data is small.

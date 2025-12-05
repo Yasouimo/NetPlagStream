@@ -1,0 +1,5 @@
+Title: TabRAG: Tabular Document Retrieval via Structured Language Representations
+URL: http://arxiv.org/abs/2511.06582v1
+Published: 2025-11-10 00:05:58+00:00
+----------------------------------------
+Ingesting data for Retrieval-Augmented Generation (RAG) involves either fine-tuning the embedding model directly on the target corpus or parsing documents for embedding model encoding. The former, while accurate, incurs high computational hardware requirements, while the latter suffers from suboptimal performance when extracting tabular data. In this work, we address the latter by presenting TabRAG, a parsing-based RAG pipeline designed to tackle table-heavy documents via structured language representations. TabRAG outperforms existing popular parsing-based methods for generation and retrieval. Code is available at https://github.com/jacobyhsi/TabRAG.

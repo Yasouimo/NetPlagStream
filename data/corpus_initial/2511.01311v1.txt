@@ -1,0 +1,5 @@
+Title: llmSHAP: A Principled Approach to LLM Explainability
+URL: http://arxiv.org/abs/2511.01311v1
+Published: 2025-11-03 07:54:47+00:00
+----------------------------------------
+Feature attribution methods help make machine learning-based inference explainable by determining how much one or several features have contributed to a model's output. A particularly popular attribution method is based on the Shapley value from cooperative game theory, a measure that guarantees the satisfaction of several desirable principles, assuming deterministic inference. We apply the Shapley value to feature attribution in large language model (LLM)-based decision support systems, where inference is, by design, stochastic (non-deterministic). We then demonstrate when we can and cannot guarantee Shapley value principle satisfaction across different implementation variants applied to LLM-based decision support, and analyze how the stochastic nature of LLMs affects these guarantees. We also highlight trade-offs between explainable inference speed, agreement with exact Shapley value attributions, and principle attainment.

@@ -1,0 +1,5 @@
+Title: LinkedIn Profile Characteristics and Professional Success Indicators
+URL: http://arxiv.org/abs/2511.12905v1
+Published: 2025-11-17 02:54:12+00:00
+----------------------------------------
+This study explores the relationship between LinkedIn profile characteristics and professional success, focusing on the indicators of promotions, follower count, and career progression rate. By leveraging a dataset of over 62,000 anonymized LinkedIn profiles, we developed predictive models using machine learning techniques to identify the most influential factors driving professional success. Results indicate that while promotions are highly predictable, follower growth exhibits greater complexity. This research provides actionable insights for professionals seeking to optimize their LinkedIn presence and career strategies.

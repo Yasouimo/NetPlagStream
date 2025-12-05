@@ -1,0 +1,5 @@
+Title: Efficient RF Passive Components Modeling with Bayesian Online Learning and Uncertainty Aware Sampling
+URL: http://arxiv.org/abs/2511.15125v1
+Published: 2025-11-19 05:04:09+00:00
+----------------------------------------
+Conventional radio frequency (RF) passive components modeling based on machine learning requires extensive electromagnetic (EM) simulations to cover geometric and frequency design spaces, creating computational bottlenecks. In this paper, we introduce an uncertainty-aware Bayesian online learning framework for efficient parametric modeling of RF passive components, which includes: 1) a Bayesian neural network with reconfigurable heads for joint geometric-frequency domain modeling while quantifying uncertainty; 2) an adaptive sampling strategy that simultaneously optimizes training data sampling across geometric parameters and frequency domain using uncertainty guidance. Validated on three RF passive components, the framework achieves accurate modeling while using only 2.86% EM simulation time compared to traditional ML-based flow, achieving a 35 times speedup.

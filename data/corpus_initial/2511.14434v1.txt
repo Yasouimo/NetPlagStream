@@ -1,0 +1,5 @@
+Title: Achieving Safe Control Online through Integration of Harmonic Control Lyapunov-Barrier Functions with Unsafe Object-Centric Action Policies
+URL: http://arxiv.org/abs/2511.14434v1
+Published: 2025-11-18 12:34:48+00:00
+----------------------------------------
+We propose a method for combining Harmonic Control Lyapunov-Barrier Functions (HCLBFs) derived from Signal Temporal Logic (STL) specifications with any given robot policy to turn an unsafe policy into a safe one with formal guarantees.  The two components are combined via HCLBF-derived safety certificates, thus producing commands that preserve both safety and task-driven behavior.  We demonstrate with a simple proof-of-concept implementation for an object-centric force-based policy trained through reinforcement learning for a movement task of a stationary robot arm that is able to avoid colliding with obstacles on a table top after combining the policy with the safety constraints.  The proposed method can be generalized to more complex specifications and dynamic task settings.

@@ -1,0 +1,5 @@
+Title: TOPSIS-like metaheuristic for LABS problem
+URL: http://arxiv.org/abs/2511.05778v1
+Published: 2025-11-08 00:47:37+00:00
+----------------------------------------
+This paper presents the application of socio-cognitive mutation operators inspired by the TOPSIS method to the Low Autocorrelation Binary Sequence (LABS) problem. Traditional evolutionary algorithms, while effective, often suffer from premature convergence and poor exploration-exploitation balance. To address these challenges, we introduce socio-cognitive mutation mechanisms that integrate strategies of following the best solutions and avoiding the worst. By guiding search agents to imitate high-performing solutions and avoid poor ones, these operators enhance both solution diversity and convergence efficiency. Experimental results demonstrate that TOPSIS-inspired mutation outperforms the base algorithm in optimizing LABS sequences. The study highlights the potential of socio-cognitive learning principles in evolutionary computation and suggests directions for further refinement.

@@ -1,0 +1,5 @@
+Title: Towards Formalizing Reinforcement Learning Theory
+URL: http://arxiv.org/abs/2511.03618v1
+Published: 2025-11-05 16:35:47+00:00
+----------------------------------------
+In this paper, we formalize the almost sure convergence of $Q$-learning and linear temporal difference (TD) learning with Markovian samples using the Lean 4 theorem prover based on the Mathlib library. $Q$-learning and linear TD are among the earliest and most influential reinforcement learning (RL) algorithms. The investigation of their convergence properties is not only a major research topic during the early development of the RL field but also receives increasing attention nowadays. This paper formally verifies their almost sure convergence in a unified framework based on the Robbins-Siegmund theorem. The framework developed in this work can be easily extended to convergence rates and other modes of convergence. This work thus makes an important step towards fully formalizing convergent RL results. The code is available at https://github.com/ShangtongZhang/rl-theory-in-lean.

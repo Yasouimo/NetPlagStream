@@ -1,0 +1,5 @@
+Title: Prospects for Measuring the Higgs Boson Decay to $WW^{*}$ in Fully Hadronic Final States at the ILC Using Multivariate Techniques
+URL: http://arxiv.org/abs/2511.01007v1
+Published: 2025-11-02 16:55:08+00:00
+----------------------------------------
+In this paper, the statistical potential of the measurement of Higgs to $WW^{*}$ decay at the International Linear Collider (ILC) is presented. The Higgs boson with a mass of 125 GeV is produced through the Higgsstrahlung production channel. The study is conducted at two center-of-mass energies, 250 and 500 GeV. The fully hadronic final state is analyzed. The analysis is performed on Monte Carlo data samples obtained using detailed ILD detector simulation, assuming an integrated luminosity of 500 fb$^{-1}$ and maximal beam polarization of both beams, $P(e^{+}e^{-}) = (+0.3, -0.8)$. The background from $γγ\to$ hadron processes is overlaid on each event. Analyses are performed using machine learning. The obtained relative statistical uncertainties of the measurement are 4.1% and 6.5% at 250 and 500 GeV, respectively.

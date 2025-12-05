@@ -1,0 +1,5 @@
+Title: Automated Reward Design for Gran Turismo
+URL: http://arxiv.org/abs/2511.02094v1
+Published: 2025-11-03 22:07:53+00:00
+----------------------------------------
+When designing reinforcement learning (RL) agents, a designer communicates the desired agent behavior through the definition of reward functions - numerical feedback given to the agent as reward or punishment for its actions. However, mapping desired behaviors to reward functions can be a difficult process, especially in complex environments such as autonomous racing. In this paper, we demonstrate how current foundation models can effectively search over a space of reward functions to produce desirable RL agents for the Gran Turismo 7 racing game, given only text-based instructions. Through a combination of LLM-based reward generation, VLM preference-based evaluation, and human feedback we demonstrate how our system can be used to produce racing agents competitive with GT Sophy, a champion-level RL racing agent, as well as generate novel behaviors, paving the way for practical automated reward design in real world applications.

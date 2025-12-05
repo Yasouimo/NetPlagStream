@@ -1,0 +1,5 @@
+Title: Imbalanced Classification through the Lens of Spurious Correlations
+URL: http://arxiv.org/abs/2510.27650v1
+Published: 2025-10-31 17:24:45+00:00
+----------------------------------------
+Class imbalance poses a fundamental challenge in machine learning, frequently leading to unreliable classification performance. While prior methods focus on data- or loss-reweighting schemes, we view imbalance as a data condition that amplifies Clever Hans (CH) effects by underspecification of minority classes. In a counterfactual explanations-based approach, we propose to leverage Explainable AI to jointly identify and eliminate CH effects emerging under imbalance. Our method achieves competitive classification performance on three datasets and demonstrates how CH effects emerge under imbalance, a perspective largely overlooked by existing approaches.

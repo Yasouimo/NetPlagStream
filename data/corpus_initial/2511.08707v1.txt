@@ -1,0 +1,5 @@
+Title: Compositional Distributed Learning for Multi-View Perception: A Maximal Coding Rate Reduction Perspective
+URL: http://arxiv.org/abs/2511.08707v1
+Published: 2025-11-11 19:15:27+00:00
+----------------------------------------
+In this letter, we formulate a compositional distributed learning framework for multi-view perception by leveraging the maximal coding rate reduction principle combined with subspace basis fusion. In the proposed algorithm, each agent conducts a periodic singular value decomposition on its learned subspaces and exchanges truncated basis matrices, based on which the fused subspaces are obtained. By introducing a projection matrix and minimizing the distance between the outputs and its projection, the learned representations are enforced towards the fused subspaces. It is proved that the trace on the coding-rate change is bounded and the consistency of basis fusion is guaranteed theoretically. Numerical simulations validate that the proposed algorithm achieves high classification accuracy while maintaining representations' diversity, compared to baselines showing correlated subspaces and coupled representations.

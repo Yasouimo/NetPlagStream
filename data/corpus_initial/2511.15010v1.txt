@@ -1,0 +1,5 @@
+Title: Latent space analysis and generalization to out-of-distribution data
+URL: http://arxiv.org/abs/2511.15010v1
+Published: 2025-11-19 01:23:34+00:00
+----------------------------------------
+Understanding the relationships between data points in the latent decision space derived by the deep learning system is critical to evaluating and interpreting the performance of the system on real world data. Detecting \textit{out-of-distribution} (OOD) data for deep learning systems continues to be an active research topic. We investigate the connection between latent space OOD detection and classification accuracy of the model. Using open source simulated and measured Synthetic Aperture RADAR (SAR) datasets, we empirically demonstrate that the OOD detection cannot be used as a proxy measure for model performance. We hope to inspire additional research into the geometric properties of the latent space that may yield future insights into deep learning robustness and generalizability.

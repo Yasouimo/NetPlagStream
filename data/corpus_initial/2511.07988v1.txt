@@ -1,0 +1,5 @@
+Title: The One Where They Brain-Tune for Social Cognition: Multi-Modal Brain-Tuning on Friends
+URL: http://arxiv.org/abs/2511.07988v1
+Published: 2025-11-11 08:53:35+00:00
+----------------------------------------
+Recent studies on audio models show brain-tuning - fine-tuning models to better predict corresponding fMRI activity - improves brain alignment and increases performance on downstream semantic and audio tasks. We extend this approach to a multimodal audio-video model to enhance social cognition, targeting the Superior Temporal Sulcus (STS), a key region for social processing, while subjects watch Friends. We find significant increases in brain alignment to the STS and an adjacent ROI, as well as improvements to a social cognition task related to the training data - sarcasm detection in sitcoms. In summary, our study extends brain-tuning to the multi-modal domain, demonstrating improvements to a downstream task after tuning to a relevant functional region.

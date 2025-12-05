@@ -1,0 +1,5 @@
+Title: Finding Probably Approximate Optimal Solutions by Training to Estimate the Optimal Values of Subproblems
+URL: http://arxiv.org/abs/2511.02048v1
+Published: 2025-11-03 20:29:30+00:00
+----------------------------------------
+The paper is about developing a solver for maximizing a real-valued function of binary variables. The solver relies on an algorithm that estimates the optimal objective-function value of instances from the underlying distribution of objectives and their respective sub-instances. The training of the estimator is based on an inequality that facilitates the use of the expected total deviation from optimality conditions as a loss function rather than the objective-function itself. Thus, it does not calculate values of policies, nor does it rely on solved instances.

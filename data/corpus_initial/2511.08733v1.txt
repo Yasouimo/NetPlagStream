@@ -1,0 +1,5 @@
+Title: Gromov-Wasserstein Graph Coarsening
+URL: http://arxiv.org/abs/2511.08733v1
+Published: 2025-11-11 19:49:51+00:00
+----------------------------------------
+We study the problem of graph coarsening within the Gromov-Wasserstein geometry. Specifically, we propose two algorithms that leverage a novel representation of the distortion induced by merging pairs of nodes. The first method, termed Greedy Pair Coarsening (GPC), iteratively merges pairs of nodes that locally minimize a measure of distortion until the desired size is achieved. The second method, termed $k$-means Greedy Pair Coarsening (KGPC), leverages clustering based on pairwise distortion metrics to directly merge clusters of nodes. We provide conditions guaranteeing optimal coarsening for our methods and validate their performance on six large-scale datasets and a downstream clustering task. Results show that the proposed methods outperform existing approaches on a wide range of parameters and scenarios.

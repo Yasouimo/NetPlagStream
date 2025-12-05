@@ -1,0 +1,5 @@
+Title: Toward fast, accurate and robust AI prediction of ground states in rotating BEC
+URL: http://arxiv.org/abs/2511.07489v1
+Published: 2025-11-10 09:24:44+00:00
+----------------------------------------
+We propose an unsupervised deep learning approach for computing the ground state (GS) of rotating Bose-Einstein condensation. To minimize the energy under a mass constraint, our approach introduces two key and novel ingredients: a normalized loss function that exactly enforces the mass constraint, and a training strategy named virtual rotation acceleration that is essential for avoiding local minima and guiding the learning process to the correct quantized vortex phase. Extensive numerical experiments demonstrate the proposed approach as an effective and accurate method to predict GS across physical conditions--from slow to fast rotation and from isotropic to anisotropic confinement. Through further distillation, we establish a unified operator network capable of efficiently generalizing physical parameters across different phases. It enables rapid GS predictions while correctly capturing phase transitions and is applied for inverse problems.

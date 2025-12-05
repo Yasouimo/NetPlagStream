@@ -1,0 +1,5 @@
+Title: Model Class Selection
+URL: http://arxiv.org/abs/2511.11355v1
+Published: 2025-11-14 14:43:26+00:00
+----------------------------------------
+Classical model selection seeks to find a single model within a particular class that optimizes some pre-specified criteria, such as maximizing a likelihood or minimizing a risk. More recently, there has been an increased interest in model set selection (MSS), where the aim is to identify a (confidence) set of near-optimal models. Here, we generalize the MSS framework further by introducing the idea of model class selection (MCS). In MCS, multiple model collections are evaluated, and all collections that contain at least one optimal model are sought for identification. Under mild conditions, data splitting based approaches are shown to provide general solutions for MCS. As a direct consequence, for particular datasets we are able to investigate formally whether classes of simpler and more interpretable statistical models are able to perform on par with more complex black-box machine learning models. A variety of simulated and real-data experiments are provided.

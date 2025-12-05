@@ -1,0 +1,5 @@
+Title: Failure of uniform laws of large numbers for subdifferentials and beyond
+URL: http://arxiv.org/abs/2511.16568v1
+Published: 2025-11-20 17:24:15+00:00
+----------------------------------------
+We provide counterexamples showing that uniform laws of large numbers do not hold for subdifferentials under natural assumptions. Our results apply to random Lipschitz functions and random convex functions with a finite number of smooth pieces. Consequently, they resolve the questions posed by Shapiro and Xu [J. Math. Anal. Appl., 325(2), 2007] in the negative and highlight the obstacles nonsmoothness poses to uniform results.

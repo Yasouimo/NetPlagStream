@@ -1,0 +1,5 @@
+Title: KAN/H: Kolmogorov-Arnold Network using Haar-like bases
+URL: http://arxiv.org/abs/2511.11736v1
+Published: 2025-11-13 09:24:30+00:00
+----------------------------------------
+This paper proposes KAN/H, a variant of Kolmogorov-Arnold Network (KAN) that uses a Haar-variant basis system having both global and local bases instead of B-spline. The resulting algorithm is applied to function approximation problems and MNIST. We show that it does not require most of the problem-specific hyper-parameter tunings.

@@ -1,0 +1,5 @@
+Title: Enhancing Machine Learning Model Efficiency through Quantization and Bit Depth Optimization: A Performance Analysis on Healthcare Data
+URL: http://arxiv.org/abs/2511.12568v1
+Published: 2025-11-16 12:08:18+00:00
+----------------------------------------
+This research aims to optimize intricate learning models by implementing quantization and bit-depth optimization techniques. The objective is to significantly cut time complexity while preserving model efficiency, thus addressing the challenge of extended execution times in intricate models. Two medical datasets were utilized as case studies to apply a Logistic Regression (LR) machine learning model. Using efficient quantization and bit depth optimization strategies the input data is downscaled from float64 to float32 and int32. The results demonstrated a significant reduction in time complexity, with only a minimal decrease in model accuracy post-optimization, showcasing the state-of-the-art optimization approach. This comprehensive study concludes that the impact of these optimization techniques varies depending on a set of parameters.

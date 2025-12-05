@@ -1,0 +1,5 @@
+Title: Toward a holographic realization of the 2+1-flavor QCD phase structure
+URL: http://arxiv.org/abs/2511.11273v2
+Published: 2025-11-14 13:09:18+00:00
+----------------------------------------
+We present a fully back-reacted Einstein--Maxwell--Dilaton--flavor model with dynamical light and strange sectors, calibrated to lattice QCD using a machine-learning--assisted spectral method. The model reproduces the 2+1-flavor equation of state and chiral dynamics with quantitative accuracy, and maps the Columbia plot with a tri-critical point at $m_s^{\mathrm{tri}} \simeq 21~\text{MeV}$ and a critical mass $m_c \simeq 0.785~\text{MeV}$, consistent with lattice results. At finite density, it yields a crossover-to-first-order transition and predicts a critical endpoint at $T_C = 75.4~\text{MeV}$ and $μ_C = 768~\text{MeV}$, within the reach of heavy-ion experiments. These findings establish a unified holographic framework for the QCD phase structure across quark masses and baryon density, providing the first consistent and quantitative description of both deconfinement and chiral transitions within a single holographic model.

@@ -1,0 +1,5 @@
+Title: Open Banking Foundational Model: Learning Language Representations from Few Financial Transactions
+URL: http://arxiv.org/abs/2511.12154v1
+Published: 2025-11-15 10:52:39+00:00
+----------------------------------------
+We introduced a multimodal foundational model for financial transactions that integrates both structured attributes and unstructured textual descriptions into a unified representation. By adapting masked language modeling to transaction sequences, we demonstrated that our approach not only outperforms classical feature engineering and discrete event sequence methods but is also particularly effective in data-scarce Open Banking scenarios. To our knowledge, this is the first large-scale study across thousands of financial institutions in North America, providing evidence that multimodal representations can generalize across geographies and institutions. These results highlight the potential of self-supervised models to advance financial applications ranging from fraud prevention and credit risk to customer insights

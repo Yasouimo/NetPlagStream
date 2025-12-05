@@ -1,0 +1,5 @@
+Title: Towards classification-based representation learning for place recognition on LiDAR scans
+URL: http://arxiv.org/abs/2511.00738v2
+Published: 2025-11-01 23:24:11+00:00
+----------------------------------------
+Place recognition is a crucial task in autonomous driving, allowing vehicles to determine their position using sensor data. While most existing methods rely on contrastive learning, we explore an alternative approach by framing place recognition as a multi-class classification problem. Our method assigns discrete location labels to LiDAR scans and trains an encoder-decoder model to classify each scan's position directly. We evaluate this approach on the NuScenes dataset and show that it achieves competitive performance compared to contrastive learning-based methods while offering advantages in training efficiency and stability.

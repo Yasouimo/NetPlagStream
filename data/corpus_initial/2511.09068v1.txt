@@ -1,0 +1,5 @@
+Title: Toward an Intrusion Detection System for a Virtualization Framework in Edge Computing
+URL: http://arxiv.org/abs/2511.09068v1
+Published: 2025-11-12 07:43:28+00:00
+----------------------------------------
+Edge computing pushes computation closer to data sources, but it also expands the attack surface on resource-constrained devices. This work explores the deployment of the Lightweight Deep Anomaly Detection for Network Traffic (LDPI) integrated as an isolated service within a virtualization framework that provides security by separation. LDPI, adopting a Deep Learning approach, achieved strong training performance, reaching AUC 0.999 (5-fold mean) across the evaluated packet-window settings (n, l), with high F1 at conservative operating points. We deploy LDPI on a laptop-class edge node and evaluate its overhead and performance in two scenarios: (i) comparing it with representative signature-based IDSes (Suricata and Snort) deployed on the same framework under identical workloads, and (ii) while detecting network flooding attacks.

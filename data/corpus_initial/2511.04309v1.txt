@@ -1,0 +1,5 @@
+Title: DeepPAAC: A New Deep Galerkin Method for Principal-Agent Problems
+URL: http://arxiv.org/abs/2511.04309v1
+Published: 2025-11-06 12:25:43+00:00
+----------------------------------------
+We consider numerical resolution of principal-agent (PA) problems in continuous time. We formulate a generic PA model with continuous and lump payments and a multi-dimensional strategy of the agent. To tackle the resulting Hamilton-Jacobi-Bellman equation with an implicit Hamiltonian we develop a novel deep learning method: the Deep Principal-Agent Actor Critic (DeepPAAC) Actor-Critic algorithm. DeepPAAC is able to handle multi-dimensional states and controls, as well as constraints. We investigate the role of the neural network architecture, training designs, loss functions, etc. on the convergence of the solver, presenting five different case studies.

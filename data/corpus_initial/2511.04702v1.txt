@@ -1,0 +1,5 @@
+Title: Communication-Constrained Private Decentralized Online Personalized Mean Estimation
+URL: http://arxiv.org/abs/2511.04702v1
+Published: 2025-11-02 13:00:32+00:00
+----------------------------------------
+We consider the problem of communication-constrained collaborative personalized mean estimation under a privacy constraint in an environment of several agents continuously receiving data according to arbitrary unknown agent-specific distributions. A consensus-based algorithm is studied under the framework of differential privacy in order to protect each agent's data. We give a theoretical convergence analysis of the proposed consensus-based algorithm for any bounded unknown distributions on the agents' data, showing that collaboration provides faster convergence than a fully local approach where agents do not share data, under an oracle decision rule and under some restrictions on the privacy level and the agents' connectivity, which illustrates the benefit of private collaboration in an online setting under a communication restriction on the agents. The theoretical faster-than-local convergence guarantee is backed up by several numerical results.

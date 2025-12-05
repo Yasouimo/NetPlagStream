@@ -1,0 +1,5 @@
+Title: Assessing the Applicability of Natural Language Processing to Traditional Social Science Methodology: A Case Study in Identifying Strategic Signaling Patterns in Presidential Directives
+URL: http://arxiv.org/abs/2511.09738v1
+Published: 2025-11-12 20:59:34+00:00
+----------------------------------------
+Our research investigates how Natural Language Processing (NLP) can be used to extract main topics from a larger corpus of written data, as applied to the case of identifying signaling themes in Presidential Directives (PDs) from the Reagan through Clinton administrations. Analysts and NLP both identified relevant documents, demonstrating the potential utility of NLPs in research involving large written corpuses. However, we also identified discrepancies between NLP and human-labeled results that indicate a need for more research to assess the validity of NLP in this use case. The research was conducted in 2023, and the rapidly evolving landscape of AIML means existing tools have improved and new tools have been developed; this research displays the inherent capabilities of a potentially dated AI tool in emerging social science applications.

@@ -1,0 +1,5 @@
+Title: Controlling Gender Bias in Retrieval via a Backpack Architecture
+URL: http://arxiv.org/abs/2511.00875v1
+Published: 2025-11-02 09:58:08+00:00
+----------------------------------------
+The presence of social biases in large language models (LLMs) has become a significant concern in AI research. These biases, often embedded in training data, can perpetuate harmful stereotypes and distort decision-making processes. When LLMs are integrated into ranking systems, they can propagate these biases, leading to unfair outcomes in critical applications such as search engines and recommendation systems. Backpack Language Models, unlike traditional transformer-based models that treat text sequences as monolithic structures, generate outputs as weighted combinations of non-contextual, learned word aspects, also known as senses. Leveraging this architecture, we propose a framework for debiasing ranking tasks. Our experimental results show that this framework effectively mitigates gender bias in text retrieval and ranking with minimal degradation in performance.

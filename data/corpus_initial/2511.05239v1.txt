@@ -1,0 +1,5 @@
+Title: Translation via Annotation: A Computational Study of Translating Classical Chinese into Japanese
+URL: http://arxiv.org/abs/2511.05239v1
+Published: 2025-11-07 13:46:16+00:00
+----------------------------------------
+Ancient people translated classical Chinese into Japanese by annotating around each character. We abstract this process as sequence tagging tasks and fit them into modern language technologies. The research of this annotation and translation system is a facing low-resource problem. We release this problem by introducing a LLM-based annotation pipeline and construct a new dataset from digitalized open-source translation data. We show that under the low-resource setting, introducing auxiliary Chinese NLP tasks has a promoting effect on the training of sequence tagging tasks. We also evaluate the performance of large language models. They achieve high scores in direct machine translation, but they are confused when being asked to annotate characters. Our method could work as a supplement of LLMs.

@@ -1,0 +1,5 @@
+Title: Reducing Systematic Bias in Machine Learning Applications to Signal Extraction in High-Energy Nuclear Physics
+URL: http://arxiv.org/abs/2511.10028v1
+Published: 2025-11-13 07:05:33+00:00
+----------------------------------------
+Machine learning techniques are increasingly being applied in high-energy nuclear physics data analysis thanks to their outstanding performance. One key challenge in such applications is the construction of training samples that can accurately represent real data. Training samples are typically generated through detector simulations, but discrepancies between simulated and real data can lead to degradation in machine learning performance and systematic biases in the results. This paper introduces two methods: i) cumulative distribution function mapping and ii) shift-and-scale, to align simulated signals with real data, which can aid in eliminating the aforementioned issues. We use the J/$ψ$ yield measurement in 200 GeV Ru+Ru and Zr+Zr collisions with the STAR experiment as an example to demonstrate the application and effectiveness of the proposed methods.

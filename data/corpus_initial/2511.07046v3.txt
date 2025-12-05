@@ -1,0 +1,5 @@
+Title: Learning Quantized Continuous Controllers for Integer Hardware
+URL: http://arxiv.org/abs/2511.07046v3
+Published: 2025-11-10 12:39:14+00:00
+----------------------------------------
+Deploying continuous-control reinforcement learning policies on embedded hardware requires meeting tight latency and power budgets. Small FPGAs can deliver these, but only if costly floating point pipelines are avoided. We study quantization-aware training (QAT) of policies for integer inference and we present a learning-to-hardware pipeline that automatically selects low-bit policies and synthesizes them to an Artix-7 FPGA. Across five MuJoCo tasks, we obtain policy networks that are competitive with full precision (FP32) policies but require as few as 3 or even only 2 bits per weight, and per internal activation value, as long as input precision is chosen carefully. On the target hardware, the selected policies achieve inference latencies on the order of microseconds and consume microjoules per action, favorably comparing to a quantized reference. Last, we observe that the quantized policies exhibit increased input noise robustness compared to the floating-point baseline.

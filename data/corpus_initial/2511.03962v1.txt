@@ -1,0 +1,5 @@
+Title: A Linear Fractional Transformation Model and Calibration Method for Light Field Camera
+URL: http://arxiv.org/abs/2511.03962v1
+Published: 2025-11-06 01:32:04+00:00
+----------------------------------------
+Accurate calibration of internal parameters is a crucial yet challenging prerequisite for 3D reconstruction using light field cameras. In this paper, we propose a linear fractional transformation(LFT) parameter $α$ to decoupled the main lens and micro lens array (MLA). The proposed method includes an analytical solution based on least squares, followed by nonlinear refinement. The method for detecting features from the raw images is also introduced. Experimental results on both physical and simulated data have verified the performance of proposed method. Based on proposed model, the simulation of raw light field images becomes faster, which is crucial for data-driven deep learning methods. The corresponding code can be obtained from the author's website.

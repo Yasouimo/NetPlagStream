@@ -1,0 +1,5 @@
+Title: Kastor: Fine-tuned Small Language Models for Shape-based Active Relation Extraction
+URL: http://arxiv.org/abs/2511.03466v1
+Published: 2025-11-05 13:43:47+00:00
+----------------------------------------
+RDF pattern-based extraction is a compelling approach for fine-tuning small language models (SLMs) by focusing a relation extraction task on a specified SHACL shape. This technique enables the development of efficient models trained on limited text and RDF data. In this article, we introduce Kastor, a framework that advances this approach to meet the demands for completing and refining knowledge bases in specialized domains. Kastor reformulates the traditional validation task, shifting from single SHACL shape validation to evaluating all possible combinations of properties derived from the shape. By selecting the optimal combination for each training example, the framework significantly enhances model generalization and performance. Additionally, Kastor employs an iterative learning process to refine noisy knowledge bases, enabling the creation of robust models capable of uncovering new, relevant facts

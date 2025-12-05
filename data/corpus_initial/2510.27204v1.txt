@@ -1,0 +1,6 @@
+Title: Functional Analysis of Loss-development Patterns in P&C Insurance
+URL: http://arxiv.org/abs/2510.27204v1
+Published: 2025-10-31 05:54:48+00:00
+----------------------------------------
+We analyze loss development in NAIC Schedule P loss triangles using functional data analysis methods. Adopting the functional viewpoint, our dataset comprises 3300+ curves of incremental loss ratios (ILR) of workers' compensation lines over 24 accident years. Relying on functional data depth, we first study similarities and differences in development patterns based on company-specific covariates, as well as identify anomalous ILR curves.
+  The exploratory findings motivate the probabilistic forecasting framework developed in the second half of the paper. We propose a functional model to complete partially developed ILR curves based on partial least squares regression of PCA scores. Coupling the above with functional bootstrapping allows us to quantify future ILR uncertainty jointly across all future lags. We demonstrate that our method has much better probabilistic scores relative to Chain Ladder and in particular can provide accurate functional predictive intervals.

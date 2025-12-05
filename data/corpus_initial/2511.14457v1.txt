@@ -1,0 +1,6 @@
+Title: Benchmarking OpenWiFiSync on ESP32: Towards Cost-Effective Wireless Time Synchronization
+URL: http://arxiv.org/abs/2511.14457v1
+Published: 2025-11-18 13:00:49+00:00
+----------------------------------------
+Wireless time synchronization of mobile devices is a key enabler for numerous Industry 4.0 applications, such as coordinated and synchronized tasks or the generation of high-precision timestamps for machine learning or artificial intelligence algorithms. Traditional wireline clock synchronization protocols, however, cannot achieve the performance in wireless environments without significant modifications. To address this challenge, we make use of the Reference Broadcast Infrastructure Synchronization protocol, which leverages the broadcast nature of wireless communications and remains both non-invasive and standard-compliant. We implement and validate this protocol on a low-cost testbed using ESP32 modules and a commercial Wi-Fi access point. To support further research and development, we release our implementation as open-source software under the GNU General Public License Version 3 license via the OpenWifiSync project on GitHub.
+  Our results demonstrate that synchronization accuracies within +/-30 microseconds are achievable using energy-efficient and affordable hardware, making this approach suitable for a wide range of use cases.

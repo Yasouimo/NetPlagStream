@@ -1,0 +1,5 @@
+Title: Comparing Task-Agnostic Embedding Models for Tabular Data
+URL: http://arxiv.org/abs/2511.14276v1
+Published: 2025-11-18 09:10:40+00:00
+----------------------------------------
+Recent foundation models for tabular data achieve strong task-specific performance via in-context learning. Nevertheless, they focus on direct prediction by encapsulating both representation learning and task-specific inference inside a single, resource-intensive network. This work specifically focuses on representation learning, i.e., on transferable, task-agnostic embeddings. We systematically evaluate task-agnostic representations from tabular foundation models (TabPFN and TabICL) alongside with classical feature engineering (TableVectorizer) across a variety of application tasks as outlier detection (ADBench) and supervised learning (TabArena Lite). We find that simple TableVectorizer features achieve comparable or superior performance while being up to three orders of magnitude faster than tabular foundation models. The code is available at https://github.com/ContactSoftwareAI/TabEmbedBench.

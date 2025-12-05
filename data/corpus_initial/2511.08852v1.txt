@@ -1,0 +1,5 @@
+Title: DRL-Based Beam Positioning for LEO Satellite Constellations with Weighted Least Squares
+URL: http://arxiv.org/abs/2511.08852v1
+Published: 2025-11-12 00:14:10+00:00
+----------------------------------------
+In this paper, we propose a reinforcement learning based beam weighting framework that couples a policy network with an augmented weighted least squares (WLS) estimator for accurate and low-complexity positioning in multi-beam LEO constellations. Unlike conventional geometry or CSI-dependent approaches, the policy learns directly from uplink pilot responses and geometry features, enabling robust localization without explicit CSI estimation. An augmented WLS jointly estimates position and receiver clock bias, improving numerical stability under dynamic beam geometry. Across representative scenarios, the proposed method reduces the mean positioning error by 99.3% compared with the geometry-based baseline, achieving 0.395 m RMSE with near real-time inference.

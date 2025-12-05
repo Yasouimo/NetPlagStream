@@ -1,0 +1,5 @@
+Title: Trust-Region Methods with Low-Fidelity Objective Models
+URL: http://arxiv.org/abs/2511.00434v1
+Published: 2025-11-01 07:25:43+00:00
+----------------------------------------
+We introduce two multifidelity trust-region methods based on the Magical Trust Region (MTR) framework. MTR augments the classical trust-region step with a secondary, informative direction. In our approaches, the secondary ``magical'' directions are determined by solving coarse trust-region subproblems based on low-fidelity objective models. The first proposed method, Sketched Trust-Region (STR), constructs this secondary direction using a sketched matrix to reduce the dimensionality of the trust-region subproblem. The second method, SVD Trust-Region (SVDTR), defines the magical direction via a truncated singular value decomposition of the dataset, capturing the leading directions of variability. Several numerical examples illustrate the potential gain in efficiency.

@@ -1,0 +1,5 @@
+Title: Human-Machine Ritual: Synergic Performance through Real-Time Motion Recognition
+URL: http://arxiv.org/abs/2511.02351v1
+Published: 2025-11-04 08:15:25+00:00
+----------------------------------------
+We introduce a lightweight, real-time motion recognition system that enables synergic human-machine performance through wearable IMU sensor data, MiniRocket time-series classification, and responsive multimedia control. By mapping dancer-specific movement to sound through somatic memory and association, we propose an alternative approach to human-machine collaboration, one that preserves the expressive depth of the performing body while leveraging machine learning for attentive observation and responsiveness. We demonstrate that this human-centered design reliably supports high accuracy classification (<50 ms latency), offering a replicable framework to integrate dance-literate machines into creative, educational, and live performance contexts.

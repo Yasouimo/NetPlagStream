@@ -1,0 +1,5 @@
+Title: Imaging the Topology of Dynamic Brain Connectivity
+URL: http://arxiv.org/abs/2511.09949v1
+Published: 2025-11-13 04:29:12+00:00
+----------------------------------------
+Functional brain connectivity changes dynamically over time, making its representation challenging for learning on non-Euclidean data. We present a framework that encodes dynamic functional connectivity as an image representation of evolving network topology. Persistent graph homology summarizes global organization across scales, yielding Wasserstein distance-preserving embeddings stable under resolution changes. Stacking these embeddings forms a topological image that captures temporal reconfiguration of brain networks. This design enables convolutional architectures and transfer learning from pretrained foundational models to operate effectively under limited and imbalanced data. Applied to early Alzheimer's detection, the approach achieves clinically meaningful accuracy, establishing a principled foundation for imaging dynamic brain topology.

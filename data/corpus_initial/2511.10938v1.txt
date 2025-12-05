@@ -1,0 +1,5 @@
+Title: Cascading Bandits With Feedback
+URL: http://arxiv.org/abs/2511.10938v1
+Published: 2025-11-14 03:55:22+00:00
+----------------------------------------
+Motivated by the challenges of edge inference, we study a variant of the cascade bandit model in which each arm corresponds to an inference model with an associated accuracy and error probability. We analyse four decision-making policies-Explore-then-Commit, Action Elimination, Lower Confidence Bound (LCB), and Thompson Sampling-and provide sharp theoretical regret guarantees for each. Unlike in classical bandit settings, Explore-then-Commit and Action Elimination incur suboptimal regret because they commit to a fixed ordering after the exploration phase, limiting their ability to adapt. In contrast, LCB and Thompson Sampling continuously update their decisions based on observed feedback, achieving constant O(1) regret. Simulations corroborate these theoretical findings, highlighting the crucial role of adaptivity for efficient edge inference under uncertainty.

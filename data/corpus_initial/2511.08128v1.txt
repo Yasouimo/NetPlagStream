@@ -1,0 +1,5 @@
+Title: Sentence-Anchored Gist Compression for Long-Context LLMs
+URL: http://arxiv.org/abs/2511.08128v1
+Published: 2025-11-11 11:34:32+00:00
+----------------------------------------
+This work investigates context compression for Large Language Models (LLMs) using learned compression tokens to reduce the memory and computational demands of processing long sequences. We demonstrate that pre-trained LLMs can be fine-tuned to compress their context by factors of 2x to 8x without significant performance degradation, as evaluated on both short-context and long-context benchmarks. Furthermore, in experiments on a 3-billion-parameter LLaMA model, our method achieves results on par with alternative compression techniques while attaining higher compression ratios.

@@ -1,0 +1,5 @@
+Title: MIFO: Learning and Synthesizing Multi-Instance from One Image
+URL: http://arxiv.org/abs/2511.00542v1
+Published: 2025-11-01 13:01:30+00:00
+----------------------------------------
+This paper proposes a method for precise learning and synthesizing multi-instance semantics from a single image. The difficulty of this problem lies in the limited training data, and it becomes even more challenging when the instances to be learned have similar semantics or appearance. To address this, we propose a penalty-based attention optimization to disentangle similar semantics during the learning stage. Then, in the synthesis, we introduce and optimize box control in attention layers to further mitigate semantic leakage while precisely controlling the output layout. Experimental results demonstrate that our method achieves disentangled and high-quality semantic learning and synthesis, strikingly balancing editability and instance consistency. Our method remains robust when dealing with semantically or visually similar instances or rare-seen objects. The code is publicly available at https://github.com/Kareneveve/MIFO

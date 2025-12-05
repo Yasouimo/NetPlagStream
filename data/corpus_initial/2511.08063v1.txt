@@ -1,0 +1,5 @@
+Title: Coherence in the Leak and Storage Kurtosis control Ergotropy in Quantum Batteries
+URL: http://arxiv.org/abs/2511.08063v1
+Published: 2025-11-11 10:03:37+00:00
+----------------------------------------
+We introduce a cavity-coupled finite quantum system which can act as a quantum battery by harnessing noise induced coherences. We apply the methodology of full counting statistics to capture higher-order fluctuations of quanta exchange in the storage station. Together with the thermodynamic parameters, the fluctuations constitute a training platform for unsupervised as well as supervised learning models in predicting ergotropy. We identify a minimal predictive feature set from the battery's operating parameters that can classify the ergotropy into different regimes with great accuracy.Our results show that the usual quantum and thermodynamic variables are inadequate for the purpose of identifying high ergotropy regimes in isolation. Rather, it is the kurtosis of quanta exchange in the storage and the noise-induced coherence in the leakage mode that become the dominant quantities in controlling the magnitude of ergotropy.

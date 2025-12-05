@@ -1,0 +1,5 @@
+Title: Leveraging Exogenous Signals for Hydrology Time Series Forecasting
+URL: http://arxiv.org/abs/2511.11849v1
+Published: 2025-11-14 20:12:29+00:00
+----------------------------------------
+Recent advances in time series research facilitate the development of foundation models. While many state-of-the-art time series foundation models have been introduced, few studies examine their effectiveness in specific downstream applications in physical science. This work investigates the role of integrating domain knowledge into time series models for hydrological rainfall-runoff modeling. Using the CAMELS-US dataset, which includes rainfall and runoff data from 671 locations with six time series streams and 30 static features, we compare baseline and foundation models. Results demonstrate that models incorporating comprehensive known exogenous inputs outperform more limited approaches, including foundation models. Notably, incorporating natural annual periodic time series contribute the most significant improvements.

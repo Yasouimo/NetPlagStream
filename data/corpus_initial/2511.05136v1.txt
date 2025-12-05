@@ -1,0 +1,5 @@
+Title: Interface Homme-Machine pour l'Identification des Liaisons de Coins
+URL: http://arxiv.org/abs/2511.05136v1
+Published: 2025-11-07 10:31:24+00:00
+----------------------------------------
+ACCADIL is a project that led to the development of software tools for the identification of coin die links from coin photographs. It provides a computational algorithm based on computer vision and classification techniques, along with an online interface for the interactive verification of results. This guide briefly describes the algorithmic principles, the preparation of data prior to analysis, and the features offered by the interface: dataset addition, visualization modes (overlay, side-by-side, magnifier, transparency), result export, and distance visualization. ACCADIL thus provides numismatists with a comprehensive tool for the analysis of die links within a coin collection.

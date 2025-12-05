@@ -1,0 +1,5 @@
+Title: Multistability of Self-Attention Dynamics in Transformers
+URL: http://arxiv.org/abs/2511.11553v1
+Published: 2025-11-14 18:45:22+00:00
+----------------------------------------
+In machine learning, a self-attention dynamics is a continuous-time multiagent-like model of the attention mechanisms of transformers. In this paper we show that such dynamics is related to a multiagent version of the Oja flow, a dynamical system that computes the principal eigenvector of a matrix corresponding for transformers to the value matrix. We classify the equilibria of the ``single-head'' self-attention system into four classes: consensus, bipartite consensus, clustering and polygonal equilibria. Multiple asymptotically stable equilibria from the first three classes often coexist in the self-attention dynamics. Interestingly, equilibria from the first two classes are always aligned with the eigenvectors of the value matrix, often but not exclusively with the principal eigenvector.

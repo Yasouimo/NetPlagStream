@@ -1,0 +1,7 @@
+Title: 3DFETUS: Standardizing Fetal Facial Planes in 3D Ultrasound
+URL: http://arxiv.org/abs/2511.10412v1
+Published: 2025-11-13 15:33:48+00:00
+----------------------------------------
+Acquiring standard facial planes during routine fetal ultrasound (US) examinations is often challenging due to fetal movement, variability in orientation, and operator-dependent expertise. These factors contribute to inconsistencies, increased examination time, and potential diagnostic bias.
+  To address these challenges in the context of facial assessment, we present: 1) GT++, a robust algorithm that estimates standard facial planes from 3D US volumes using annotated anatomical landmarks; and 2) 3DFETUS, a deep learning model that automates and standardizes their localization in 3D fetal US volumes.
+  We evaluated our methods both qualitatively, through expert clinical review, and quantitatively. The proposed approach achieved a mean translation error of 4.13 mm and a mean rotation error of 7.93 degrees per plane, outperforming other state-of-the-art methods on 3D US volumes. Clinical assessments further confirmed the effectiveness of both GT++ and 3DFETUS, demonstrating statistically significant improvements in plane estimation accuracy.

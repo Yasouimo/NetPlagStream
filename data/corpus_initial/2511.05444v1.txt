@@ -1,0 +1,5 @@
+Title: Adversarially Robust Multitask Adaptive Control
+URL: http://arxiv.org/abs/2511.05444v1
+Published: 2025-11-07 17:25:21+00:00
+----------------------------------------
+We study adversarially robust multitask adaptive linear quadratic control; a setting where multiple systems collaboratively learn control policies under model uncertainty and adversarial corruption. We propose a clustered multitask approach that integrates clustering and system identification with resilient aggregation to mitigate corrupted model updates. Our analysis characterizes how clustering accuracy, intra-cluster heterogeneity, and adversarial behavior affect the expected regret of certainty-equivalent (CE) control across LQR tasks. We establish non-asymptotic bounds demonstrating that the regret decreases inversely with the number of honest systems per cluster and that this reduction is preserved under a bounded fraction of adversarial systems within each cluster.

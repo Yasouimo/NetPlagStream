@@ -1,0 +1,5 @@
+Title: Towards Multimodal Representation Learning in Paediatric Kidney Disease
+URL: http://arxiv.org/abs/2511.13637v1
+Published: 2025-11-17 17:50:21+00:00
+----------------------------------------
+Paediatric kidney disease varies widely in its presentation and progression, which calls for continuous monitoring of renal function. Using electronic health records collected between 2019 and 2025 at Great Ormond Street Hospital, a leading UK paediatric hospital, we explored a temporal modelling approach that integrates longitudinal laboratory sequences with demographic information. A recurrent neural model trained on these data was used to predict whether a child would record an abnormal serum creatinine value within the following thirty days. Framed as a pilot study, this work provides an initial demonstration that simple temporal representations can capture useful patterns in routine paediatric data and lays the groundwork for future multimodal extensions using additional clinical signals and more detailed renal outcomes.

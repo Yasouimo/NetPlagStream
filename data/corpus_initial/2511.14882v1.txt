@@ -1,0 +1,5 @@
+Title: Exact Learning of Weighted Graphs Using Composite Queries
+URL: http://arxiv.org/abs/2511.14882v1
+Published: 2025-11-18 20:02:02+00:00
+----------------------------------------
+In this paper, we study the exact learning problem for weighted graphs, where we are given the vertex set, $V$, of a weighted graph, $G=(V,E,w)$, but we are not given $E$. The problem, which is also known as graph reconstruction, is to determine all the edges of $E$, including their weights, by asking queries about $G$ from an oracle. As we observe, using simple shortest-path length queries is not sufficient, in general, to learn a weighted graph. So we study a number of scenarios where it is possible to learn $G$ using a subquadratic number of composite queries, which combine two or three simple queries.

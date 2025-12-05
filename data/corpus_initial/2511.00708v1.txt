@@ -1,0 +1,5 @@
+Title: Polynomial Mixing Times of Simulated Tempering for Mixture Targets by Conductance Decomposition
+URL: http://arxiv.org/abs/2511.00708v1
+Published: 2025-11-01 21:16:35+00:00
+----------------------------------------
+We study the theoretical complexity of simulated tempering for sampling from mixtures of log-concave components differing only by location shifts. The main result establishes the first polynomial-time guarantee for simulated tempering combined with the Metropolis-adjusted Langevin algorithm (MALA) with respect to the problem dimension $d$, maximum mode displacement $D$, and logarithmic accuracy $\log ε^{-1}$. The proof builds on a general state decomposition theorem for $s$-conductance, applied to an auxiliary Markov chain constructed on an augmented space. We also obtain an improved complexity estimate for simulated tempering combined with random-walk Metropolis. Our bounds assume an inverse-temperature ladder with smallest value $β_1 = O(D^{-2})$ and spacing $β_{i+1}/β_i = 1 + O( d^{-1/2} )$, both of which are shown to be asymptotically optimal up to logarithmic factors.

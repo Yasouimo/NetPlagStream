@@ -1,0 +1,5 @@
+Title: Bulk-boundary decomposition of neural networks
+URL: http://arxiv.org/abs/2511.02003v1
+Published: 2025-11-03 19:18:20+00:00
+----------------------------------------
+We present the bulk-boundary decomposition as a new framework for understanding the training dynamics of deep neural networks. Starting from the stochastic gradient descent formulation, we show that the Lagrangian can be reorganized into a data-independent bulk term and a data-dependent boundary term. The bulk captures the intrinsic dynamics set by network architecture and activation functions, while the boundary reflects stochastic interactions from training samples at the input and output layers. This decomposition exposes the local and homogeneous structure underlying deep networks. As a natural extension, we develop a field-theoretic formulation of neural dynamics based on this decomposition.

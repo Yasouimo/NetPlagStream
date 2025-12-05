@@ -1,0 +1,5 @@
+Title: Positive Characteristic Sets for Relational Pattern Languages
+URL: http://arxiv.org/abs/2511.12039v1
+Published: 2025-11-15 05:16:32+00:00
+----------------------------------------
+In the context of learning formal languages, data about an unknown target language L is given in terms of a set of (word,label) pairs, where a binary label indicates whether or not the given word belongs to L. A (polynomial-size) characteristic set for L, with respect to a reference class L of languages, is a set of such pairs that satisfies certain conditions allowing a learning algorithm to (efficiently) identify L within L. In this paper, we introduce the notion of positive characteristic set, referring to characteristic sets of only positive examples. These are of importance in the context of learning from positive examples only. We study this notion for classes of relational pattern languages, which are of relevance to various applications in string processing.

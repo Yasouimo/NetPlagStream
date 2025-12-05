@@ -1,0 +1,15 @@
+Title: Equilibrium Portfolio Selection under Utility-Variance Analysis of Log Returns in Incomplete Markets
+URL: http://arxiv.org/abs/2511.05861v1
+Published: 2025-11-08 05:28:36+00:00
+----------------------------------------
+This paper investigates a time-inconsistent portfolio selection problem in the incomplete mar ket model, integrating expected utility maximization with risk control. The objective functional
+  balances the expected utility and variance on log returns, giving rise to time inconsistency and
+  motivating the search of a time-consistent equilibrium strategy. We characterize the equilibrium
+  via a coupled quadratic backward stochastic differential equation (BSDE) system and establish
+  the existence theory in two special cases: (i) two Brownian motions driven the price dynamics
+  and the factor process are independent with $ρ= 0$; (ii) the trading strategy is constrained to
+  be bounded. For the general case with correlation coefficient $ρ\neq 0$, we introduce the notion
+  of an approximate time-consistent equilibrium. By employing the solution structure from the
+  equilibrium in the case $ρ= 0$, we can construct an approximate time-consistent equilibrium in
+  the general case with an error of order $O(ρ^2)$. Numerical examples and financial insights based
+  on deep learning algorithms are also presented.

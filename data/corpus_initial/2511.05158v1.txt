@@ -1,0 +1,5 @@
+Title: Follow-Me in Micro-Mobility with End-to-End Imitation Learning
+URL: http://arxiv.org/abs/2511.05158v1
+Published: 2025-11-07 11:24:20+00:00
+----------------------------------------
+Autonomous micro-mobility platforms face challenges from the perspective of the typical deployment environment: large indoor spaces or urban areas that are potentially crowded and highly dynamic. While social navigation algorithms have progressed significantly, optimizing user comfort and overall user experience over other typical metrics in robotics (e.g., time or distance traveled) is understudied. Specifically, these metrics are critical in commercial applications. In this paper, we show how imitation learning delivers smoother and overall better controllers, versus previously used manually-tuned controllers. We demonstrate how DAAV's autonomous wheelchair achieves state-of-the-art comfort in follow-me mode, in which it follows a human operator assisting persons with reduced mobility (PRM). This paper analyzes different neural network architectures for end-to-end control and demonstrates their usability in real-world production-level deployments.

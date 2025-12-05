@@ -1,0 +1,5 @@
+Title: A Tight Lower Bound for Non-stochastic Multi-armed Bandits with Expert Advice
+URL: http://arxiv.org/abs/2511.00257v1
+Published: 2025-10-31 21:01:53+00:00
+----------------------------------------
+We determine the minimax optimal expected regret in the classic non-stochastic multi-armed bandit with expert advice problem, by proving a lower bound that matches the upper bound of Kale (2014). The two bounds determine the minimax optimal expected regret to be $Θ\left( \sqrt{T K \log (N/K) } \right)$, where $K$ is the number of arms, $N$ is the number of experts, and $T$ is the time horizon.

@@ -1,0 +1,5 @@
+Title: From Model Training to Model Raising
+URL: http://arxiv.org/abs/2511.09287v2
+Published: 2025-11-12 12:54:35+00:00
+----------------------------------------
+Current AI training methods align models with human values only after their core capabilities have been established, resulting in models that are easily misaligned and lack deep-rooted value systems. We propose a paradigm shift from "model training" to "model raising", in which alignment is woven into a model's development from the start. We identify several key components for this paradigm, all centered around redesigning the training corpus: reframing training data from a first-person perspective, recontextualizing information as lived experience, simulating social interactions, and scaffolding the ordering of training data. We expect that this redesign of the training corpus will lead to an early commitment to values from the first training token onward, such that knowledge, skills, and values are intrinsically much harder to separate. In an ecosystem in which large language model capabilities start overtaking human capabilities in many tasks, this seems to us like a critical need.

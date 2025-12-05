@@ -1,0 +1,5 @@
+Title: SQLSpace: A Representation Space for Text-to-SQL to Discover and Mitigate Robustness Gaps
+URL: http://arxiv.org/abs/2510.27532v1
+Published: 2025-10-31 15:05:11+00:00
+----------------------------------------
+We introduce SQLSpace, a human-interpretable, generalizable, compact representation for text-to-SQL examples derived with minimal human intervention. We demonstrate the utility of these representations in evaluation with three use cases: (i) closely comparing and contrasting the composition of popular text-to-SQL benchmarks to identify unique dimensions of examples they evaluate, (ii) understanding model performance at a granular level beyond overall accuracy scores, and (iii) improving model performance through targeted query rewriting based on learned correctness estimation. We show that SQLSpace enables analysis that would be difficult with raw examples alone: it reveals compositional differences between benchmarks, exposes performance patterns obscured by accuracy alone, and supports modeling of query success.

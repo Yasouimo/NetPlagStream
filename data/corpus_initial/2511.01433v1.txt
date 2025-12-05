@@ -1,0 +1,5 @@
+Title: CG-FKAN: Compressed-Grid Federated Kolmogorov-Arnold Networks for Communication Constrained Environment
+URL: http://arxiv.org/abs/2511.01433v1
+Published: 2025-11-03 10:31:14+00:00
+----------------------------------------
+Federated learning (FL), widely used in privacy-critical applications, suffers from limited interpretability, whereas Kolmogorov-Arnold Networks (KAN) address this limitation via learnable spline functions. However, existing FL studies applying KAN overlook the communication overhead introduced by grid extension, which is essential for modeling complex functions. In this letter, we propose CG-FKAN, which compresses extended grids by sparsifying and transmitting only essential coefficients under a communication budget. Experiments show that CG-FKAN achieves up to 13.6% lower RMSE than fixed-grid KAN in communication-constrained settings. In addition, we derive a theoretical upper bound on its approximation error.

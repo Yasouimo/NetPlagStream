@@ -1,0 +1,7 @@
+Title: STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection
+URL: http://arxiv.org/abs/2511.15339v1
+Published: 2025-11-19 10:58:40+00:00
+----------------------------------------
+Automotive telemetry data exhibits slow drifts and fast spikes, often within the same sequence, making reliable anomaly detection challenging. Standard reconstruction-based methods, including sequence variational autoencoders (VAEs), use a single latent process and therefore mix heterogeneous time scales, which can smooth out spikes or inflate variances and weaken anomaly separation.
+  In this paper, we present STREAM-VAE, a variational autoencoder for anomaly detection in automotive telemetry time-series data. Our model uses a dual-path encoder to separate slow drift and fast spike signal dynamics, and a decoder that represents transient deviations separately from the normal operating pattern. STREAM-VAE is designed for deployment, producing stable anomaly scores across operating modes for both in-vehicle monitors and backend fleet analytics.
+  Experiments on an automotive telemetry dataset and the public SMD benchmark show that explicitly separating drift and spike dynamics improves robustness compared to strong forecasting, attention, graph, and VAE baselines.

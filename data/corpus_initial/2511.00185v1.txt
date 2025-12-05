@@ -1,0 +1,7 @@
+Title: SHAP values through General Fourier Representations: Theory and Applications
+URL: http://arxiv.org/abs/2511.00185v1
+Published: 2025-10-31 18:41:36+00:00
+----------------------------------------
+This article establishes a rigorous spectral framework for the mathematical analysis of SHAP values. We show that any predictive model defined on a discrete or multi-valued input space admits a generalized Fourier expansion with respect to an orthonormalisation tensor-product basis constructed under a product probability measure. Within this setting, each SHAP attribution can be represented as a linear functional of the model's Fourier coefficients.
+  Two complementary regimes are studied. In the deterministic regime, we derive quantitative stability estimates for SHAP values under Fourier truncation, showing that the attribution map is Lipschitz continuous with respect to the distance between predictors. In the probabilistic regime, we consider neural networks in their infinite-width limit and prove convergence of SHAP values toward those induced by the corresponding Gaussian process prior, with explicit error bounds in expectation and with high probability based on concentration inequalities.
+  We also provide a numerical experiment on a clinical unbalanced dataset to validate the theoretical findings.

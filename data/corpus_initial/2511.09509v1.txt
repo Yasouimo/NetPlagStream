@@ -1,0 +1,5 @@
+Title: Quasi-Newton Compatible Actor-Critic for Deterministic Policies
+URL: http://arxiv.org/abs/2511.09509v1
+Published: 2025-11-12 17:49:02+00:00
+----------------------------------------
+In this paper, we propose a second-order deterministic actor-critic framework in reinforcement learning that extends the classical deterministic policy gradient method to exploit curvature information of the performance function. Building on the concept of compatible function approximation for the critic, we introduce a quadratic critic that simultaneously preserves the true policy gradient and an approximation of the performance Hessian. A least-squares temporal difference learning scheme is then developed to estimate the quadratic critic parameters efficiently. This construction enables a quasi-Newton actor update using information learned by the critic, yielding faster convergence compared to first-order methods. The proposed approach is general and applicable to any differentiable policy class. Numerical examples demonstrate that the method achieves improved convergence and performance over standard deterministic actor-critic baselines.

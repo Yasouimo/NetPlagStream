@@ -1,0 +1,5 @@
+Title: Downlink Channel Estimation for mmWave Systems with Impulsive Interference
+URL: http://arxiv.org/abs/2511.02291v1
+Published: 2025-11-04 06:11:25+00:00
+----------------------------------------
+In this paper, we investigate a channel estimation problem in a downlink millimeter-wave (mmWave) multiple-input multiple-output (MIMO) system, which suffers from impulsive interference caused by hardware non-idealities or external disruptions. Specifically, impulsive interference presents a significant challenge to channel estimation due to its sporadic, unpredictable, and high-power nature. To tackle this issue, we develop a Bayesian channel estimation technique based on variational inference (VI) that leverages the sparsity of the mmWave channel in the angular domain and the intermittent nature of impulsive interference to minimize channel estimation errors. The proposed technique employs mean-field approximation to approximate posterior inference and integrates VI into the sparse Bayesian learning (SBL) framework. Simulation results demonstrate that the proposed technique outperforms baselines in terms of channel estimation accuracy.

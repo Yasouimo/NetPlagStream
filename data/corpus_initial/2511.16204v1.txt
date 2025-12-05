@@ -1,0 +1,8 @@
+Title: Causal Synthetic Data Generation in Recruitment
+URL: http://arxiv.org/abs/2511.16204v1
+Published: 2025-11-20 10:14:33+00:00
+----------------------------------------
+The importance of Synthetic Data Generation (SDG) has increased significantly in domains where data quality is poor or access is limited due to privacy and regulatory constraints. One such domain is recruitment, where publicly available datasets are scarce due to the sensitive nature of information typically found in curricula vitae, such as gender, disability status, or age. %
+This lack of accessible, representative data presents a significant obstacle to the development of fair and transparent machine learning models, particularly ranking algorithms that require large volumes of data to effectively learn how to recommend candidates. In the absence of such data, these models are prone to poor generalisation and may fail to perform reliably in real-world scenarios. %
+Recent advances in Causal Generative Models (CGMs) offer a promising solution. CGMs enable the generation of synthetic datasets that preserve the underlying causal relationships within the data, providing greater control over fairness and interpretability in the data generation process. %
+In this study, we present a specialised SDG method involving two CGMs: one modelling job offers and the other modelling curricula. Each model is structured according to a causal graph informed by domain expertise. We use these models to generate synthetic datasets and evaluate the fairness of candidate rankings under controlled scenarios that introduce specific biases.

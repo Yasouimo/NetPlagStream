@@ -1,0 +1,5 @@
+Title: Particle Monte Carlo methods for Lattice Field Theory
+URL: http://arxiv.org/abs/2511.15196v1
+Published: 2025-11-19 07:31:46+00:00
+----------------------------------------
+High-dimensional multimodal sampling problems from lattice field theory (LFT) have become important benchmarks for machine learning assisted sampling methods. We show that GPU-accelerated particle methods, Sequential Monte Carlo (SMC) and nested sampling, provide a strong classical baseline that matches or outperforms state-of-the-art neural samplers in sample quality and wall-clock time on standard scalar field theory benchmarks, while also estimating the partition function. Using only a single data-driven covariance for tuning, these methods achieve competitive performance without problem-specific structure, raising the bar for when learned proposals justify their training cost.
