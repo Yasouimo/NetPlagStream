@@ -1,4 +1,4 @@
-# NetPlag-Stream — Continuous Plagiarism Detection on Distributed Architecture
+# NetPlag-Stream — Continuous Plagiarism Detection on Distributed Architecture 
 
 NetPlag-Stream is a real-time plagiarism detection system built using Big Data
 technologies. It combines Spark Structured Streaming, HDFS, and Elasticsearch to
